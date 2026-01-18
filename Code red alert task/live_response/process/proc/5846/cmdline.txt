@@ -1,0 +1,2 @@
+/bin/bash
+/opt/company/scripts/generate_reports.sh

@@ -1,0 +1,9 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 3 root root    0 Nov 23 14:09 ..
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 default_dev_flags
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 eh_deadline
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 inq_timeout
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 max_luns
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 scan
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 scsi_logging_level

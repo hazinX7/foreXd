@@ -1,0 +1,27 @@
+total 0
+dr-x------ 2 mark mark 24 Nov 23 13:45 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 13:44 ..
+lr-x------ 1 mark mark 64 Nov 23 13:45 0 -> /dev/null
+l-wx------ 1 mark mark 64 Nov 23 13:45 1 -> pipe:[37619]
+lrwx------ 1 mark mark 64 Nov 23 13:45 10 -> /memfd:wayland-cursor (deleted)
+lrwx------ 1 mark mark 64 Nov 23 13:45 11 -> socket:[38832]
+lrwx------ 1 mark mark 64 Nov 23 13:45 12 -> socket:[38834]
+lrwx------ 1 mark mark 64 Nov 23 13:45 13 -> anon_inode:[eventfd]
+lr-x------ 1 mark mark 64 Nov 23 13:45 14 -> anon_inode:inotify
+lr-x------ 1 mark mark 64 Nov 23 13:45 15 -> /home/mark/.local/share/gvfs-metadata/root (deleted)
+lr-x------ 1 mark mark 64 Nov 23 13:45 16 -> /home/mark/.local/share/gvfs-metadata/root-5f9f7b66.log (deleted)
+lr-x------ 1 mark mark 64 Nov 23 13:45 18 -> pipe:[37634]
+lr-x------ 1 mark mark 64 Nov 23 13:45 19 -> /home/mark/.local/share/gvfs-metadata/home (deleted)
+l-wx------ 1 mark mark 64 Nov 23 13:45 2 -> pipe:[37619]
+lr-x------ 1 mark mark 64 Nov 23 13:45 20 -> /home/mark/.local/share/gvfs-metadata/home-4afab7f9.log (deleted)
+l-wx------ 1 mark mark 64 Nov 23 13:45 21 -> pipe:[37634]
+lrwx------ 1 mark mark 64 Nov 23 13:45 22 -> /memfd:pulseaudio (deleted)
+lrwx------ 1 mark mark 64 Nov 23 13:45 23 -> socket:[37636]
+lrwx------ 1 mark mark 64 Nov 23 13:45 24 -> /home/mark/.cache/event-sound-cache.tdb.2063c01f4177464c98009f8e51944ab0.x86_64-pc-linux-gnu
+lrwx------ 1 mark mark 64 Nov 23 13:45 3 -> socket:[37618]
+lrwx------ 1 mark mark 64 Nov 23 13:45 4 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 13:45 5 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 13:45 6 -> socket:[38830]
+lrwx------ 1 mark mark 64 Nov 23 13:45 7 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 13:45 8 -> socket:[37625]
+lrwx------ 1 mark mark 64 Nov 23 13:45 9 -> anon_inode:[eventfd]

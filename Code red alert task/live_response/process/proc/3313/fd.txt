@@ -1,0 +1,46 @@
+total 0
+dr-x------ 2 mark mark 43 Nov 23 12:25 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:21 ..
+lr-x------ 1 mark mark 64 Nov 23 12:25 0 -> /dev/null
+lrwx------ 1 mark mark 64 Nov 23 12:25 1 -> socket:[20225]
+l-wx------ 1 mark mark 64 Nov 23 12:25 10 -> pipe:[22734]
+lrwx------ 1 mark mark 64 Nov 23 12:25 11 -> anon_inode:[eventpoll]
+lr-x------ 1 mark mark 64 Nov 23 12:25 12 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark 64 Nov 23 12:25 13 -> socket:[23780]
+lrwx------ 1 mark mark 64 Nov 23 12:25 14 -> socket:[22528]
+lrwx------ 1 mark mark 64 Nov 23 12:25 15 -> socket:[23783]
+lrwx------ 1 mark mark 64 Nov 23 12:25 16 -> socket:[22728]
+lrwx------ 1 mark mark 64 Nov 23 12:25 17 -> socket:[20279]
+lrwx------ 1 mark mark 64 Nov 23 12:25 18 -> socket:[23734]
+lr-x------ 1 mark mark 64 Nov 23 12:25 19 -> pipe:[22736]
+lrwx------ 1 mark mark 64 Nov 23 12:25 2 -> socket:[20225]
+l-wx------ 1 mark mark 64 Nov 23 12:25 20 -> pipe:[22736]
+lr-x------ 1 mark mark 64 Nov 23 12:25 21 -> pipe:[22737]
+l-wx------ 1 mark mark 64 Nov 23 12:25 22 -> pipe:[22737]
+lr-x------ 1 mark mark 64 Nov 23 12:25 23 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 24 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 25 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 26 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 27 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 28 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 29 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 3 -> pipe:[22734]
+lr-x------ 1 mark mark 64 Nov 23 12:25 30 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 31 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 32 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 33 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 34 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 35 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 36 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark 64 Nov 23 12:25 39 -> anon_inode:[eventfd]
+lr-x------ 1 mark mark 64 Nov 23 12:25 4 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 40 -> pipe:[22741]
+l-wx------ 1 mark mark 64 Nov 23 12:25 41 -> pipe:[22741]
+lr-x------ 1 mark mark 64 Nov 23 12:25 42 -> pipe:[23781]
+l-wx------ 1 mark mark 64 Nov 23 12:25 43 -> pipe:[23781]
+lr-x------ 1 mark mark 64 Nov 23 12:25 44 -> /home/mark/snap/firefox/common/.cache/mozilla/firefox/91fl88ia.default/startupCache/scriptCache-child-current.bin
+lr-x------ 1 mark mark 64 Nov 23 12:25 5 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:25 6 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:25 7 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:25 8 -> /snap/firefox/7355/usr/lib/firefox/omni.ja
+lr-x------ 1 mark mark 64 Nov 23 12:25 9 -> /snap/firefox/7355/usr/lib/firefox/browser/omni.ja

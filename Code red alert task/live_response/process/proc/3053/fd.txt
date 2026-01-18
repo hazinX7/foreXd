@@ -1,0 +1,13 @@
+total 0
+dr-x------ 2 mark mark 10 Nov 23 12:21 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:21 ..
+lr-x------ 1 mark mark 64 Nov 23 12:21 0 -> /dev/null
+lrwx------ 1 mark mark 64 Nov 23 12:21 1 -> socket:[20225]
+lrwx------ 1 mark mark 64 Nov 23 12:21 2 -> socket:[20225]
+lrwx------ 1 mark mark 64 Nov 23 12:21 3 -> socket:[22524]
+l-wx------ 1 mark mark 64 Nov 23 12:21 4 -> pipe:[22525]
+lr-x------ 1 mark mark 64 Nov 23 12:21 5 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:21 6 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:21 7 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:21 8 -> /snap/firefox/7355/usr/lib/firefox/omni.ja
+lr-x------ 1 mark mark 64 Nov 23 12:21 9 -> /snap/firefox/7355/usr/lib/firefox/browser/omni.ja

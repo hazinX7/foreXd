@@ -1,0 +1,8 @@
+SHELL=/bin/sh
+PWD=/root
+LOGNAME=root
+_=/usr/bin/bash
+HOME=/root
+LANG=ru_RU.UTF-8
+SHLVL=2
+PATH=/usr/bin:/bin

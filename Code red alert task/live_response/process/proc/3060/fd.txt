@@ -1,0 +1,31 @@
+total 0
+dr-x------ 2 mark mark 28 Nov 23 12:25 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:21 ..
+lr-x------ 1 mark mark 64 Nov 23 12:25 0 -> /dev/null
+lrwx------ 1 mark mark 64 Nov 23 12:25 1 -> socket:[20225]
+l-wx------ 1 mark mark 64 Nov 23 12:25 10 -> pipe:[22543]
+lrwx------ 1 mark mark 64 Nov 23 12:25 11 -> anon_inode:[eventpoll]
+l-wx------ 1 mark mark 64 Nov 23 12:25 12 -> pipe:[20416]
+lrwx------ 1 mark mark 64 Nov 23 12:25 13 -> socket:[22528]
+lrwx------ 1 mark mark 64 Nov 23 12:25 15 -> socket:[22533]
+lrwx------ 1 mark mark 64 Nov 23 12:25 16 -> socket:[20279]
+lrwx------ 1 mark mark 64 Nov 23 12:25 17 -> socket:[22534]
+lr-x------ 1 mark mark 64 Nov 23 12:25 18 -> pipe:[20400]
+l-wx------ 1 mark mark 64 Nov 23 12:25 19 -> pipe:[20400]
+lrwx------ 1 mark mark 64 Nov 23 12:25 2 -> socket:[20225]
+lr-x------ 1 mark mark 64 Nov 23 12:25 20 -> pipe:[20401]
+l-wx------ 1 mark mark 64 Nov 23 12:25 21 -> pipe:[20401]
+lr-x------ 1 mark mark 64 Nov 23 12:25 22 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 23 -> pipe:[22547]
+l-wx------ 1 mark mark 64 Nov 23 12:25 24 -> pipe:[22547]
+lrwx------ 1 mark mark 64 Nov 23 12:25 26 -> anon_inode:[eventfd]
+lr-x------ 1 mark mark 64 Nov 23 12:25 27 -> pipe:[22548]
+l-wx------ 1 mark mark 64 Nov 23 12:25 28 -> pipe:[22548]
+lrwx------ 1 mark mark 64 Nov 23 12:25 29 -> socket:[20422]
+lr-x------ 1 mark mark 64 Nov 23 12:25 3 -> pipe:[22543]
+lr-x------ 1 mark mark 64 Nov 23 12:25 4 -> pipe:[20416]
+lr-x------ 1 mark mark 64 Nov 23 12:25 5 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:25 6 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:25 7 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:25 8 -> /snap/firefox/7355/usr/lib/firefox/omni.ja
+lr-x------ 1 mark mark 64 Nov 23 12:25 9 -> /snap/firefox/7355/usr/lib/firefox/browser/omni.ja

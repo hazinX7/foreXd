@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///var/log/apache2/access.log" added="2025-11-19T13:56:37.400210Z" modified="2025-11-19T20:30:43.136364Z" visited="2025-11-19T23:29:00.819995+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T20:30:43.136363Z" count="33"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/apache2/error.log" added="2025-11-19T13:56:41.469594Z" modified="2025-11-19T20:30:43.136367Z" visited="2025-11-19T23:29:00.829050+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T20:30:43.136367Z" count="55"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/auth.log" added="2025-11-19T13:56:54.475485Z" modified="2025-11-23T11:05:40.581715Z" visited="2025-11-23T14:05:38.818144+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T11:05:40.581715Z" count="172"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/.bash_logout" added="2025-11-19T14:19:38.127169Z" modified="2025-11-19T15:01:58.497135Z" visited="2025-11-19T18:01:43.553811+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T15:01:58.497135Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/.ssh/authorized_keys" added="2025-11-19T14:27:11.470920Z" modified="2025-11-19T14:32:36.430686Z" visited="2025-11-19T17:27:08.421433+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T14:32:36.430686Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_ubuntu/org.sh" added="2025-11-19T14:42:22.480715Z" modified="2025-11-19T15:01:58.497131Z" visited="2025-11-19T18:01:43.598581+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T15:01:58.497131Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/.sudo_as_admin_successful" added="2025-11-19T14:58:58.470838Z" modified="2025-11-19T14:59:32.869113Z" visited="2025-11-19T17:58:56.111417+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T14:59:32.869113Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/accountant-junior/work/todo.txt" added="2025-11-19T15:01:19.535738Z" modified="2025-11-19T15:01:58.497132Z" visited="2025-11-19T18:01:46.790419+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T15:01:58.497132Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/accountant-chief/work/todo.txt" added="2025-11-19T15:01:36.165177Z" modified="2025-11-19T15:01:58.497133Z" visited="2025-11-19T18:01:46.784113+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T15:01:58.497133Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/auditor-senior/work/todo.txt" added="2025-11-19T15:01:49.472142Z" modified="2025-11-19T15:01:58.497130Z" visited="2025-11-19T18:01:46.769909+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T15:01:58.497130Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/cso/.bashrc" added="2025-11-19T15:04:23.481387Z" modified="2025-11-19T15:04:41.373807Z" visited="2025-11-19T18:04:22.579085+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T15:04:41.373807Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/sysadmin-mid/work/todo.txt" added="2025-11-19T15:04:41.373804Z" modified="2025-11-20T19:15:53.369233Z" visited="2025-11-20T22:06:05.491670+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T19:15:53.369233Z" count="96"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/dmesg" added="2025-11-19T15:34:51.473399Z" modified="2025-11-20T18:12:58.441285Z" visited="2025-11-20T21:12:11.619206+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T18:12:58.441285Z" count="64"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/mysmsservice.conf.txt" added="2025-11-19T16:37:53.968748Z" modified="2025-11-20T19:15:53.369236Z" visited="2025-11-20T22:06:02.790779+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T19:15:53.369236Z" count="37"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_ubuntu/mysmsservice.conf.txt" added="2025-11-19T16:47:51.959762Z" modified="2025-11-19T20:23:26.101747Z" visited="2025-11-19T23:21:49.319970+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T20:23:26.101747Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apache2/sites-available/mysmsservice.conf" added="2025-11-19T20:21:51.311489Z" modified="2025-11-19T20:23:26.101753Z" visited="2025-11-19T23:21:49.559738+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T20:23:26.101752Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apache2/ports.conf" added="2025-11-19T20:22:16.315094Z" modified="2025-11-19T20:23:26.101742Z" visited="2025-11-19T23:22:12.651191+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T20:23:26.101741Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///etc/apache2/ports.conf" added="2025-11-19T20:22:24.322670Z" modified="2025-11-19T20:30:43.136377Z" visited="2025-11-19T23:29:09.526161+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-19T20:30:43.136377Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/apache2/mysms_access.log" added="2025-11-19T20:29:35.393431Z" modified="2025-11-23T11:05:40.581713Z" visited="2025-11-23T14:05:38.817685+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T11:05:40.581713Z" count="33"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/alternatives.log" added="2025-11-19T20:41:20.439190Z" modified="2025-11-20T18:12:58.441284Z" visited="2025-11-20T21:12:11.581652+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T18:12:58.441284Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/cron.sh" added="2025-11-20T17:47:23.491943Z" modified="2025-11-20T19:15:53.369217Z" visited="2025-11-20T22:06:02.800937+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T19:15:53.369216Z" count="37"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/active_users.txt" added="2025-11-20T18:11:34.491004Z" modified="2025-11-20T18:12:58.441288Z" visited="2025-11-20T21:12:13.838126+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T18:12:58.441288Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/financial_overview.txt" added="2025-11-20T18:11:45.488838Z" modified="2025-11-20T18:12:58.441291Z" visited="2025-11-20T21:12:13.848658+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T18:12:58.441291Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/last_update.txt" added="2025-11-20T18:11:53.491027Z" modified="2025-11-20T18:12:58.441287Z" visited="2025-11-20T21:12:13.800682+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T18:12:58.441286Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/network_stats.txt" added="2025-11-20T18:12:02.493923Z" modified="2025-11-20T18:12:58.441282Z" visited="2025-11-20T21:12:13.818252+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T18:12:58.441281Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/web_server_status.txt" added="2025-11-20T18:12:16.488706Z" modified="2025-11-20T18:12:58.441290Z" visited="2025-11-20T21:12:13.843153+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T18:12:58.441290Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/active_users.txt" added="2025-11-20T18:17:09.251083Z" modified="2025-11-23T08:53:44.093500Z" visited="2025-11-23T11:50:33.419317+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T08:53:44.093498Z" count="53"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/financial_overview.txt" added="2025-11-20T18:17:13.491443Z" modified="2025-11-20T18:24:16.493323Z" visited="2025-11-20T21:18:46.293086+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T18:24:16.493323Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/web_server_status.txt" added="2025-11-20T18:18:48.494279Z" modified="2025-11-23T08:53:44.093507Z" visited="2025-11-23T11:50:33.418277+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T08:53:44.093506Z" count="47"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/last_update.txt" added="2025-11-20T18:19:06.490190Z" modified="2025-11-23T08:53:44.093508Z" visited="2025-11-23T11:50:33.418644+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T08:53:44.093508Z" count="19"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/network_stats.txt" added="2025-11-20T18:39:16.490057Z" modified="2025-11-20T18:39:17.181813Z" visited="2025-11-20T21:39:13.165506+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T18:39:17.181812Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/company/scripts/generate_reports.sh" added="2025-11-20T19:06:05.495739Z" modified="2025-11-20T19:15:53.369223Z" visited="2025-11-20T22:06:02.802179+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-20T19:15:53.369222Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/company/reports/generation.log" added="2025-11-20T19:09:41.490201Z" modified="2025-11-23T11:05:40.581719Z" visited="2025-11-23T14:05:38.727411+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T11:05:40.581719Z" count="41"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd" added="2025-11-23T08:50:35.856619Z" modified="2025-11-23T08:53:44.093502Z" visited="2025-11-23T11:50:33.419015+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T08:53:44.093501Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/apache2/access.log.1" added="2025-11-23T09:27:44.164521Z" modified="2025-11-23T11:05:40.581720Z" visited="2025-11-23T14:05:38.818499+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T11:05:40.581720Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/uac-main/artifacts/bodyfile/bodyfile.yaml" added="2025-11-23T10:48:25.870238Z" modified="2025-11-23T11:05:40.581718Z" visited="2025-11-23T14:05:38.823341+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T11:05:40.581718Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/uac-main/README.md" added="2025-11-23T11:05:40.581716Z" modified="2025-11-23T11:05:40.581717Z" visited="2025-11-23T14:05:38.810737+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-11-23T11:05:40.581716Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,22 @@
+NEXT                            LEFT LAST                              PASSED UNIT                           ACTIVATES
+Sun 2025-11-23 14:10:00 MSK      22s Sun 2025-11-23 14:00:02 MSK     9min ago sysstat-collect.timer          sysstat-collect.service
+Sun 2025-11-23 14:12:41 MSK  3min 4s Sun 2025-11-23 13:34:16 MSK    35min ago fwupd-refresh.timer            fwupd-refresh.service
+Sun 2025-11-23 14:33:22 MSK    23min Sun 2025-11-23 13:32:40 MSK    36min ago anacron.timer                  anacron.service
+Sun 2025-11-23 14:39:00 MSK    29min Sun 2025-11-23 14:09:07 MSK      29s ago phpsessionclean.timer          phpsessionclean.service
+Sun 2025-11-23 15:13:31 MSK  1h 3min -                                      - man-db.timer                   man-db.service
+Sun 2025-11-23 15:35:43 MSK 1h 26min -                                      - apt-daily.timer                apt-daily.service
+Mon 2025-11-24 00:00:00 MSK       9h Sun 2025-11-23 12:16:50 MSK 1h 52min ago dpkg-db-backup.timer           dpkg-db-backup.service
+Mon 2025-11-24 00:00:00 MSK       9h Sun 2025-11-23 12:16:50 MSK 1h 52min ago logrotate.timer                logrotate.service
+Mon 2025-11-24 00:07:00 MSK       9h Sun 2025-11-23 12:16:50 MSK 1h 52min ago sysstat-summary.timer          sysstat-summary.service
+Mon 2025-11-24 01:12:40 MSK      11h Wed 2025-11-19 16:06:05 MSK            - fstrim.timer                   fstrim.service
+Mon 2025-11-24 06:02:19 MSK      15h Sun 2025-11-23 13:13:20 MSK    56min ago apt-daily-upgrade.timer        apt-daily-upgrade.service
+Mon 2025-11-24 06:02:25 MSK      15h Sun 2025-11-23 13:34:10 MSK    35min ago motd-news.timer                motd-news.service
+Mon 2025-11-24 12:21:49 MSK      22h Sun 2025-11-23 12:21:49 MSK 1h 47min ago update-notifier-download.timer update-notifier-download.service
+Mon 2025-11-24 12:31:43 MSK      22h Sun 2025-11-23 12:31:43 MSK 1h 37min ago systemd-tmpfiles-clean.timer   systemd-tmpfiles-clean.service
+Thu 2025-11-27 12:42:42 MSK   3 days Wed 2025-11-19 16:06:11 MSK            - update-notifier-motd.timer     update-notifier-motd.service
+Sun 2025-11-30 03:10:22 MSK   6 days Sun 2025-11-23 12:17:35 MSK 1h 52min ago e2scrub_all.timer              e2scrub_all.service
+-                                  - -                                      - apport-autoreport.timer        apport-autoreport.service
+-                                  - -                                      - snapd.snap-repair.timer        snapd.snap-repair.service
+-                                  - -                                      - ua-timer.timer                 ua-timer.service
+
+19 timers listed.

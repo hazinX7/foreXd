@@ -1,0 +1,4 @@
+2025-11-20 22:17:34.972994 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#c09f6(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: clion
+2025-11-20 22:17:34.973596 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1c47f(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: clion

@@ -1,0 +1,13 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+NOTIFY_SOCKET=/run/systemd/notify
+LISTEN_PID=685
+LISTEN_FDS=1
+LISTEN_FDNAMES=dbus.socket
+SYSTEMD_NSS_DYNAMIC_BYPASS=1
+USER=root
+INVOCATION_ID=b8f66d9507944f6890dd2cc1ae6a33f2
+JOURNAL_STREAM=9:8289
+SYSTEMD_EXEC_PID=685
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/dbus.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

@@ -1,0 +1,8 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+USER=root
+INVOCATION_ID=8b4f6a86b3bb41a89b6fb7181613c917
+JOURNAL_STREAM=9:9265
+SYSTEMD_EXEC_PID=746
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/switcheroo-control.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

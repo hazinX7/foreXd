@@ -1,0 +1,5 @@
+NAME                     UUID                                  TYPE      DEVICE 
+????????? ??????????? 1  1d236254-dff3-3a1a-8abe-9f111c23c5cb  ethernet  enp0s8 
+????????? ??????????? 2  7290025b-9c84-3ff7-ae72-eecc027a02a8  ethernet  enp0s9 
+netplan-enp0s3           1eef7e45-3b9d-3043-bee3-fc5925c90273  ethernet  enp0s3 
+lo                       5ac27b6b-5be3-4edd-a7e0-c24af4ec0e73  loopback  lo     

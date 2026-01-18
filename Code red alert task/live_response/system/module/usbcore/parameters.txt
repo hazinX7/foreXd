@@ -1,0 +1,14 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 4 root root    0 Nov 23 14:09 ..
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 authorized_default
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 autosuspend
+-r--r--r-- 1 root root 4096 Nov 23 14:09 blinkenlights
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 initial_descriptor_timeout
+-r--r--r-- 1 root root 4096 Nov 23 14:09 nousb
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 old_scheme_first
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 quirks
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 usbfs_memory_mb
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 usbfs_snoop
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 usbfs_snoop_max
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 use_both_schemes

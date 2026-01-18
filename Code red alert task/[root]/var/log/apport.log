@@ -1,0 +1,11 @@
+INFO: apport (pid 1695) 2025-11-23 12:16:56,626: called for global pid 1528, signal 6, core limit 0, dump mode 1
+ERROR: apport (pid 1695) 2025-11-23 12:16:56,626: is_closing_session(): Could not determine DBUS socket.
+INFO: apport (pid 1695) 2025-11-23 12:16:56,627: executable: /usr/bin/ibus-daemon (command line "ibus-daemon --panel disable")
+INFO: apport (pid 1695) 2025-11-23 12:16:59,962: wrote report /var/crash/_usr_bin_ibus-daemon.120.crash
+INFO: apport (pid 4113) 2025-11-23 12:26:36,363: called for global pid 4053, signal 11, core limit 0, dump mode 1
+ERROR: apport (pid 4113) 2025-11-23 12:26:36,363: is_closing_session(): Could not determine DBUS socket.
+INFO: apport (pid 4113) 2025-11-23 12:26:36,364: executable: /usr/bin/nautilus (command line "/usr/bin/nautilus --gapplication-service")
+INFO: apport (pid 4113) 2025-11-23 12:26:44,962: wrote report /var/crash/_usr_bin_nautilus.1000.crash
+INFO: apport (pid 4236) 2025-11-23 12:27:10,007: called for global pid 4186, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 4236) 2025-11-23 12:27:11,156: executable: /usr/bin/nautilus (command line "/usr/bin/nautilus --gapplication-service")
+INFO: apport (pid 4236) 2025-11-23 12:27:19,030: wrote report /var/crash/_usr_bin_nautilus.1000.crash

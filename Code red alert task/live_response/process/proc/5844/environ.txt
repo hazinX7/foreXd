@@ -1,0 +1,8 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+USER=root
+INVOCATION_ID=51a3c130b3ae49259cfec19a2ab52d79
+JOURNAL_STREAM=9:9264
+SYSTEMD_EXEC_PID=743
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/cron.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

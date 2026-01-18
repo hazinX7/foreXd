@@ -1,0 +1,195 @@
+2025-11-19 12:49:55.839070 INFO flavor_provider: Using default flavor: UbuntuFlavor.ubuntu
+2025-11-19 12:49:55.840345 INFO subiquity_server: Waiting server up to 90 seconds
+2025-11-19 12:49:55.841152 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:49:56.849315 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:49:58.493920 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:49:59.511524 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:00.534003 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:01.540674 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:02.589004 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:03.598260 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:04.607137 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:05.608856 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:06.636304 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:07.640572 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:08.645519 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:09.653285 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:10.654990 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:11.663335 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:12.676082 ERROR subiquity_server: SocketException: Connection failed (OS Error: No such file or directory, errno = 2), address = /run/subiquity/socket, port = 0
+2025-11-19 12:50:13.693842 INFO subiquity_server: ApplicationState.CLOUD_INIT_WAIT
+2025-11-19 12:50:14.713937 INFO subiquity_server: ApplicationState.CLOUD_INIT_WAIT
+2025-11-19 12:50:16.013708 INFO subiquity_server: ApplicationState.WAITING
+2025-11-19 12:50:16.014858 INFO subiquity_client: Opening socket to Endpoint(/run/subiquity/socket )
+2025-11-19 12:50:16.016500 DEBUG desktop: Disabling automounting
+2025-11-19 12:50:16.017272 DEBUG subiquity_client: POST http://localhost/meta/client_variant?variant=%22desktop%22
+2025-11-19 12:50:16.023895 DEBUG telemetry: Writing report to /var/log/installer/telemetry
+2025-11-19 12:50:16.051688 DEBUG subiquity_client: ==> setVariant(Variant.DESKTOP) null
+2025-11-19 12:50:16.078229 INFO subiquity_status: null => ApplicationStatus(state: ApplicationState.WAITING, confirmingTty: , error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 12:50:16.079081 DEBUG subiquity_client: POST http://localhost/meta/mark_configured?endpoint_names=%5B%22mirror%22%2C%22proxy%22%2C%22ssh%22%2C%22snaplist%22%2C%22ubuntu_pro%22%5D
+2025-11-19 12:50:16.087387 DEBUG subiquity_client: ==> markConfigured([mirror, proxy, ssh, snaplist, ubuntu_pro]) null
+2025-11-19 12:50:18.371863 DEBUG desktop: Disabling screen blanking
+2025-11-19 12:50:18.402619 DEBUG desktop: Disabling screensaver
+2025-11-19 12:50:18.432031 DEBUG desktop: Inhibiting Gnome session
+2025-11-19 12:50:18.532823 INFO subiquity_status: null => ApplicationStatus(state: ApplicationState.WAITING, confirmingTty: , error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 12:50:18.533527 INFO subiquity_status: null => ApplicationStatus(state: ApplicationState.WAITING, confirmingTty: , error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 12:50:18.533793 DEBUG subiquity_client: GET http://localhost/meta/interactive_sections
+2025-11-19 12:50:18.540993 DEBUG subiquity_client: ==> getInteractiveSections() null
+2025-11-19 12:50:18.541953 INFO locale: Loaded 75 languages
+2025-11-19 12:50:18.542039 DEBUG subiquity_client: GET http://localhost/locale
+2025-11-19 12:50:18.547385 DEBUG subiquity_client: ==> locale() "en_US.UTF-8"
+2025-11-19 12:50:18.547462 INFO locale: Selected en_US as UI language
+2025-11-19 12:50:29.001589 INFO locale: Set en_US as system locale
+2025-11-19 12:50:29.001874 DEBUG subiquity_client: POST http://localhost/locale
+2025-11-19 12:50:29.010135 DEBUG subiquity_client: ==> setLocale(en_US.UTF-8) null
+2025-11-19 12:50:33.868784 INFO locale: Selected ru_RU as UI language
+2025-11-19 12:50:34.383134 INFO locale: Set ru_RU as system locale
+2025-11-19 12:50:34.383393 DEBUG subiquity_client: POST http://localhost/locale
+2025-11-19 12:50:34.385432 DEBUG subiquity_client: ==> setLocale(ru_RU.UTF-8) null
+2025-11-19 12:50:35.745416 DEBUG subiquity_client: GET http://localhost/storage/has_rst
+2025-11-19 12:50:35.752876 DEBUG subiquity_client: ==> hasRst() false
+2025-11-19 12:50:35.757395 DEBUG subiquity_client: GET http://localhost/keyboard
+2025-11-19 12:50:35.780598 DEBUG subiquity_client: ==> keyboard() {"setting": {"layout": "ru", "variant": "", "toggle": null}, "layouts": [{"code": "af", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f", "variants": [{"code": "", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f"}, {"code": "ps", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u041f\u0443\u0448\u0442\u0443\u043d\u0441\u043a\u0430\u044f"}, {"code": "olpc-ps", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u041f\u0443\u0448\u0442\u0443\u043d\u0441\u043a\u0430\u044f (\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d, OLPC)"}, {"code": "fa-olpc", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u041f\u0435\u0440\u0441\u0438\u0434\u0441\u043a\u0430\u044f (\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d, Dari OLPC)"}, {"code": "uz", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u0423\u0437\u0431\u0435\u043a\u0441\u043a\u0430\u044f (\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d)"}, {"code": "uz-olpc", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u0423\u0437\u0431\u0435\u043a\u0441\u043a\u0430\u044f (\u0410\u0444\u0433\u0...
+2025-11-19 12:50:35.782453 INFO keyboard: Loaded 99 keyboard layouts
+2025-11-19 12:50:35.782483 DEBUG subiquity_client: GET http://localhost/keyboard
+2025-11-19 12:50:35.792420 DEBUG subiquity_client: ==> keyboard() {"setting": {"layout": "ru", "variant": "", "toggle": null}, "layouts": [{"code": "af", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f", "variants": [{"code": "", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f"}, {"code": "ps", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u041f\u0443\u0448\u0442\u0443\u043d\u0441\u043a\u0430\u044f"}, {"code": "olpc-ps", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u041f\u0443\u0448\u0442\u0443\u043d\u0441\u043a\u0430\u044f (\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d, OLPC)"}, {"code": "fa-olpc", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u041f\u0435\u0440\u0441\u0438\u0434\u0441\u043a\u0430\u044f (\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d, Dari OLPC)"}, {"code": "uz", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u0423\u0437\u0431\u0435\u043a\u0441\u043a\u0430\u044f (\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d)"}, {"code": "uz-olpc", "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0430\u044f - \u0423\u0437\u0431\u0435\u043a\u0441\u043a\u0430\u044f (\u0410\u0444\u0433\u0...
+2025-11-19 12:50:35.794133 INFO keyboard: Initialized ru () keyboard layout
+2025-11-19 12:50:35.794266 INFO keyboard: Updated ru () input source
+2025-11-19 12:50:35.825678 DEBUG subiquity_client: POST http://localhost/keyboard/input_source?user=%22ubuntu%22
+2025-11-19 12:50:35.990251 DEBUG subiquity_client: ==> setInputSource(KeyboardSetting(layout: ru, variant: , toggle: null)) null
+2025-11-19 12:50:46.913219 INFO keyboard: Selected gb () keyboard layout
+2025-11-19 12:50:46.913326 INFO keyboard: Updated gb () input source
+2025-11-19 12:50:46.967889 DEBUG subiquity_client: POST http://localhost/keyboard/input_source?user=%22ubuntu%22
+2025-11-19 12:50:47.111302 DEBUG subiquity_client: ==> setInputSource(KeyboardSetting(layout: gb, variant: , toggle: null)) null
+2025-11-19 12:50:48.357649 INFO keyboard: Saved gb () keyboard layout
+2025-11-19 12:50:48.358430 DEBUG subiquity_client: POST http://localhost/keyboard
+2025-11-19 12:50:49.251347 DEBUG subiquity_client: ==> setKeyboard(KeyboardSetting(layout: gb, variant: , toggle: null)) null
+2025-11-19 12:50:49.273557 DEBUG network: Update devices: [EthernetDevice(vendor: Intel Corporation, model: 82540EM Gigabit Ethernet Controller (PRO/1000 MT Desktop Adapter), state: activated)]
+2025-11-19 12:50:49.273916 DEBUG network: Selected connection mode: ethernet
+2025-11-19 12:50:49.274038 DEBUG network: Update devices: []
+2025-11-19 12:50:49.274100 DEBUG network: Update devices: []
+2025-11-19 12:50:53.304950 DEBUG subiquity_client: GET http://localhost/refresh?wait=true
+2025-11-19 12:50:53.308893 DEBUG subiquity_client: ==> checkRefresh() {"availability": "AVAILABLE", "current_snap_version": "0+git.c5e4e62ce", "new_snap_version": "0+git.c03fe36df"}
+2025-11-19 12:50:53.308988 DEBUG refresh: RefreshState.status(status: RefreshStatus(availability: RefreshCheckState.AVAILABLE, currentSnapVersion: 0+git.c5e4e62ce, newSnapVersion: 0+git.c03fe36df))
+2025-11-19 12:51:02.740547 DEBUG subiquity_client: GET http://localhost/source
+2025-11-19 12:51:02.740855 DEBUG subiquity_client: GET http://localhost/drivers
+2025-11-19 12:51:02.740898 DEBUG subiquity_client: GET http://localhost/codecs
+2025-11-19 12:51:02.743781 DEBUG subiquity_client: ==> source() {"sources": [{"name": "Ubuntu Desktop (minimized)", "description": "A minimal but usable Ubuntu Desktop.", "id": "ubuntu-desktop-minimal", "size": 4581707776, "variant": "desktop", "default": true}, {"name": "Ubuntu Desktop", "description": "A full featured Ubuntu Desktop.", "id": "ubuntu-desktop", "size": 5994938368, "variant": "desktop", "default": false}], "current_id": "ubuntu-desktop-minimal", "search_drivers": false}
+2025-11-19 12:51:02.748294 DEBUG subiquity_client: ==> getDrivers() {"install": false, "drivers": null, "local_only": true, "search_drivers": false}
+2025-11-19 12:51:02.749209 DEBUG subiquity_client: ==> getCodecs() {"install": false}
+2025-11-19 12:51:06.694631 DEBUG subiquity_client: GET http://localhost/source
+2025-11-19 12:51:06.695185 DEBUG subiquity_client: GET http://localhost/drivers
+2025-11-19 12:51:06.695310 DEBUG subiquity_client: GET http://localhost/codecs
+2025-11-19 12:51:06.697515 DEBUG subiquity_client: ==> source() {"sources": [{"name": "Ubuntu Desktop (minimized)", "description": "A minimal but usable Ubuntu Desktop.", "id": "ubuntu-desktop-minimal", "size": 4581707776, "variant": "desktop", "default": true}, {"name": "Ubuntu Desktop", "description": "A full featured Ubuntu Desktop.", "id": "ubuntu-desktop", "size": 5994938368, "variant": "desktop", "default": false}], "current_id": "ubuntu-desktop-minimal", "search_drivers": false}
+2025-11-19 12:51:06.698695 DEBUG subiquity_client: ==> getDrivers() {"install": false, "drivers": null, "local_only": true, "search_drivers": false}
+2025-11-19 12:51:06.699778 DEBUG subiquity_client: ==> getCodecs() {"install": false}
+2025-11-19 12:51:09.010783 INFO source: Install codecs: true
+2025-11-19 12:51:09.705529 DEBUG subiquity_client: POST http://localhost/source?source_id=%22ubuntu-desktop-minimal%22&search_drivers=false
+2025-11-19 12:51:09.705747 DEBUG subiquity_client: POST http://localhost/drivers
+2025-11-19 12:51:09.705767 DEBUG subiquity_client: POST http://localhost/codecs
+2025-11-19 12:51:09.708703 DEBUG subiquity_client: ==> setSource(ubuntu-desktop-minimal) null
+2025-11-19 12:51:09.708844 DEBUG subiquity_client: GET http://localhost/storage/v2?wait=true
+2025-11-19 12:51:09.826670 DEBUG subiquity_client: ==> setDrivers(false) null
+2025-11-19 12:51:09.826980 DEBUG subiquity_client: ==> setCodecs(true) null
+2025-11-19 12:51:13.814661 DEBUG subiquity_client: ==> getStorageV2() {"status": "DONE", "error_report": null, "disks": [{"id": "disk-sda", "label": "VBOX_HARDDISK_VB469c3dd6-4dfcf5f3", "type": "local disk", "size": 35285565440, "usage_labels": [], "partitions": [{"offset": 1048576, "size": 35282485248, "usable": "YES", "$type": "Gap"}], "ok_for_guided": true, "ptable": null, "preserve": true, "path": "/dev/sda", "boot_device": false, "can_be_boot_device": true, "model": "VBOX HARDDISK", "vendor": null, "has_in_use_partition": false, "requires_reformat": false}], "need_root": true, "need_boot": true, "install_minimum_size": 9316597760}
+2025-11-19 12:51:13.816262 DEBUG storage: Update storage: StorageResponseV2(status: ProbeStatus.DONE, errorReport: null, disks: [Disk(id: disk-sda, label: VBOX_HARDDISK_VB469c3dd6-4dfcf5f3, type: local disk, size: 35285565440, usageLabels: [], partitions: [PartitionOrGap.gap(offset: 1048576, size: 35282485248, usable: GapUsable.YES)], okForGuided: true, ptable: null, preserve: true, path: /dev/sda, bootDevice: false, canBeBootDevice: true, model: VBOX HARDDISK, vendor: null, hasInUsePartition: false, requiresReformat: false)], needRoot: true, needBoot: true, installMinimumSize: 9316597760)
+2025-11-19 12:51:13.817024 DEBUG subiquity_client: GET http://localhost/storage/v2?wait=true
+2025-11-19 12:51:14.048798 DEBUG subiquity_client: ==> getStorageV2() {"status": "DONE", "error_report": null, "disks": [{"id": "disk-sda", "label": "VBOX_HARDDISK_VB469c3dd6-4dfcf5f3", "type": "local disk", "size": 35285565440, "usage_labels": [], "partitions": [{"offset": 1048576, "size": 35282485248, "usable": "YES", "$type": "Gap"}], "ok_for_guided": true, "ptable": null, "preserve": true, "path": "/dev/sda", "boot_device": false, "can_be_boot_device": true, "model": "VBOX HARDDISK", "vendor": null, "has_in_use_partition": false, "requires_reformat": false}], "need_root": true, "need_boot": true, "install_minimum_size": 9316597760}
+2025-11-19 12:51:14.049124 DEBUG storage: Update storage: StorageResponseV2(status: ProbeStatus.DONE, errorReport: null, disks: [Disk(id: disk-sda, label: VBOX_HARDDISK_VB469c3dd6-4dfcf5f3, type: local disk, size: 35285565440, usageLabels: [], partitions: [PartitionOrGap.gap(offset: 1048576, size: 35282485248, usable: GapUsable.YES)], okForGuided: true, ptable: null, preserve: true, path: /dev/sda, bootDevice: false, canBeBootDevice: true, model: VBOX HARDDISK, vendor: null, hasInUsePartition: false, requiresReformat: false)], needRoot: true, needBoot: true, installMinimumSize: 9316597760)
+2025-11-19 12:51:14.049265 DEBUG subiquity_client: GET http://localhost/storage/v2/guided?wait=true
+2025-11-19 12:51:14.055286 DEBUG subiquity_client: ==> getGuidedStorageV2(true) {"status": "DONE", "error_report": null, "configured": null, "targets": [{"disk_id": "disk-sda", "ptable": null, "allowed": ["DIRECT", "LVM", "LVM_LUKS", "ZFS", "ZFS_LUKS_KEYSTORE"], "disallowed": [{"capability": "CORE_BOOT_ENCRYPTED", "reason": "CORE_BOOT_ENCRYPTION_UNAVAILABLE", "message": "not encrypting device storage as checking TPM gave: not a supported EFI system"}, {"capability": "CORE_BOOT_UNENCRYPTED", "reason": "NOT_UEFI", "message": "Enhanced secure boot options only available on UEFI systems."}], "$type": "GuidedStorageTargetReformat"}, {"allowed": ["MANUAL"], "disallowed": [], "$type": "GuidedStorageTargetManual"}]}
+2025-11-19 12:51:14.055457 DEBUG storage: select guided capability: GuidedCapability.DIRECT
+2025-11-19 12:51:14.055479 DEBUG subiquity_client: GET http://localhost/storage/has_bitlocker
+2025-11-19 12:51:14.061702 DEBUG subiquity_client: ==> hasBitLocker() []
+2025-11-19 12:51:25.504237 DEBUG subiquity_client: GET http://localhost/storage/v2?wait=true
+2025-11-19 12:51:25.507367 DEBUG subiquity_client: ==> getStorageV2() {"status": "DONE", "error_report": null, "disks": [{"id": "disk-sda", "label": "VBOX_HARDDISK_VB469c3dd6-4dfcf5f3", "type": "local disk", "size": 35285565440, "usage_labels": [], "partitions": [{"offset": 1048576, "size": 35282485248, "usable": "YES", "$type": "Gap"}], "ok_for_guided": true, "ptable": null, "preserve": true, "path": "/dev/sda", "boot_device": false, "can_be_boot_device": true, "model": "VBOX HARDDISK", "vendor": null, "has_in_use_partition": false, "requires_reformat": false}], "need_root": true, "need_boot": true, "install_minimum_size": 9316597760}
+2025-11-19 12:51:25.507596 DEBUG storage: Update storage: StorageResponseV2(status: ProbeStatus.DONE, errorReport: null, disks: [Disk(id: disk-sda, label: VBOX_HARDDISK_VB469c3dd6-4dfcf5f3, type: local disk, size: 35285565440, usageLabels: [], partitions: [PartitionOrGap.gap(offset: 1048576, size: 35282485248, usable: GapUsable.YES)], okForGuided: true, ptable: null, preserve: true, path: /dev/sda, bootDevice: false, canBeBootDevice: true, model: VBOX HARDDISK, vendor: null, hasInUsePartition: false, requiresReformat: false)], needRoot: true, needBoot: true, installMinimumSize: 9316597760)
+2025-11-19 12:51:25.509152 DEBUG subiquity_client: GET http://localhost/storage/v2/guided?wait=true
+2025-11-19 12:51:25.513139 DEBUG subiquity_client: ==> getGuidedStorageV2(true) {"status": "DONE", "error_report": null, "configured": null, "targets": [{"disk_id": "disk-sda", "ptable": null, "allowed": ["DIRECT", "LVM", "LVM_LUKS", "ZFS", "ZFS_LUKS_KEYSTORE"], "disallowed": [{"capability": "CORE_BOOT_ENCRYPTED", "reason": "CORE_BOOT_ENCRYPTION_UNAVAILABLE", "message": "not encrypting device storage as checking TPM gave: not a supported EFI system"}, {"capability": "CORE_BOOT_UNENCRYPTED", "reason": "NOT_UEFI", "message": "Enhanced secure boot options only available on UEFI systems."}], "$type": "GuidedStorageTargetReformat"}, {"allowed": ["MANUAL"], "disallowed": [], "$type": "GuidedStorageTargetManual"}]}
+2025-11-19 12:51:25.513361 DEBUG storage: select guided target: GuidedStorageTarget.reformat(diskId: disk-sda, ptable: null, allowed: [GuidedCapability.DIRECT, GuidedCapability.LVM, GuidedCapability.LVM_LUKS, GuidedCapability.ZFS, GuidedCapability.ZFS_LUKS_KEYSTORE], disallowed: [GuidedDisallowedCapability(capability: GuidedCapability.CORE_BOOT_ENCRYPTED, reason: GuidedDisallowedCapabilityReason.CORE_BOOT_ENCRYPTION_UNAVAILABLE, message: not encrypting device storage as checking TPM gave: not a supported EFI system), GuidedDisallowedCapability(capability: GuidedCapability.CORE_BOOT_UNENCRYPTED, reason: GuidedDisallowedCapabilityReason.NOT_UEFI, message: Enhanced secure boot options only available on UEFI systems.)])
+2025-11-19 12:51:25.513547 DEBUG subiquity_client: GET http://localhost/identity
+2025-11-19 12:51:25.517373 DEBUG subiquity_client: ==> identity() {"realname": "", "username": "", "crypted_password": "", "hostname": ""}
+2025-11-19 12:51:25.518326 INFO identity: Loaded identity: Identity(realname: , username: , password: , hostname: , autoLogin: false)
+2025-11-19 12:51:25.533332 INFO identity: Read product name: VirtualBox
+2025-11-19 12:51:25.533521 DEBUG subiquity_client: GET http://localhost/active_directory/has_support
+2025-11-19 12:51:25.535985 DEBUG subiquity_client: ==> hasActiveDirectorySupport() true
+2025-11-19 12:51:28.153905 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22a%22
+2025-11-19 12:51:28.223966 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:28.295317 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22ad%22
+2025-11-19 12:51:28.298677 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:29.508568 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22adn%22
+2025-11-19 12:51:29.512587 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:29.602930 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22adni%22
+2025-11-19 12:51:29.607512 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:29.770386 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22adnib%22
+2025-11-19 12:51:29.773885 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:30.752645 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22adni%22
+2025-11-19 12:51:30.758123 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:30.914426 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22adn%22
+2025-11-19 12:51:30.917385 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:31.088298 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22ad%22
+2025-11-19 12:51:31.092598 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:32.648502 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22adm%22
+2025-11-19 12:51:32.651133 DEBUG subiquity_client: ==> identity/validate_username() "SYSTEM_RESERVED"
+2025-11-19 12:51:32.771865 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22admi%22
+2025-11-19 12:51:32.774492 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:32.902717 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22admin%22
+2025-11-19 12:51:32.905753 DEBUG subiquity_client: ==> identity/validate_username() "SYSTEM_RESERVED"
+2025-11-19 12:51:39.645331 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22admi%22
+2025-11-19 12:51:39.647656 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:40.146532 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22adm%22
+2025-11-19 12:51:40.149378 DEBUG subiquity_client: ==> identity/validate_username() "SYSTEM_RESERVED"
+2025-11-19 12:51:40.178564 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22ad%22
+2025-11-19 12:51:40.181360 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:40.215217 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22a%22
+2025-11-19 12:51:40.225492 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:42.343882 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22m%22
+2025-11-19 12:51:42.346324 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:42.513578 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22ma%22
+2025-11-19 12:51:42.515306 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:42.706053 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22mar%22
+2025-11-19 12:51:42.708291 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:51:42.997547 DEBUG subiquity_client: GET http://localhost/identity/validate_username?username=%22mark%22
+2025-11-19 12:51:42.999622 DEBUG subiquity_client: ==> identity/validate_username() "OK"
+2025-11-19 12:52:01.071781 INFO identity: Saved identity: Identity(realname: Mark, username: mark, password: *******, hostname: mark-VirtualBox, autoLogin: false)
+2025-11-19 12:52:01.094828 DEBUG subiquity_client: POST http://localhost/meta/mark_configured?endpoint_names=%5B%22active_directory%22%5D
+2025-11-19 12:52:01.111347 DEBUG post-install: saved 0 entries to /tmp/bootstrap-postinst.conf
+2025-11-19 12:52:01.138383 DEBUG subiquity_client: POST http://localhost/identity
+2025-11-19 12:52:01.140344 DEBUG subiquity_client: ==> markConfigured([active_directory]) null
+2025-11-19 12:52:01.142738 DEBUG subiquity_client: ==> setIdentity(IdentityData(realname: Mark, username: mark, cryptedPassword: $6$tBRVGysiRimdF2P1$ueO43fm4DadPjI.n/hJN48Mk2M6lU42E7DkkqmPt.WSp.qj/Mq1aNdGEheILhhwiWk20n.wSP72YHb0xR/xV3., hostname: mark-VirtualBox)) null
+2025-11-19 12:52:01.143521 DEBUG subiquity_client: GET http://localhost/timezone
+2025-11-19 12:52:01.145393 DEBUG subiquity_client: ==> timezone() {"timezone": "Europe/Moscow", "from_geoip": true}
+2025-11-19 12:52:01.145431 DEBUG timezone: Initialized Europe/Moscow
+2025-11-19 12:52:02.865214 DEBUG timezone: Saved Europe/Moscow
+2025-11-19 12:52:02.865540 DEBUG subiquity_client: POST http://localhost/timezone?tz=%22Europe%2FMoscow%22
+2025-11-19 12:52:02.960650 DEBUG subiquity_client: ==> setTimezone(Europe/Moscow) null
+2025-11-19 12:52:02.961107 DEBUG subiquity_client: POST http://localhost/storage/v2/reset
+2025-11-19 12:52:02.982616 DEBUG subiquity_client: ==> resetStorageV2() {"status": "DONE", "error_report": null, "disks": [{"id": "disk-sda", "label": "VBOX_HARDDISK_VB469c3dd6-4dfcf5f3", "type": "local disk", "size": 35285565440, "usage_labels": [], "partitions": [{"offset": 1048576, "size": 35282485248, "usable": "YES", "$type": "Gap"}], "ok_for_guided": true, "ptable": null, "preserve": true, "path": "/dev/sda", "boot_device": false, "can_be_boot_device": true, "model": "VBOX HARDDISK", "vendor": null, "has_in_use_partition": false, "requires_reformat": false}], "need_root": true, "need_boot": true, "install_minimum_size": 9316597760}
+2025-11-19 12:52:02.982773 DEBUG subiquity_client: POST http://localhost/storage/v2/guided
+2025-11-19 12:52:02.985814 DEBUG subiquity_client: ==> setGuidedStorageV2({"target":{"disk_id":"disk-sda","ptable":null,"allowed":["DIRECT","LVM","LVM_LUKS","ZFS","ZFS_LUKS_KEYSTORE"],"disallowed":[{"capability":"CORE_BOOT_ENCRYPTED","reason":"CORE_BOOT_ENCRYPTION_UNAVAILABLE","message":"not encrypting device storage as checking TPM gave: not a supported EFI system"},{"capability":"CORE_BOOT_UNENCRYPTED","reason":"NOT_UEFI","message":"Enhanced secure boot options only available on UEFI systems."}],"$type":"GuidedStorageTargetReformat"},"capability":"DIRECT","password":null,"recovery_key":null,"sizing_policy":"ALL","reset_partition":false,"reset_partition_size":null}) {"status":"DONE","error_report":null,"configured":{"target":{"disk_id":"disk-sda","ptable":null,"allowed":["DIRECT","LVM","LVM_LUKS","ZFS","ZFS_LUKS_KEYSTORE"],"disallowed":[{"capability":"CORE_BOOT_ENCRYPTED","reason":"CORE_BOOT_ENCRYPTION_UNAVAILABLE","message":"not encrypting device storage as checking TPM gave: not a supported EFI system"},{"capability":"CORE_BOOT_UNENCRYPTED","reason":"NOT_UEFI","message":"Enhanced secure boot options only available on UEFI systems."}],"$type":"GuidedStorageTargetReformat"},"capability":"DIRECT","password":null,"recovery_key":null,"sizing_policy":"ALL","reset_partition":false,"reset_partition_size":null},"targets":[{"disk_id":"disk-sda","ptable":null,"allowed":["DIRECT","LVM","LVM_LUKS","ZFS","ZFS_LUKS_KEYSTORE"],"disallowed":[{"capability":"CORE_BOOT_ENCRYPTED","reason":"CORE_BOOT_ENCRYPTION_UNAVAILABLE","message":"not encrypting device storage as checking TPM gave: not a supported EFI system"},{"capability":"CORE_BOOT_UNENCRYPTED","reason":"NOT_UEFI","message":"Enhanced secure boot options only available on UEFI systems."}],"$type":"GuidedStorageTargetReformat"},{"allowed":["MANUAL"],"disallowed":[],"$type":"GuidedStorageTargetManual"}]}
+2025-11-19 12:52:02.985936 DEBUG subiquity_client: POST http://localhost/storage/v2
+2025-11-19 12:52:02.997027 DEBUG subiquity_client: ==> setStorageV2() {"status": "DONE", "error_report": null, "disks": [{"id": "disk-sda", "label": "VBOX_HARDDISK_VB469c3dd6-4dfcf5f3", "type": "local disk", "size": 35285565440, "usage_labels": [], "partitions": [{"size": 1048576, "number": 1, "preserve": false, "wipe": null, "annotations": ["new", "BIOS grub spacer"], "mount": null, "format": null, "grub_device": null, "boot": true, "os": null, "offset": 1048576, "estimated_min_size": -1, "resize": null, "path": "/dev/sda1", "is_in_use": false, "$type": "Partition"}, {"size": 35281436672, "number": 2, "preserve": false, "wipe": "superblock", "annotations": ["new", "to be formatted as ext4", "mounted at /"], "mount": "/", "format": "ext4", "grub_device": null, "boot": false, "os": null, "offset": 2097152, "estimated_min_size": -1, "resize": null, "path": "/dev/sda2", "is_in_use": false, "$type": "Partition"}], "ok_for_guided": true, "ptable": "gpt", "preserve": false, "path": "/dev/sda", "boot_device": true, "can_be_boot_device": true, "model": "VBOX HARDDISK", "vendor": null, "has_in_use_partition": false, "requires_reformat": false}], "need_root": false, "need_boot": false, "install_minimum_size": 9316597760}
+2025-11-19 12:52:02.997294 DEBUG subiquity_client: GET http://localhost/storage/v2?wait=true
+2025-11-19 12:52:03.005432 DEBUG subiquity_client: ==> getStorageV2() {"status": "DONE", "error_report": null, "disks": [{"id": "disk-sda", "label": "VBOX_HARDDISK_VB469c3dd6-4dfcf5f3", "type": "local disk", "size": 35285565440, "usage_labels": [], "partitions": [{"size": 1048576, "number": 1, "preserve": false, "wipe": null, "annotations": ["new", "BIOS grub spacer"], "mount": null, "format": null, "grub_device": null, "boot": true, "os": null, "offset": 1048576, "estimated_min_size": -1, "resize": null, "path": "/dev/sda1", "is_in_use": false, "$type": "Partition"}, {"size": 35281436672, "number": 2, "preserve": false, "wipe": "superblock", "annotations": ["new", "to be formatted as ext4", "mounted at /"], "mount": "/", "format": "ext4", "grub_device": null, "boot": false, "os": null, "offset": 2097152, "estimated_min_size": -1, "resize": null, "path": "/dev/sda2", "is_in_use": false, "$type": "Partition"}], "ok_for_guided": true, "ptable": "gpt", "preserve": false, "path": "/dev/sda", "boot_device": true, "can_be_boot_device": true, "model": "VBOX HARDDISK", "vendor": null, "has_in_use_partition": false, "requires_reformat": false}], "need_root": false, "need_boot": false, "install_minimum_size": 9316597760}
+2025-11-19 12:52:03.005554 DEBUG storage: Update storage: StorageResponseV2(status: ProbeStatus.DONE, errorReport: null, disks: [Disk(id: disk-sda, label: VBOX_HARDDISK_VB469c3dd6-4dfcf5f3, type: local disk, size: 35285565440, usageLabels: [], partitions: [PartitionOrGap.partition(size: 1048576, number: 1, preserve: false, wipe: null, annotations: [new, BIOS grub spacer], mount: null, format: null, grubDevice: null, boot: true, os: null, offset: 1048576, estimatedMinSize: -1, resize: null, path: /dev/sda1, isInUse: false), PartitionOrGap.partition(size: 35281436672, number: 2, preserve: false, wipe: superblock, annotations: [new, to be formatted as ext4, mounted at /], mount: /, format: ext4, grubDevice: null, boot: false, os: null, offset: 2097152, estimatedMinSize: -1, resize: null, path: /dev/sda2, isInUse: false)], okForGuided: true, ptable: gpt, preserve: false, path: /dev/sda, bootDevice: true, canBeBootDevice: true, model: VBOX HARDDISK, vendor: null, hasInUsePartition: false, requiresReformat: false)], needRoot: false, needBoot: false, installMinimumSize: 9316597760)
+2025-11-19 12:52:03.005624 DEBUG subiquity_client: GET http://localhost/storage/v2/orig_config
+2025-11-19 12:52:03.027194 DEBUG subiquity_client: ==> getOriginalStorageV2() {"status": "DONE", "error_report": null, "disks": [{"id": "disk-sda", "label": "VBOX_HARDDISK_VB469c3dd6-4dfcf5f3", "type": "local disk", "size": 35285565440, "usage_labels": [], "partitions": [{"offset": 1048576, "size": 35282485248, "usable": "YES", "$type": "Gap"}], "ok_for_guided": true, "ptable": null, "preserve": true, "path": "/dev/sda", "boot_device": false, "can_be_boot_device": true, "model": "VBOX HARDDISK", "vendor": null, "has_in_use_partition": false, "requires_reformat": false}], "need_root": true, "need_boot": true, "install_minimum_size": 9316597760}
+2025-11-19 12:52:04.277764 DEBUG subiquity_client: GET http://localhost/meta/status
+2025-11-19 12:52:04.291577 INFO slides: No custom slides found, using default slides.
+2025-11-19 12:52:04.292281 DEBUG subiquity_client: ==> status() {"state": "WAITING", "confirming_tty": "", "error": null, "nonreportable_error": null, "cloud_init_ok": true, "interactive": true, "echo_syslog_id": "subiquity_echo.3945", "log_syslog_id": "subiquity_log.3945", "event_syslog_id": "subiquity_event.3945"}
+2025-11-19 12:52:04.292425 INFO subiquity_client: state: null => WAITING
+2025-11-19 12:52:04.338499 INFO subiquity_status: null => ApplicationStatus(state: ApplicationState.WAITING, confirmingTty: , error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 12:52:04.539527 DEBUG subiquity_client: POST http://localhost/meta/mark_configured?endpoint_names=%5B%22network%22%5D
+2025-11-19 12:52:04.553024 DEBUG subiquity_client: ==> markConfigured([network]) null
+2025-11-19 12:52:04.553107 DEBUG subiquity_client: POST http://localhost/meta/confirm?tty=%22%2Fdev%2Ftty1%22
+2025-11-19 12:52:04.553455 INFO subiquity_status: WAITING => ApplicationStatus(state: ApplicationState.NEEDS_CONFIRMATION, confirmingTty: , error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 12:52:04.553663 INFO subiquity_status: WAITING => ApplicationStatus(state: ApplicationState.NEEDS_CONFIRMATION, confirmingTty: , error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 12:52:04.586095 DEBUG subiquity_client: ==> confirm(/dev/tty1) null
+2025-11-19 12:52:04.586430 INFO subiquity_status: NEEDS_CONFIRMATION => ApplicationStatus(state: ApplicationState.RUNNING, confirmingTty: /dev/tty1, error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 12:52:04.586699 INFO subiquity_status: NEEDS_CONFIRMATION => ApplicationStatus(state: ApplicationState.RUNNING, confirmingTty: /dev/tty1, error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 12:59:39.552325 INFO subiquity_status: RUNNING => ApplicationStatus(state: ApplicationState.UU_RUNNING, confirmingTty: /dev/tty1, error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 12:59:39.557845 INFO subiquity_status: RUNNING => ApplicationStatus(state: ApplicationState.UU_RUNNING, confirmingTty: /dev/tty1, error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 13:01:23.841847 INFO subiquity_status: UU_RUNNING => ApplicationStatus(state: ApplicationState.LATE_COMMANDS, confirmingTty: /dev/tty1, error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 13:01:23.842637 INFO subiquity_status: UU_RUNNING => ApplicationStatus(state: ApplicationState.LATE_COMMANDS, confirmingTty: /dev/tty1, error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 13:01:26.673617 INFO subiquity_status: LATE_COMMANDS => ApplicationStatus(state: ApplicationState.DONE, confirmingTty: /dev/tty1, error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)
+2025-11-19 13:01:26.673936 INFO subiquity_status: LATE_COMMANDS => ApplicationStatus(state: ApplicationState.DONE, confirmingTty: /dev/tty1, error: null, nonreportableError: null, cloudInitOk: true, interactive: true, echoSyslogId: subiquity_echo.3945, logSyslogId: subiquity_log.3945, eventSyslogId: subiquity_event.3945)

@@ -1,0 +1,10 @@
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+PWD=/
+SYSTEMD_EXEC_PID=6465
+LANG=ru_RU.UTF-8
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/intel-firmware.service/memory.pressure
+INVOCATION_ID=e286dc8439e04ef8be25ad0d18e1f81d
+USER=root
+SHLVL=0
+JOURNAL_STREAM=9:37298
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin

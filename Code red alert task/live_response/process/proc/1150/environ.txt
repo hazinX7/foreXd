@@ -1,0 +1,14 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+NOTIFY_SOCKET=/run/systemd/notify
+TRIGGER_UNIT=cups.path
+TRIGGER_PATH=/var/cache/cups/org.cups.cupsd
+LISTEN_PID=1150
+LISTEN_FDS=1
+LISTEN_FDNAMES=cups.socket
+USER=root
+INVOCATION_ID=7f1b021e7b7d46ce89edb4311e91692c
+JOURNAL_STREAM=9:9060
+SYSTEMD_EXEC_PID=1150
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/cups.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

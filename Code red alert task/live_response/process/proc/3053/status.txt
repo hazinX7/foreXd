@@ -1,0 +1,61 @@
+Name:	forkserver
+Umask:	0002
+State:	S (sleeping)
+Tgid:	3053
+Ngid:	0
+Pid:	3053
+PPid:	2906
+TracerPid:	0
+Uid:	1000	1000	1000	1000
+Gid:	1000	1000	1000	1000
+FDSize:	128
+Groups:	4 24 27 30 46 100 114 124 1000 
+NStgid:	3053
+NSpid:	3053
+NSpgid:	2065
+NSsid:	2065
+Kthread:	0
+VmPeak:	 1348512 kB
+VmSize:	 1348512 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   35216 kB
+VmRSS:	   35216 kB
+RssAnon:	    8832 kB
+RssFile:	   26384 kB
+RssShmem:	       0 kB
+VmData:	    3640 kB
+VmStk:	     136 kB
+VmExe:	     696 kB
+VmLib:	  138772 kB
+VmPTE:	     304 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+untag_mask:	0xffffffffffffffff
+Threads:	1
+SigQ:	0/15545
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000000010040
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	000001ffffffffff
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	2
+Seccomp_filters:	2
+Speculation_Store_Bypass:	vulnerable
+SpeculationIndirectBranch:	always enabled
+Cpus_allowed:	3
+Cpus_allowed_list:	0-1
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	22
+nonvoluntary_ctxt_switches:	18
+x86_Thread_features:	
+x86_Thread_features_locked:	

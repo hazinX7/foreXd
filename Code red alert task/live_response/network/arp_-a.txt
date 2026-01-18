@@ -1,0 +1,5 @@
+_gateway (10.0.2.1) at 52:54:00:12:35:00 [ether] on enp0s9
+_gateway (192.168.54.1) at <incomplete> on enp0s3
+_gateway (192.168.0.1) at 50:91:e3:5a:c4:3a [ether] on enp0s8
+? (10.0.2.3) at 08:00:27:07:b0:18 [ether] on enp0s9
+? (192.168.54.102) at 08:00:27:ad:25:87 [ether] on enp0s3

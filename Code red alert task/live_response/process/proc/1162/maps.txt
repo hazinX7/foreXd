@@ -1,0 +1,182 @@
+00400000-00420000 r--p 00000000 08:02 920320                             /usr/bin/python3.12
+00420000-00703000 r-xp 00020000 08:02 920320                             /usr/bin/python3.12
+00703000-00a28000 r--p 00303000 08:02 920320                             /usr/bin/python3.12
+00a28000-00a29000 r--p 00627000 08:02 920320                             /usr/bin/python3.12
+00a29000-00ba7000 rw-p 00628000 08:02 920320                             /usr/bin/python3.12
+00ba7000-00bab000 rw-p 00000000 00:00 0 
+0e0b1000-0e3a2000 rw-p 00000000 00:00 0                                  [heap]
+72a510000000-72a510021000 rw-p 00000000 00:00 0 
+72a510021000-72a514000000 ---p 00000000 00:00 0 
+72a515fff000-72a516000000 ---p 00000000 00:00 0 
+72a516000000-72a516800000 rw-p 00000000 00:00 0 
+72a516800000-72a51689d000 r--p 00000000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+72a51689d000-72a5169e5000 r-xp 0009d000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+72a5169e5000-72a516a6c000 r--p 001e5000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+72a516a6c000-72a516a77000 r--p 0026b000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+72a516a77000-72a516a7a000 rw-p 00276000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+72a516a7a000-72a516a7e000 rw-p 00000000 00:00 0 
+72a516a9b000-72a516a9d000 r--p 00000000 08:02 929660                     /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+72a516a9d000-72a516aaa000 r-xp 00002000 08:02 929660                     /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+72a516aaa000-72a516aac000 r--p 0000f000 08:02 929660                     /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+72a516aac000-72a516aad000 r--p 00010000 08:02 929660                     /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+72a516aad000-72a516aae000 rw-p 00011000 08:02 929660                     /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+72a516aae000-72a516ab3000 r--p 00000000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+72a516ab3000-72a516ad5000 r-xp 00005000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+72a516ad5000-72a516adf000 r--p 00027000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+72a516adf000-72a516ae0000 r--p 00031000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+72a516ae0000-72a516ae1000 rw-p 00032000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+72a516ae1000-72a516ae3000 r--p 00000000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+72a516ae3000-72a516af1000 r-xp 00002000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+72a516af1000-72a516af3000 r--p 00010000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+72a516af3000-72a516af4000 r--p 00011000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+72a516af4000-72a516af5000 rw-p 00012000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+72a516af5000-72a516af9000 r--p 00000000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+72a516af9000-72a516b1d000 r-xp 00004000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+72a516b1d000-72a516b21000 r--p 00028000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+72a516b21000-72a516b22000 r--p 0002b000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+72a516b22000-72a516b23000 rw-p 0002c000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+72a516b23000-72a516b5d000 r--p 00000000 08:02 928951                     /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+72a516b5d000-72a516cbf000 r-xp 0003a000 08:02 928951                     /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+72a516cbf000-72a516d05000 r--p 0019c000 08:02 928951                     /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+72a516d05000-72a516d0d000 r--p 001e1000 08:02 928951                     /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+72a516d0d000-72a516d0e000 rw-p 001e9000 08:02 928951                     /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+72a516d0e000-72a516d0f000 rw-p 00000000 00:00 0 
+72a516d0f000-72a516d24000 r--p 00000000 08:02 921731                     /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+72a516d24000-72a516d43000 r-xp 00015000 08:02 921731                     /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+72a516d43000-72a516d5a000 r--p 00034000 08:02 921731                     /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+72a516d5a000-72a516d5c000 r--p 0004a000 08:02 921731                     /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+72a516d5c000-72a516d65000 rw-p 0004c000 08:02 921731                     /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+72a516d65000-72a516d9d000 r--p 00000000 08:02 930724                     /usr/lib/x86_64-linux-gnu/girepository-1.0/GLib-2.0.typelib
+72a516d9d000-72a516e9d000 rw-p 00000000 00:00 0 
+72a516e9d000-72a516e9f000 r--p 00000000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+72a516e9f000-72a516ea1000 r-xp 00002000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+72a516ea1000-72a516ea2000 r--p 00004000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+72a516ea2000-72a516ea3000 r--p 00004000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+72a516ea3000-72a516ea4000 rw-p 00005000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+72a516ea4000-72a516ea6000 r--p 00000000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+72a516ea6000-72a516ead000 r-xp 00002000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+72a516ead000-72a516eae000 r--p 00009000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+72a516eae000-72a516eaf000 r--p 0000a000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+72a516eaf000-72a516eb0000 rw-p 0000b000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+72a516eb0000-72a516ebf000 r--p 00000000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+72a516ebf000-72a516ef6000 r-xp 0000f000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+72a516ef6000-72a516f0f000 r--p 00046000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+72a516f0f000-72a516f12000 r--p 0005e000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+72a516f12000-72a516f13000 rw-p 00061000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+72a516f13000-72a516f1a000 r--p 00000000 08:02 929159                     /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+72a516f1a000-72a516f2c000 r-xp 00007000 08:02 929159                     /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+72a516f2c000-72a516f34000 r--p 00019000 08:02 929159                     /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+72a516f34000-72a516f35000 r--p 00021000 08:02 929159                     /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+72a516f35000-72a516f36000 rw-p 00022000 08:02 929159                     /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+72a516f36000-72a516f45000 r--p 00000000 08:02 923654                     /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+72a516f45000-72a516f77000 r-xp 0000f000 08:02 923654                     /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+72a516f77000-72a516f85000 r--p 00041000 08:02 923654                     /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+72a516f85000-72a516f87000 r--p 0004e000 08:02 923654                     /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+72a516f87000-72a516f8e000 rw-p 00050000 08:02 923654                     /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+72a516f8e000-72a516f8f000 rw-p 00000000 00:00 0 
+72a516f8f000-72a516f91000 r--p 00000000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+72a516f91000-72a516fff000 r-xp 00002000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+72a516fff000-72a517027000 r--p 00070000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+72a517027000-72a517028000 r--p 00097000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+72a517028000-72a517029000 rw-p 00098000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+72a517029000-72a517047000 r--p 00000000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+72a517047000-72a5170e7000 r-xp 0001e000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+72a5170e7000-72a51716f000 r--p 000be000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+72a51716f000-72a517170000 r--p 00146000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+72a517170000-72a517171000 rw-p 00147000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+72a517171000-72a5173a5000 rw-p 00000000 00:00 0 
+72a5173a5000-72a5173a9000 r--p 00000000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+72a5173a9000-72a5173bf000 r-xp 00004000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+72a5173bf000-72a5173c8000 r--p 0001a000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+72a5173c8000-72a5173c9000 r--p 00023000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+72a5173c9000-72a5173ca000 rw-p 00024000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+72a5173ca000-72a5173ce000 r--p 00000000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+72a5173ce000-72a517475000 r-xp 00004000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+72a517475000-72a517482000 r--p 000ab000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+72a517482000-72a517483000 r--p 000b7000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+72a517483000-72a517484000 rw-p 000b8000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+72a517484000-72a517487000 r--p 00000000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+72a517487000-72a5174a9000 r-xp 00003000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+72a5174a9000-72a5174b4000 r--p 00025000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+72a5174b4000-72a5174b5000 r--p 00030000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+72a5174b5000-72a5174b6000 rw-p 00031000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+72a5174b6000-72a5174b9000 r--p 00000000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+72a5174b9000-72a5174d4000 r-xp 00003000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+72a5174d4000-72a5174d6000 r--p 0001e000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+72a5174d6000-72a5174d7000 r--p 00020000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+72a5174d7000-72a5174d8000 rw-p 00021000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+72a5174d8000-72a5174e7000 r--p 00000000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+72a5174e7000-72a5175db000 r-xp 0000f000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+72a5175db000-72a517616000 r--p 00103000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+72a517616000-72a51761b000 r--p 0013e000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+72a51761b000-72a51761f000 rw-p 00143000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+72a51761f000-72a517620000 rw-p 00000000 00:00 0 
+72a517620000-72a517636000 r--p 00000000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+72a517636000-72a5176c5000 r-xp 00016000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+72a5176c5000-72a5176f3000 r--p 000a5000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+72a5176f3000-72a5176fe000 r--p 000d2000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+72a5176fe000-72a5176ff000 rw-p 000dd000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+72a5176ff000-72a517800000 rw-p 00000000 00:00 0 
+72a517800000-72a517aec000 r--p 00000000 08:02 972560                     /usr/lib/locale/locale-archive
+72a517b00000-72a517c00000 rw-p 00000000 00:00 0 
+72a517c00000-72a517c28000 r--p 00000000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+72a517c28000-72a517db0000 r-xp 00028000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+72a517db0000-72a517dff000 r--p 001b0000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+72a517dff000-72a517e03000 r--p 001fe000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+72a517e03000-72a517e05000 rw-p 00202000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+72a517e05000-72a517e12000 rw-p 00000000 00:00 0 
+72a517e14000-72a517e17000 r--p 00000000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+72a517e17000-72a517e1d000 r-xp 00003000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+72a517e1d000-72a517e1f000 r--p 00009000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+72a517e1f000-72a517e20000 r--p 0000b000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+72a517e20000-72a517e21000 rw-p 0000c000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+72a517e21000-72a517e2d000 r--p 00000000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+72a517e2d000-72a517e5d000 r-xp 0000c000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+72a517e5d000-72a517e6e000 r--p 0003c000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+72a517e6e000-72a517e6f000 r--p 0004c000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+72a517e6f000-72a517e70000 rw-p 0004d000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+72a517e72000-72a517e74000 r--p 00000000 08:02 921727                     /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+72a517e74000-72a517e76000 r-xp 00002000 08:02 921727                     /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+72a517e76000-72a517e77000 r--p 00004000 08:02 921727                     /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+72a517e77000-72a517e78000 r--p 00004000 08:02 921727                     /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+72a517e78000-72a517e79000 rw-p 00005000 08:02 921727                     /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+72a517e79000-72a517e7b000 r--p 00000000 08:02 920855                     /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+72a517e7b000-72a517e7d000 r-xp 00002000 08:02 920855                     /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+72a517e7d000-72a517e7e000 r--p 00004000 08:02 920855                     /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+72a517e7e000-72a517e7f000 r--p 00004000 08:02 920855                     /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+72a517e7f000-72a517e80000 rw-p 00005000 08:02 920855                     /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+72a517e80000-72a517e87000 r--p 00000000 08:02 921726                     /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+72a517e87000-72a517e97000 r-xp 00007000 08:02 921726                     /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+72a517e97000-72a517ea4000 r--p 00017000 08:02 921726                     /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+72a517ea4000-72a517ea5000 r--p 00023000 08:02 921726                     /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+72a517ea5000-72a517eab000 rw-p 00024000 08:02 921726                     /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+72a517eab000-72a517f0f000 rw-p 00000000 00:00 0 
+72a517f0f000-72a517f13000 r--p 00000000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+72a517f13000-72a517f30000 r-xp 00004000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+72a517f30000-72a517f38000 r--p 00021000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+72a517f38000-72a517f3a000 r--p 00028000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+72a517f3a000-72a517f3b000 rw-p 0002a000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+72a517f3b000-72a517f3d000 r--p 00000000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+72a517f3d000-72a517f4f000 r-xp 00002000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+72a517f4f000-72a517f55000 r--p 00014000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+72a517f55000-72a517f56000 r--p 0001a000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+72a517f56000-72a517f57000 rw-p 0001b000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+72a517f57000-72a517f67000 r--p 00000000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+72a517f67000-72a517fe6000 r-xp 00010000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+72a517fe6000-72a51803e000 r--p 0008f000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+72a51803e000-72a51803f000 r--p 000e7000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+72a51803f000-72a518040000 rw-p 000e8000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+72a518044000-72a518045000 rwxp 00000000 00:00 0 
+72a518045000-72a518049000 rw-p 00000000 00:00 0 
+72a518049000-72a518050000 r--s 00000000 08:02 919962                     /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+72a518050000-72a518052000 rw-p 00000000 00:00 0 
+72a518052000-72a518054000 r--p 00000000 00:00 0                          [vvar]
+72a518054000-72a518056000 r--p 00000000 00:00 0                          [vvar_vclock]
+72a518056000-72a518058000 r-xp 00000000 00:00 0                          [vdso]
+72a518058000-72a518059000 r--p 00000000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+72a518059000-72a518084000 r-xp 00001000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+72a518084000-72a51808e000 r--p 0002c000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+72a51808e000-72a518090000 r--p 00036000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+72a518090000-72a518092000 rw-p 00038000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffc5549b000-7ffc554bc000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

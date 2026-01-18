@@ -1,0 +1,16 @@
+total 0
+dr-x------ 2 root root 13 Nov 23 13:20 .
+dr-xr-xr-x 9 root root  0 Nov 23 13:20 ..
+lrwx------ 1 root root 64 Nov 23 13:20 0 -> /dev/null
+lrwx------ 1 root root 64 Nov 23 13:20 1 -> socket:[34417]
+lrwx------ 1 root root 64 Nov 23 13:25 11 -> socket:[35364]
+lrwx------ 1 root root 64 Nov 23 13:25 12 -> socket:[35372]
+lrwx------ 1 root root 64 Nov 23 13:25 13 -> socket:[35375]
+lrwx------ 1 root root 64 Nov 23 13:20 2 -> socket:[34417]
+lrwx------ 1 root root 64 Nov 23 13:20 3 -> socket:[35233]
+lrwx------ 1 root root 64 Nov 23 13:20 4 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 Nov 23 13:20 5 -> socket:[35347]
+lrwx------ 1 root root 64 Nov 23 13:25 6 -> socket:[35351]
+lr-x------ 1 root root 64 Nov 23 13:25 7 -> anon_inode:inotify
+lrwx------ 1 root root 64 Nov 23 13:25 8 -> socket:[35359]
+lrwx------ 1 root root 64 Nov 23 13:20 9 -> socket:[35360]

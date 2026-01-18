@@ -1,0 +1,119 @@
+total 0
+dr-x------ 2 mark mark 116 Nov 23 12:17 .
+dr-xr-xr-x 9 mark mark   0 Nov 23 12:17 ..
+lr-x------ 1 mark mark  64 Nov 23 12:17 0 -> /dev/null
+lrwx------ 1 mark mark  64 Nov 23 12:17 1 -> socket:[16624]
+lrwx------ 1 mark mark  64 Nov 23 12:18 10 -> socket:[16639]
+lrwx------ 1 mark mark  64 Nov 23 12:18 100 -> socket:[17406]
+lrwx------ 1 mark mark  64 Nov 23 12:18 101 -> socket:[18505]
+lrwx------ 1 mark mark  64 Nov 23 12:18 102 -> socket:[17406]
+lrwx------ 1 mark mark  64 Nov 23 12:18 103 -> socket:[18505]
+lrwx------ 1 mark mark  64 Nov 23 12:18 104 -> socket:[18478]
+lrwx------ 1 mark mark  64 Nov 23 12:18 105 -> socket:[18478]
+lrwx------ 1 mark mark  64 Nov 23 12:18 106 -> socket:[18517]
+lrwx------ 1 mark mark  64 Nov 23 12:18 107 -> socket:[18517]
+lrwx------ 1 mark mark  64 Nov 23 12:30 108 -> anon_inode:[timerfd]
+l-wx------ 1 mark mark  64 Nov 23 12:35 109 -> /run/systemd/inhibit/19.ref
+lrwx------ 1 mark mark  64 Nov 23 12:18 11 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:30 110 -> anon_inode:[timerfd]
+lrwx------ 1 mark mark  64 Nov 23 12:30 111 -> socket:[37617]
+lrwx------ 1 mark mark  64 Nov 23 13:45 112 -> socket:[37665]
+lrwx------ 1 mark mark  64 Nov 23 13:45 114 -> socket:[37617]
+lr-x------ 1 mark mark  64 Nov 23 13:45 115 -> pipe:[37619]
+lrwx------ 1 mark mark  64 Nov 23 13:45 116 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark  64 Nov 23 13:45 117 -> /home/mark/.cache/event-sound-cache.tdb.2063c01f4177464c98009f8e51944ab0.x86_64-pc-linux-gnu
+lrwx------ 1 mark mark  64 Nov 23 12:18 12 -> /dev/dri/card0
+lrwx------ 1 mark mark  64 Nov 23 12:17 13 -> /dev/dri/card0
+lrwx------ 1 mark mark  64 Nov 23 12:17 14 -> /dev/dri/card0
+lrwx------ 1 mark mark  64 Nov 23 12:17 15 -> /memfd:allocation fd (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:17 16 -> /dev/dri/card0
+lrwx------ 1 mark mark  64 Nov 23 12:18 17 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 18 -> anon_inode:[eventpoll]
+lrwx------ 1 mark mark  64 Nov 23 12:18 19 -> anon_inode:[timerfd]
+lrwx------ 1 mark mark  64 Nov 23 12:17 2 -> socket:[16624]
+lrwx------ 1 mark mark  64 Nov 23 12:18 20 -> socket:[16665]
+lrwx------ 1 mark mark  64 Nov 23 12:18 21 -> /dev/input/event0
+lrwx------ 1 mark mark  64 Nov 23 12:17 22 -> /dev/input/event1
+lrwx------ 1 mark mark  64 Nov 23 12:17 23 -> /dev/input/event3
+lrwx------ 1 mark mark  64 Nov 23 12:17 24 -> /dev/input/event6
+lrwx------ 1 mark mark  64 Nov 23 12:17 25 -> /dev/input/event5
+lrwx------ 1 mark mark  64 Nov 23 12:17 26 -> /dev/input/event2
+lrwx------ 1 mark mark  64 Nov 23 12:17 27 -> /dev/input/event4
+lrwx------ 1 mark mark  64 Nov 23 12:17 28 -> anon_inode:[timerfd]
+lrwx------ 1 mark mark  64 Nov 23 12:17 29 -> socket:[16694]
+lrwx------ 1 mark mark  64 Nov 23 12:17 3 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:17 30 -> socket:[16696]
+lrwx------ 1 mark mark  64 Nov 23 12:17 31 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:17 32 -> anon_inode:[eventpoll]
+lrwx------ 1 mark mark  64 Nov 23 12:18 33 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:17 34 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 35 -> /memfd:mutter-shared (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:18 36 -> /memfd:mutter-shared (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:18 37 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 38 -> socket:[17804]
+lrwx------ 1 mark mark  64 Nov 23 12:18 39 -> socket:[20286]
+lrwx------ 1 mark mark  64 Nov 23 12:17 4 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 40 -> socket:[16700]
+lrwx------ 1 mark mark  64 Nov 23 12:18 41 -> /run/user/1000/wayland-0.lock
+lrwx------ 1 mark mark  64 Nov 23 12:18 42 -> socket:[16701]
+lrwx------ 1 mark mark  64 Nov 23 12:18 43 -> socket:[16701]
+lrwx------ 1 mark mark  64 Nov 23 12:18 44 -> anon_inode:[timerfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 45 -> anon_inode:[timerfd]
+lr-x------ 1 mark mark  64 Nov 23 12:18 46 -> anon_inode:inotify
+lrwx------ 1 mark mark  64 Nov 23 12:18 47 -> socket:[26060]
+lr-x------ 1 mark mark  64 Nov 23 12:18 48 -> /home/mark/.local/share/gvfs-metadata/root (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:18 49 -> /home/mark/.local/share/gvfs-metadata/root-a280e5e4.log (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:18 5 -> socket:[16633]
+lrwx------ 1 mark mark  64 Nov 23 12:20 50 -> socket:[26060]
+lrwx------ 1 mark mark  64 Nov 23 12:25 51 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 52 -> socket:[19634]
+lrwx------ 1 mark mark  64 Nov 23 12:18 53 -> socket:[16316]
+lrwx------ 1 mark mark  64 Nov 23 12:18 54 -> socket:[17945]
+lrwx------ 1 mark mark  64 Nov 23 12:18 55 -> socket:[17191]
+lr-x------ 1 mark mark  64 Nov 23 12:18 56 -> /usr/lib/udev/hwdb.bin
+lrwx------ 1 mark mark  64 Nov 23 12:18 57 -> /memfd:mutter-shared (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:18 58 -> socket:[16880]
+lrwx------ 1 mark mark  64 Nov 23 12:18 59 -> socket:[17191]
+lrwx------ 1 mark mark  64 Nov 23 12:18 6 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 60 -> socket:[16882]
+lrwx------ 1 mark mark  64 Nov 23 12:18 61 -> socket:[17192]
+lrwx------ 1 mark mark  64 Nov 23 12:18 62 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 63 -> socket:[16880]
+lrwx------ 1 mark mark  64 Nov 23 12:18 64 -> socket:[17192]
+lrwx------ 1 mark mark  64 Nov 23 12:18 65 -> socket:[17193]
+lrwx------ 1 mark mark  64 Nov 23 12:18 66 -> socket:[17193]
+lrwx------ 1 mark mark  64 Nov 23 12:18 67 -> socket:[17194]
+lrwx------ 1 mark mark  64 Nov 23 12:18 68 -> socket:[17194]
+lrwx------ 1 mark mark  64 Nov 23 12:18 69 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 7 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:17 70 -> anon_inode:[eventpoll]
+lrwx------ 1 mark mark  64 Nov 23 12:18 71 -> socket:[17207]
+lrwx------ 1 mark mark  64 Nov 23 12:17 72 -> socket:[17207]
+lrwx------ 1 mark mark  64 Nov 23 12:17 73 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 74 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 75 -> anon_inode:[eventpoll]
+lrwx------ 1 mark mark  64 Nov 23 12:18 76 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 77 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 78 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 79 -> socket:[17212]
+lrwx------ 1 mark mark  64 Nov 23 12:18 8 -> socket:[16634]
+lrwx------ 1 mark mark  64 Nov 23 12:18 80 -> /memfd:pulseaudio (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:18 81 -> socket:[17213]
+lrwx------ 1 mark mark  64 Nov 23 12:18 82 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark  64 Nov 23 12:18 83 -> socket:[17910]
+lrwx------ 1 mark mark  64 Nov 23 12:18 84 -> socket:[17910]
+lrwx------ 1 mark mark  64 Nov 23 12:18 85 -> socket:[17911]
+lrwx------ 1 mark mark  64 Nov 23 12:18 86 -> socket:[17911]
+lrwx------ 1 mark mark  64 Nov 23 12:18 87 -> socket:[17953]
+lrwx------ 1 mark mark  64 Nov 23 12:18 88 -> socket:[17953]
+lrwx------ 1 mark mark  64 Nov 23 12:18 89 -> socket:[19634]
+lrwx------ 1 mark mark  64 Nov 23 12:17 9 -> socket:[16636]
+lrwx------ 1 mark mark  64 Nov 23 12:18 90 -> socket:[17283]
+lrwx------ 1 mark mark  64 Nov 23 12:18 92 -> anon_inode:[timerfd]
+lr-x------ 1 mark mark  64 Nov 23 12:18 93 -> pipe:[37664]
+l-wx------ 1 mark mark  64 Nov 23 12:18 94 -> pipe:[37664]
+lrwx------ 1 mark mark  64 Nov 23 12:18 95 -> anon_inode:[timerfd]
+lrwx------ 1 mark mark  64 Nov 23 12:25 96 -> socket:[20286]
+lrwx------ 1 mark mark  64 Nov 23 12:18 97 -> socket:[17400]
+lrwx------ 1 mark mark  64 Nov 23 12:30 98 -> /memfd:pulseaudio (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:18 99 -> anon_inode:[pidfd]

@@ -1,0 +1,6 @@
+default via 192.168.0.1 dev enp0s8 proto dhcp src 192.168.0.101 metric 101 
+default via 10.0.2.1 dev enp0s9 proto dhcp src 10.0.2.4 metric 102 
+default via 192.168.54.1 dev enp0s3 proto static metric 20100 
+10.0.2.0/24 dev enp0s9 proto kernel scope link src 10.0.2.4 metric 102 
+192.168.0.0/24 dev enp0s8 proto kernel scope link src 192.168.0.101 metric 101 
+192.168.54.0/24 dev enp0s3 proto kernel scope link src 192.168.54.101 metric 100 

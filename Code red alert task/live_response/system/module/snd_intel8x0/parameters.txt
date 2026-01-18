@@ -1,0 +1,14 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 7 root root    0 Nov 23 14:09 ..
+-r--r--r-- 1 root root 4096 Nov 23 14:09 ac97_clock
+-r--r--r-- 1 root root 4096 Nov 23 14:09 ac97_quirk
+-r--r--r-- 1 root root 4096 Nov 23 14:09 buggy_irq
+-r--r--r-- 1 root root 4096 Nov 23 14:09 buggy_semaphore
+-r--r--r-- 1 root root 4096 Nov 23 14:09 enable
+-r--r--r-- 1 root root 4096 Nov 23 14:09 id
+-r--r--r-- 1 root root 4096 Nov 23 14:09 index
+-r--r--r-- 1 root root 4096 Nov 23 14:09 inside_vm
+-r--r--r-- 1 root root 4096 Nov 23 14:09 joystick
+-r--r--r-- 1 root root 4096 Nov 23 14:09 spdif_aclink
+-r--r--r-- 1 root root 4096 Nov 23 14:09 xbox

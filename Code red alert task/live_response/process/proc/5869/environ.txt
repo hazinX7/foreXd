@@ -1,0 +1,11 @@
+SHELL=/bin/sh
+PWD=/root
+LOGNAME=root
+HOME=/root
+LANG=ru_RU.UTF-8
+LS_COLORS=
+LESSCLOSE=/usr/bin/lesspipe %s %s
+LESSOPEN=| /usr/bin/lesspipe %s
+SHLVL=3
+PATH=/usr/bin:/bin
+_=/usr/bin/sudo

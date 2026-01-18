@@ -1,0 +1,5 @@
+PATH=/usr/bin:/bin
+LANG=ru_RU.UTF-8
+SHELL=/bin/sh
+HOME=/root
+LOGNAME=root

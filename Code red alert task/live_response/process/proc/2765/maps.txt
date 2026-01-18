@@ -1,0 +1,33 @@
+5b6b5fa6e000-5b6b5fa9e000 r--p 00000000 08:02 918067                     /usr/bin/bash
+5b6b5fa9e000-5b6b5fb8d000 r-xp 00030000 08:02 918067                     /usr/bin/bash
+5b6b5fb8d000-5b6b5fbc2000 r--p 0011f000 08:02 918067                     /usr/bin/bash
+5b6b5fbc2000-5b6b5fbc6000 r--p 00154000 08:02 918067                     /usr/bin/bash
+5b6b5fbc6000-5b6b5fbcf000 rw-p 00158000 08:02 918067                     /usr/bin/bash
+5b6b5fbcf000-5b6b5fbda000 rw-p 00000000 00:00 0 
+5b6b9bb6f000-5b6b9bc9f000 rw-p 00000000 00:00 0                          [heap]
+70a58f000000-70a58f2ec000 r--p 00000000 08:02 972560                     /usr/lib/locale/locale-archive
+70a58f400000-70a58f428000 r--p 00000000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+70a58f428000-70a58f5b0000 r-xp 00028000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+70a58f5b0000-70a58f5ff000 r--p 001b0000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+70a58f5ff000-70a58f603000 r--p 001fe000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+70a58f603000-70a58f605000 rw-p 00202000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+70a58f605000-70a58f612000 rw-p 00000000 00:00 0 
+70a58f79d000-70a58f7bd000 r--p 00000000 08:02 1090002                    /usr/share/locale-langpack/ru/LC_MESSAGES/bash.mo
+70a58f7bd000-70a58f7c0000 rw-p 00000000 00:00 0 
+70a58f7c0000-70a58f7ce000 r--p 00000000 08:02 929551                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+70a58f7ce000-70a58f7e1000 r-xp 0000e000 08:02 929551                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+70a58f7e1000-70a58f7ef000 r--p 00021000 08:02 929551                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+70a58f7ef000-70a58f7f3000 r--p 0002e000 08:02 929551                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+70a58f7f3000-70a58f7f4000 rw-p 00032000 08:02 929551                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+70a58f7fd000-70a58f804000 r--s 00000000 08:02 919962                     /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+70a58f804000-70a58f806000 rw-p 00000000 00:00 0 
+70a58f806000-70a58f808000 r--p 00000000 00:00 0                          [vvar]
+70a58f808000-70a58f80a000 r--p 00000000 00:00 0                          [vvar_vclock]
+70a58f80a000-70a58f80c000 r-xp 00000000 00:00 0                          [vdso]
+70a58f80c000-70a58f80d000 r--p 00000000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+70a58f80d000-70a58f838000 r-xp 00001000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+70a58f838000-70a58f842000 r--p 0002c000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+70a58f842000-70a58f844000 r--p 00036000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+70a58f844000-70a58f846000 rw-p 00038000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7fff88f7d000-7fff88f9e000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

@@ -1,0 +1,6 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 3 root root    0 Nov 23 14:09 ..
+-r--r--r-- 1 root root 4096 Nov 23 14:09 drm_fbdev_overalloc
+-rw------- 1 root root 4096 Nov 23 14:09 fbdev_emulation
+-rw------- 1 root root 4096 Nov 23 14:09 poll

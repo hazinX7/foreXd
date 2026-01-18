@@ -1,0 +1,511 @@
+59a938082000-59a938083000 r--p 00000000 08:02 933766                     /usr/libexec/evolution-addressbook-factory
+59a938083000-59a938084000 r-xp 00001000 08:02 933766                     /usr/libexec/evolution-addressbook-factory
+59a938084000-59a938085000 r--p 00002000 08:02 933766                     /usr/libexec/evolution-addressbook-factory
+59a938085000-59a938086000 r--p 00002000 08:02 933766                     /usr/libexec/evolution-addressbook-factory
+59a938086000-59a938087000 rw-p 00003000 08:02 933766                     /usr/libexec/evolution-addressbook-factory
+59a9580dc000-59a958195000 rw-p 00000000 00:00 0                          [heap]
+75f384000000-75f384021000 rw-p 00000000 00:00 0 
+75f384021000-75f388000000 ---p 00000000 00:00 0 
+75f38c000000-75f38c021000 rw-p 00000000 00:00 0 
+75f38c021000-75f390000000 ---p 00000000 00:00 0 
+75f390000000-75f390021000 rw-p 00000000 00:00 0 
+75f390021000-75f394000000 ---p 00000000 00:00 0 
+75f394000000-75f39406e000 rw-p 00000000 00:00 0 
+75f39406e000-75f398000000 ---p 00000000 00:00 0 
+75f398000000-75f398073000 rw-p 00000000 00:00 0 
+75f398073000-75f39c000000 ---p 00000000 00:00 0 
+75f39dffc000-75f39dffd000 ---p 00000000 00:00 0 
+75f39dffd000-75f39e7fd000 rw-p 00000000 00:00 0 
+75f39e7fd000-75f39e7fe000 ---p 00000000 00:00 0 
+75f39e7fe000-75f39effe000 rw-p 00000000 00:00 0 
+75f39effe000-75f39efff000 ---p 00000000 00:00 0 
+75f39efff000-75f39f7ff000 rw-p 00000000 00:00 0 
+75f39f7ff000-75f39f800000 ---p 00000000 00:00 0 
+75f39f800000-75f3a0000000 rw-p 00000000 00:00 0 
+75f3a0000000-75f3a0021000 rw-p 00000000 00:00 0 
+75f3a0021000-75f3a4000000 ---p 00000000 00:00 0 
+75f3a4000000-75f3a4021000 rw-p 00000000 00:00 0 
+75f3a4021000-75f3a8000000 ---p 00000000 00:00 0 
+75f3a8000000-75f3a8021000 rw-p 00000000 00:00 0 
+75f3a8021000-75f3ac000000 ---p 00000000 00:00 0 
+75f3ac000000-75f3ac02b000 rw-p 00000000 00:00 0 
+75f3ac02b000-75f3b0000000 ---p 00000000 00:00 0 
+75f3b0000000-75f3b0021000 rw-p 00000000 00:00 0 
+75f3b0021000-75f3b4000000 ---p 00000000 00:00 0 
+75f3b416d000-75f3b418b000 r--p 00000000 08:02 929244                     /usr/lib/x86_64-linux-gnu/libical.so.3.0.17
+75f3b418b000-75f3b41c2000 r-xp 0001e000 08:02 929244                     /usr/lib/x86_64-linux-gnu/libical.so.3.0.17
+75f3b41c2000-75f3b41d5000 r--p 00055000 08:02 929244                     /usr/lib/x86_64-linux-gnu/libical.so.3.0.17
+75f3b41d5000-75f3b41e8000 r--p 00067000 08:02 929244                     /usr/lib/x86_64-linux-gnu/libical.so.3.0.17
+75f3b41e8000-75f3b41e9000 rw-p 0007a000 08:02 929244                     /usr/lib/x86_64-linux-gnu/libical.so.3.0.17
+75f3b41e9000-75f3b41ff000 r--p 00000000 08:02 920083                     /usr/lib/evolution-data-server/camel-providers/libcamelimapx.so
+75f3b41ff000-75f3b423f000 r-xp 00016000 08:02 920083                     /usr/lib/evolution-data-server/camel-providers/libcamelimapx.so
+75f3b423f000-75f3b4254000 r--p 00056000 08:02 920083                     /usr/lib/evolution-data-server/camel-providers/libcamelimapx.so
+75f3b4254000-75f3b4257000 r--p 0006a000 08:02 920083                     /usr/lib/evolution-data-server/camel-providers/libcamelimapx.so
+75f3b4257000-75f3b4258000 rw-p 0006d000 08:02 920083                     /usr/lib/evolution-data-server/camel-providers/libcamelimapx.so
+75f3b4258000-75f3b4259000 rw-p 00000000 00:00 0 
+75f3b4259000-75f3b425a000 ---p 00000000 00:00 0 
+75f3b425a000-75f3b4a5a000 rw-p 00000000 00:00 0 
+75f3b4a5a000-75f3b4a5b000 ---p 00000000 00:00 0 
+75f3b4a5b000-75f3b525b000 rw-p 00000000 00:00 0 
+75f3b525b000-75f3b525c000 ---p 00000000 00:00 0 
+75f3b525c000-75f3b5a5c000 rw-p 00000000 00:00 0 
+75f3b5a5c000-75f3b5a94000 r--p 00000000 08:02 929403                     /usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.1
+75f3b5a94000-75f3b5b66000 r-xp 00038000 08:02 929403                     /usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.1
+75f3b5b66000-75f3b5be5000 r--p 0010a000 08:02 929403                     /usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.1
+75f3b5be5000-75f3b5bf2000 r--p 00188000 08:02 929403                     /usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.1
+75f3b5bf2000-75f3b5bff000 rw-p 00195000 08:02 929403                     /usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.1
+75f3b5bff000-75f3b5c00000 rw-p 00000000 00:00 0 
+75f3b5c00000-75f3b5cb3000 r--p 00000000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+75f3b5cb3000-75f3b5fe6000 r-xp 000b3000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+75f3b5fe6000-75f3b60b1000 r--p 003e6000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+75f3b60b1000-75f3b610d000 r--p 004b0000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+75f3b610d000-75f3b6110000 rw-p 0050c000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+75f3b6110000-75f3b6113000 rw-p 00000000 00:00 0 
+75f3b6161000-75f3b6166000 r--p 00000000 08:02 920089                     /usr/lib/evolution-data-server/camel-providers/libcamelpop3.so
+75f3b6166000-75f3b6170000 r-xp 00005000 08:02 920089                     /usr/lib/evolution-data-server/camel-providers/libcamelpop3.so
+75f3b6170000-75f3b6173000 r--p 0000f000 08:02 920089                     /usr/lib/evolution-data-server/camel-providers/libcamelpop3.so
+75f3b6173000-75f3b6174000 r--p 00012000 08:02 920089                     /usr/lib/evolution-data-server/camel-providers/libcamelpop3.so
+75f3b6174000-75f3b6175000 rw-p 00013000 08:02 920089                     /usr/lib/evolution-data-server/camel-providers/libcamelpop3.so
+75f3b6175000-75f3b6179000 r--p 00000000 08:02 920093                     /usr/lib/evolution-data-server/camel-providers/libcamelsmtp.so
+75f3b6179000-75f3b6180000 r-xp 00004000 08:02 920093                     /usr/lib/evolution-data-server/camel-providers/libcamelsmtp.so
+75f3b6180000-75f3b6183000 r--p 0000b000 08:02 920093                     /usr/lib/evolution-data-server/camel-providers/libcamelsmtp.so
+75f3b6183000-75f3b6184000 r--p 0000d000 08:02 920093                     /usr/lib/evolution-data-server/camel-providers/libcamelsmtp.so
+75f3b6184000-75f3b6185000 rw-p 0000e000 08:02 920093                     /usr/lib/evolution-data-server/camel-providers/libcamelsmtp.so
+75f3b6185000-75f3b618e000 r--p 00000000 08:02 920085                     /usr/lib/evolution-data-server/camel-providers/libcamellocal.so
+75f3b618e000-75f3b61a8000 r-xp 00009000 08:02 920085                     /usr/lib/evolution-data-server/camel-providers/libcamellocal.so
+75f3b61a8000-75f3b61af000 r--p 00023000 08:02 920085                     /usr/lib/evolution-data-server/camel-providers/libcamellocal.so
+75f3b61af000-75f3b61b1000 r--p 00029000 08:02 920085                     /usr/lib/evolution-data-server/camel-providers/libcamellocal.so
+75f3b61b1000-75f3b61b2000 rw-p 0002b000 08:02 920085                     /usr/lib/evolution-data-server/camel-providers/libcamellocal.so
+75f3b61b2000-75f3b61b9000 r--p 00000000 08:02 920087                     /usr/lib/evolution-data-server/camel-providers/libcamelnntp.so
+75f3b61b9000-75f3b61c6000 r-xp 00007000 08:02 920087                     /usr/lib/evolution-data-server/camel-providers/libcamelnntp.so
+75f3b61c6000-75f3b61ca000 r--p 00014000 08:02 920087                     /usr/lib/evolution-data-server/camel-providers/libcamelnntp.so
+75f3b61ca000-75f3b61cb000 r--p 00018000 08:02 920087                     /usr/lib/evolution-data-server/camel-providers/libcamelnntp.so
+75f3b61cb000-75f3b61cc000 rw-p 00019000 08:02 920087                     /usr/lib/evolution-data-server/camel-providers/libcamelnntp.so
+75f3b61cc000-75f3b61d0000 r--p 00000000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+75f3b61d0000-75f3b61d7000 r-xp 00004000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+75f3b61d7000-75f3b61d9000 r--p 0000b000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+75f3b61d9000-75f3b61da000 r--p 0000d000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+75f3b61da000-75f3b61db000 rw-p 0000e000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+75f3b61db000-75f3b6203000 r--p 00000000 08:02 919667                     /usr/share/glib-2.0/schemas/gschemas.compiled
+75f3b6203000-75f3b6236000 r--p 00000000 08:02 929176                     /usr/lib/x86_64-linux-gnu/libgnutls.so.30.37.1
+75f3b6236000-75f3b636f000 r-xp 00033000 08:02 929176                     /usr/lib/x86_64-linux-gnu/libgnutls.so.30.37.1
+75f3b636f000-75f3b63e8000 r--p 0016c000 08:02 929176                     /usr/lib/x86_64-linux-gnu/libgnutls.so.30.37.1
+75f3b63e8000-75f3b63f8000 r--p 001e4000 08:02 929176                     /usr/lib/x86_64-linux-gnu/libgnutls.so.30.37.1
+75f3b63f8000-75f3b63fa000 rw-p 001f4000 08:02 929176                     /usr/lib/x86_64-linux-gnu/libgnutls.so.30.37.1
+75f3b63fa000-75f3b63fd000 rw-p 00000000 00:00 0 
+75f3b63fd000-75f3b63fe000 ---p 00000000 00:00 0 
+75f3b63fe000-75f3b6bfe000 rw-p 00000000 00:00 0 
+75f3b6bfe000-75f3b6bff000 ---p 00000000 00:00 0 
+75f3b6bff000-75f3b73ff000 rw-p 00000000 00:00 0 
+75f3b73ff000-75f3b7400000 ---p 00000000 00:00 0 
+75f3b7400000-75f3b7c00000 rw-p 00000000 00:00 0 
+75f3b7c00000-75f3b7eec000 r--p 00000000 08:02 972560                     /usr/lib/locale/locale-archive
+75f3b7eef000-75f3b7ef4000 r--p 00000000 08:02 920074                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendfile.so
+75f3b7ef4000-75f3b7efd000 r-xp 00005000 08:02 920074                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendfile.so
+75f3b7efd000-75f3b7f00000 r--p 0000e000 08:02 920074                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendfile.so
+75f3b7f00000-75f3b7f01000 r--p 00011000 08:02 920074                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendfile.so
+75f3b7f01000-75f3b7f02000 rw-p 00012000 08:02 920074                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendfile.so
+75f3b7f02000-75f3b7f0c000 r--p 00000000 08:02 929165                     /usr/lib/x86_64-linux-gnu/libgmp.so.10.5.0
+75f3b7f0c000-75f3b7f6f000 r-xp 0000a000 08:02 929165                     /usr/lib/x86_64-linux-gnu/libgmp.so.10.5.0
+75f3b7f6f000-75f3b7f84000 r--p 0006d000 08:02 929165                     /usr/lib/x86_64-linux-gnu/libgmp.so.10.5.0
+75f3b7f84000-75f3b7f85000 r--p 00081000 08:02 929165                     /usr/lib/x86_64-linux-gnu/libgmp.so.10.5.0
+75f3b7f85000-75f3b7f86000 rw-p 00082000 08:02 929165                     /usr/lib/x86_64-linux-gnu/libgmp.so.10.5.0
+75f3b7f86000-75f3b7f8e000 r--p 00000000 08:02 929234                     /usr/lib/x86_64-linux-gnu/libhogweed.so.6.8
+75f3b7f8e000-75f3b7fa2000 r-xp 00008000 08:02 929234                     /usr/lib/x86_64-linux-gnu/libhogweed.so.6.8
+75f3b7fa2000-75f3b7fcb000 r--p 0001c000 08:02 929234                     /usr/lib/x86_64-linux-gnu/libhogweed.so.6.8
+75f3b7fcb000-75f3b7fcd000 r--p 00044000 08:02 929234                     /usr/lib/x86_64-linux-gnu/libhogweed.so.6.8
+75f3b7fcd000-75f3b7fce000 rw-p 00046000 08:02 929234                     /usr/lib/x86_64-linux-gnu/libhogweed.so.6.8
+75f3b7fce000-75f3b7fda000 r--p 00000000 08:02 929355                     /usr/lib/x86_64-linux-gnu/libnettle.so.8.8
+75f3b7fda000-75f3b8009000 r-xp 0000c000 08:02 929355                     /usr/lib/x86_64-linux-gnu/libnettle.so.8.8
+75f3b8009000-75f3b8020000 r--p 0003b000 08:02 929355                     /usr/lib/x86_64-linux-gnu/libnettle.so.8.8
+75f3b8020000-75f3b8022000 r--p 00051000 08:02 929355                     /usr/lib/x86_64-linux-gnu/libnettle.so.8.8
+75f3b8022000-75f3b8023000 rw-p 00053000 08:02 929355                     /usr/lib/x86_64-linux-gnu/libnettle.so.8.8
+75f3b8023000-75f3b8026000 r--p 00000000 08:02 929538                     /usr/lib/x86_64-linux-gnu/libtasn1.so.6.6.3
+75f3b8026000-75f3b8034000 r-xp 00003000 08:02 929538                     /usr/lib/x86_64-linux-gnu/libtasn1.so.6.6.3
+75f3b8034000-75f3b8037000 r--p 00011000 08:02 929538                     /usr/lib/x86_64-linux-gnu/libtasn1.so.6.6.3
+75f3b8037000-75f3b8038000 r--p 00014000 08:02 929538                     /usr/lib/x86_64-linux-gnu/libtasn1.so.6.6.3
+75f3b8038000-75f3b8039000 rw-p 00015000 08:02 929538                     /usr/lib/x86_64-linux-gnu/libtasn1.so.6.6.3
+75f3b8039000-75f3b803c000 r--p 00000000 08:02 929491                     /usr/lib/x86_64-linux-gnu/libsasl2.so.2.0.25
+75f3b803c000-75f3b804c000 r-xp 00003000 08:02 929491                     /usr/lib/x86_64-linux-gnu/libsasl2.so.2.0.25
+75f3b804c000-75f3b8051000 r--p 00013000 08:02 929491                     /usr/lib/x86_64-linux-gnu/libsasl2.so.2.0.25
+75f3b8051000-75f3b8052000 r--p 00017000 08:02 929491                     /usr/lib/x86_64-linux-gnu/libsasl2.so.2.0.25
+75f3b8052000-75f3b8053000 rw-p 00018000 08:02 929491                     /usr/lib/x86_64-linux-gnu/libsasl2.so.2.0.25
+75f3b8053000-75f3b8064000 r--p 00000000 08:02 929573                     /usr/lib/x86_64-linux-gnu/libunistring.so.5.0.0
+75f3b8064000-75f3b809b000 r-xp 00011000 08:02 929573                     /usr/lib/x86_64-linux-gnu/libunistring.so.5.0.0
+75f3b809b000-75f3b81fb000 r--p 00048000 08:02 929573                     /usr/lib/x86_64-linux-gnu/libunistring.so.5.0.0
+75f3b81fb000-75f3b81ff000 r--p 001a8000 08:02 929573                     /usr/lib/x86_64-linux-gnu/libunistring.so.5.0.0
+75f3b81ff000-75f3b8200000 rw-p 001ac000 08:02 929573                     /usr/lib/x86_64-linux-gnu/libunistring.so.5.0.0
+75f3b8200000-75f3b8293000 r--p 00000000 08:02 929454                     /usr/lib/x86_64-linux-gnu/libprotobuf.so.32.0.12
+75f3b8293000-75f3b8460000 r-xp 00093000 08:02 929454                     /usr/lib/x86_64-linux-gnu/libprotobuf.so.32.0.12
+75f3b8460000-75f3b84e1000 r--p 00260000 08:02 929454                     /usr/lib/x86_64-linux-gnu/libprotobuf.so.32.0.12
+75f3b84e1000-75f3b84e9000 r--p 002e0000 08:02 929454                     /usr/lib/x86_64-linux-gnu/libprotobuf.so.32.0.12
+75f3b84e9000-75f3b84eb000 rw-p 002e8000 08:02 929454                     /usr/lib/x86_64-linux-gnu/libprotobuf.so.32.0.12
+75f3b84eb000-75f3b84ec000 rw-p 00000000 00:00 0 
+75f3b84f8000-75f3b8506000 r--p 00000000 08:02 929297                     /usr/lib/x86_64-linux-gnu/libldap.so.2.0.200
+75f3b8506000-75f3b8542000 r-xp 0000e000 08:02 929297                     /usr/lib/x86_64-linux-gnu/libldap.so.2.0.200
+75f3b8542000-75f3b8551000 r--p 0004a000 08:02 929297                     /usr/lib/x86_64-linux-gnu/libldap.so.2.0.200
+75f3b8551000-75f3b8553000 r--p 00058000 08:02 929297                     /usr/lib/x86_64-linux-gnu/libldap.so.2.0.200
+75f3b8553000-75f3b8554000 rw-p 0005a000 08:02 929297                     /usr/lib/x86_64-linux-gnu/libldap.so.2.0.200
+75f3b8554000-75f3b8556000 rw-p 00000000 00:00 0 
+75f3b8556000-75f3b8559000 r--p 00000000 08:02 929292                     /usr/lib/x86_64-linux-gnu/liblber.so.2.0.200
+75f3b8559000-75f3b8561000 r-xp 00003000 08:02 929292                     /usr/lib/x86_64-linux-gnu/liblber.so.2.0.200
+75f3b8561000-75f3b8564000 r--p 0000b000 08:02 929292                     /usr/lib/x86_64-linux-gnu/liblber.so.2.0.200
+75f3b8564000-75f3b8565000 r--p 0000d000 08:02 929292                     /usr/lib/x86_64-linux-gnu/liblber.so.2.0.200
+75f3b8565000-75f3b8566000 rw-p 0000e000 08:02 929292                     /usr/lib/x86_64-linux-gnu/liblber.so.2.0.200
+75f3b8567000-75f3b856b000 r--p 00000000 08:02 920073                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendcarddav.so
+75f3b856b000-75f3b8572000 r-xp 00004000 08:02 920073                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendcarddav.so
+75f3b8572000-75f3b8574000 r--p 0000b000 08:02 920073                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendcarddav.so
+75f3b8574000-75f3b8575000 r--p 0000c000 08:02 920073                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendcarddav.so
+75f3b8575000-75f3b8576000 rw-p 0000d000 08:02 920073                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendcarddav.so
+75f3b8576000-75f3b857c000 r--p 00000000 08:02 920075                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendldap.so
+75f3b857c000-75f3b858c000 r-xp 00006000 08:02 920075                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendldap.so
+75f3b858c000-75f3b8590000 r--p 00016000 08:02 920075                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendldap.so
+75f3b8590000-75f3b8591000 r--p 0001a000 08:02 920075                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendldap.so
+75f3b8591000-75f3b8592000 rw-p 0001b000 08:02 920075                     /usr/lib/evolution-data-server/addressbook-backends/libebookbackendldap.so
+75f3b8592000-75f3b85bf000 r--p 00000000 08:02 1090101                    /usr/share/locale-langpack/ru/LC_MESSAGES/glib20.mo
+75f3b85bf000-75f3b85d1000 r--p 00000000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+75f3b85d1000-75f3b85ed000 r-xp 00012000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+75f3b85ed000-75f3b85f9000 r--p 0002e000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+75f3b85f9000-75f3b85ff000 r--p 00039000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+75f3b85ff000-75f3b8600000 rw-p 0003f000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+75f3b8600000-75f3b8601000 r--p 00000000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+75f3b8601000-75f3b8602000 r-xp 00001000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+75f3b8602000-75f3ba35e000 r--p 00002000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+75f3ba35e000-75f3ba35f000 r--p 01d5d000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+75f3ba35f000-75f3ba360000 rw-p 01d5e000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+75f3ba361000-75f3ba364000 r--p 00000000 08:02 920091                     /usr/lib/evolution-data-server/camel-providers/libcamelsendmail.so
+75f3ba364000-75f3ba367000 r-xp 00003000 08:02 920091                     /usr/lib/evolution-data-server/camel-providers/libcamelsendmail.so
+75f3ba367000-75f3ba368000 r--p 00006000 08:02 920091                     /usr/lib/evolution-data-server/camel-providers/libcamelsendmail.so
+75f3ba368000-75f3ba369000 r--p 00007000 08:02 920091                     /usr/lib/evolution-data-server/camel-providers/libcamelsendmail.so
+75f3ba369000-75f3ba36a000 rw-p 00008000 08:02 920091                     /usr/lib/evolution-data-server/camel-providers/libcamelsendmail.so
+75f3ba36a000-75f3ba399000 r--p 00000000 08:02 1090214                    /usr/share/locale-langpack/ru/LC_MESSAGES/libc.mo
+75f3ba399000-75f3ba3a3000 r--p 00000000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+75f3ba3a3000-75f3ba3c1000 r-xp 0000a000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+75f3ba3c1000-75f3ba3c9000 r--p 00028000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+75f3ba3c9000-75f3ba3cb000 r--p 00030000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+75f3ba3cb000-75f3ba3cc000 rw-p 00032000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+75f3ba3cc000-75f3ba3d5000 rw-p 00000000 00:00 0 
+75f3ba3d5000-75f3ba3d8000 r--p 00000000 08:02 919986                     /usr/lib/x86_64-linux-gnu/libresolv.so.2
+75f3ba3d8000-75f3ba3e2000 r-xp 00003000 08:02 919986                     /usr/lib/x86_64-linux-gnu/libresolv.so.2
+75f3ba3e2000-75f3ba3e4000 r--p 0000d000 08:02 919986                     /usr/lib/x86_64-linux-gnu/libresolv.so.2
+75f3ba3e4000-75f3ba3e5000 r--p 0000f000 08:02 919986                     /usr/lib/x86_64-linux-gnu/libresolv.so.2
+75f3ba3e5000-75f3ba3e6000 rw-p 00010000 08:02 919986                     /usr/lib/x86_64-linux-gnu/libresolv.so.2
+75f3ba3e6000-75f3ba3e8000 rw-p 00000000 00:00 0 
+75f3ba3e8000-75f3ba3ea000 r--p 00000000 08:02 929286                     /usr/lib/x86_64-linux-gnu/libkeyutils.so.1.10
+75f3ba3ea000-75f3ba3ec000 r-xp 00002000 08:02 929286                     /usr/lib/x86_64-linux-gnu/libkeyutils.so.1.10
+75f3ba3ec000-75f3ba3ed000 r--p 00004000 08:02 929286                     /usr/lib/x86_64-linux-gnu/libkeyutils.so.1.10
+75f3ba3ed000-75f3ba3ee000 r--p 00004000 08:02 929286                     /usr/lib/x86_64-linux-gnu/libkeyutils.so.1.10
+75f3ba3ee000-75f3ba3ef000 rw-p 00005000 08:02 929286                     /usr/lib/x86_64-linux-gnu/libkeyutils.so.1.10
+75f3ba3ef000-75f3ba40f000 r--p 00000000 08:02 929289                     /usr/lib/x86_64-linux-gnu/libkrb5.so.3.3
+75f3ba40f000-75f3ba470000 r-xp 00020000 08:02 929289                     /usr/lib/x86_64-linux-gnu/libkrb5.so.3.3
+75f3ba470000-75f3ba4a9000 r--p 00081000 08:02 929289                     /usr/lib/x86_64-linux-gnu/libkrb5.so.3.3
+75f3ba4a9000-75f3ba4b6000 r--p 000ba000 08:02 929289                     /usr/lib/x86_64-linux-gnu/libkrb5.so.3.3
+75f3ba4b6000-75f3ba4b8000 rw-p 000c7000 08:02 929289                     /usr/lib/x86_64-linux-gnu/libkrb5.so.3.3
+75f3ba4b8000-75f3ba4c7000 r--p 00000000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+75f3ba4c7000-75f3ba5bb000 r-xp 0000f000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+75f3ba5bb000-75f3ba5f6000 r--p 00103000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+75f3ba5f6000-75f3ba5fb000 r--p 0013e000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+75f3ba5fb000-75f3ba5ff000 rw-p 00143000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+75f3ba5ff000-75f3ba600000 rw-p 00000000 00:00 0 
+75f3ba600000-75f3ba69d000 r--p 00000000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+75f3ba69d000-75f3ba7e5000 r-xp 0009d000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+75f3ba7e5000-75f3ba86c000 r--p 001e5000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+75f3ba86c000-75f3ba877000 r--p 0026b000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+75f3ba877000-75f3ba87a000 rw-p 00276000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+75f3ba87a000-75f3ba87e000 rw-p 00000000 00:00 0 
+75f3ba87f000-75f3ba883000 rw-p 00000000 00:00 0 
+75f3ba883000-75f3ba884000 r--p 00000000 08:02 928928                     /usr/lib/x86_64-linux-gnu/libabsl_raw_logging_internal.so.20220623.0.0
+75f3ba884000-75f3ba885000 r-xp 00001000 08:02 928928                     /usr/lib/x86_64-linux-gnu/libabsl_raw_logging_internal.so.20220623.0.0
+75f3ba885000-75f3ba886000 r--p 00002000 08:02 928928                     /usr/lib/x86_64-linux-gnu/libabsl_raw_logging_internal.so.20220623.0.0
+75f3ba886000-75f3ba887000 r--p 00002000 08:02 928928                     /usr/lib/x86_64-linux-gnu/libabsl_raw_logging_internal.so.20220623.0.0
+75f3ba887000-75f3ba888000 rw-p 00003000 08:02 928928                     /usr/lib/x86_64-linux-gnu/libabsl_raw_logging_internal.so.20220623.0.0
+75f3ba888000-75f3ba88a000 r--p 00000000 08:02 928937                     /usr/lib/x86_64-linux-gnu/libabsl_strings_internal.so.20220623.0.0
+75f3ba88a000-75f3ba88b000 r-xp 00002000 08:02 928937                     /usr/lib/x86_64-linux-gnu/libabsl_strings_internal.so.20220623.0.0
+75f3ba88b000-75f3ba88c000 r--p 00003000 08:02 928937                     /usr/lib/x86_64-linux-gnu/libabsl_strings_internal.so.20220623.0.0
+75f3ba88c000-75f3ba88d000 r--p 00003000 08:02 928937                     /usr/lib/x86_64-linux-gnu/libabsl_strings_internal.so.20220623.0.0
+75f3ba88d000-75f3ba88e000 rw-p 00004000 08:02 928937                     /usr/lib/x86_64-linux-gnu/libabsl_strings_internal.so.20220623.0.0
+75f3ba88e000-75f3ba88f000 r--p 00000000 08:02 928913                     /usr/lib/x86_64-linux-gnu/libabsl_low_level_hash.so.20220623.0.0
+75f3ba88f000-75f3ba890000 r-xp 00001000 08:02 928913                     /usr/lib/x86_64-linux-gnu/libabsl_low_level_hash.so.20220623.0.0
+75f3ba890000-75f3ba891000 r--p 00002000 08:02 928913                     /usr/lib/x86_64-linux-gnu/libabsl_low_level_hash.so.20220623.0.0
+75f3ba891000-75f3ba892000 r--p 00002000 08:02 928913                     /usr/lib/x86_64-linux-gnu/libabsl_low_level_hash.so.20220623.0.0
+75f3ba892000-75f3ba893000 rw-p 00003000 08:02 928913                     /usr/lib/x86_64-linux-gnu/libabsl_low_level_hash.so.20220623.0.0
+75f3ba893000-75f3ba895000 rw-p 00000000 00:00 0 
+75f3ba895000-75f3ba896000 r--p 00000000 08:02 928883                     /usr/lib/x86_64-linux-gnu/libabsl_city.so.20220623.0.0
+75f3ba896000-75f3ba897000 r-xp 00001000 08:02 928883                     /usr/lib/x86_64-linux-gnu/libabsl_city.so.20220623.0.0
+75f3ba897000-75f3ba898000 r--p 00002000 08:02 928883                     /usr/lib/x86_64-linux-gnu/libabsl_city.so.20220623.0.0
+75f3ba898000-75f3ba899000 r--p 00002000 08:02 928883                     /usr/lib/x86_64-linux-gnu/libabsl_city.so.20220623.0.0
+75f3ba899000-75f3ba89a000 rw-p 00003000 08:02 928883                     /usr/lib/x86_64-linux-gnu/libabsl_city.so.20220623.0.0
+75f3ba89a000-75f3ba89e000 r--p 00000000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+75f3ba89e000-75f3ba8b4000 r-xp 00004000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+75f3ba8b4000-75f3ba8bd000 r--p 0001a000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+75f3ba8bd000-75f3ba8be000 r--p 00023000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+75f3ba8be000-75f3ba8bf000 rw-p 00024000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+75f3ba8bf000-75f3ba8c0000 r--p 00000000 08:02 929436                     /usr/lib/x86_64-linux-gnu/libplds4.so
+75f3ba8c0000-75f3ba8c1000 r-xp 00001000 08:02 929436                     /usr/lib/x86_64-linux-gnu/libplds4.so
+75f3ba8c1000-75f3ba8c2000 r--p 00002000 08:02 929436                     /usr/lib/x86_64-linux-gnu/libplds4.so
+75f3ba8c2000-75f3ba8c3000 r--p 00002000 08:02 929436                     /usr/lib/x86_64-linux-gnu/libplds4.so
+75f3ba8c3000-75f3ba8c4000 rw-p 00003000 08:02 929436                     /usr/lib/x86_64-linux-gnu/libplds4.so
+75f3ba8c4000-75f3ba8d0000 r--p 00000000 08:02 929390                     /usr/lib/x86_64-linux-gnu/libnssutil3.so
+75f3ba8d0000-75f3ba8e2000 r-xp 0000c000 08:02 929390                     /usr/lib/x86_64-linux-gnu/libnssutil3.so
+75f3ba8e2000-75f3ba8ee000 r--p 0001e000 08:02 929390                     /usr/lib/x86_64-linux-gnu/libnssutil3.so
+75f3ba8ee000-75f3ba8f5000 r--p 00029000 08:02 929390                     /usr/lib/x86_64-linux-gnu/libnssutil3.so
+75f3ba8f5000-75f3ba8f6000 rw-p 00030000 08:02 929390                     /usr/lib/x86_64-linux-gnu/libnssutil3.so
+75f3ba8f6000-75f3ba8f9000 r--p 00000000 08:02 929290                     /usr/lib/x86_64-linux-gnu/libkrb5support.so.0.1
+75f3ba8f9000-75f3ba8ff000 r-xp 00003000 08:02 929290                     /usr/lib/x86_64-linux-gnu/libkrb5support.so.0.1
+75f3ba8ff000-75f3ba901000 r--p 00009000 08:02 929290                     /usr/lib/x86_64-linux-gnu/libkrb5support.so.0.1
+75f3ba901000-75f3ba902000 r--p 0000a000 08:02 929290                     /usr/lib/x86_64-linux-gnu/libkrb5support.so.0.1
+75f3ba902000-75f3ba903000 rw-p 0000b000 08:02 929290                     /usr/lib/x86_64-linux-gnu/libkrb5support.so.0.1
+75f3ba903000-75f3ba907000 r--p 00000000 08:02 929285                     /usr/lib/x86_64-linux-gnu/libk5crypto.so.3.1
+75f3ba907000-75f3ba922000 r-xp 00004000 08:02 929285                     /usr/lib/x86_64-linux-gnu/libk5crypto.so.3.1
+75f3ba922000-75f3ba92d000 r--p 0001f000 08:02 929285                     /usr/lib/x86_64-linux-gnu/libk5crypto.so.3.1
+75f3ba92d000-75f3ba92e000 r--p 0002a000 08:02 929285                     /usr/lib/x86_64-linux-gnu/libk5crypto.so.3.1
+75f3ba92e000-75f3ba92f000 rw-p 0002b000 08:02 929285                     /usr/lib/x86_64-linux-gnu/libk5crypto.so.3.1
+75f3ba92f000-75f3ba930000 r--p 00000000 08:02 928997                     /usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.1.0
+75f3ba930000-75f3ba931000 r-xp 00001000 08:02 928997                     /usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.1.0
+75f3ba931000-75f3ba950000 r--p 00002000 08:02 928997                     /usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.1.0
+75f3ba950000-75f3ba951000 r--p 00021000 08:02 928997                     /usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.1.0
+75f3ba951000-75f3ba952000 rw-p 00022000 08:02 928997                     /usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.1.0
+75f3ba952000-75f3ba954000 r--p 00000000 08:02 929256                     /usr/lib/x86_64-linux-gnu/libidn2.so.0.4.0
+75f3ba954000-75f3ba958000 r-xp 00002000 08:02 929256                     /usr/lib/x86_64-linux-gnu/libidn2.so.0.4.0
+75f3ba958000-75f3ba972000 r--p 00006000 08:02 929256                     /usr/lib/x86_64-linux-gnu/libidn2.so.0.4.0
+75f3ba972000-75f3ba973000 r--p 0001f000 08:02 929256                     /usr/lib/x86_64-linux-gnu/libidn2.so.0.4.0
+75f3ba973000-75f3ba974000 rw-p 00020000 08:02 929256                     /usr/lib/x86_64-linux-gnu/libidn2.so.0.4.0
+75f3ba974000-75f3ba97a000 r--p 00000000 08:02 928936                     /usr/lib/x86_64-linux-gnu/libabsl_strings.so.20220623.0.0
+75f3ba97a000-75f3ba989000 r-xp 00006000 08:02 928936                     /usr/lib/x86_64-linux-gnu/libabsl_strings.so.20220623.0.0
+75f3ba989000-75f3ba991000 r--p 00015000 08:02 928936                     /usr/lib/x86_64-linux-gnu/libabsl_strings.so.20220623.0.0
+75f3ba991000-75f3ba992000 r--p 0001c000 08:02 928936                     /usr/lib/x86_64-linux-gnu/libabsl_strings.so.20220623.0.0
+75f3ba992000-75f3ba993000 rw-p 0001d000 08:02 928936                     /usr/lib/x86_64-linux-gnu/libabsl_strings.so.20220623.0.0
+75f3ba993000-75f3ba996000 r--p 00000000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+75f3ba996000-75f3ba9b8000 r-xp 00003000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+75f3ba9b8000-75f3ba9c3000 r--p 00025000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+75f3ba9c3000-75f3ba9c4000 r--p 00030000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+75f3ba9c4000-75f3ba9c5000 rw-p 00031000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+75f3ba9c5000-75f3ba9cc000 r--p 00000000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+75f3ba9cc000-75f3ba9f0000 r-xp 00007000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+75f3ba9f0000-75f3ba9f9000 r--p 0002b000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+75f3ba9f9000-75f3ba9ff000 r--p 00033000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+75f3ba9ff000-75f3baa00000 rw-p 00039000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+75f3baa00000-75f3baa68000 r--p 00000000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+75f3baa68000-75f3bab6d000 r-xp 00068000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+75f3bab6d000-75f3babf7000 r--p 0016d000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+75f3babf7000-75f3bac0a000 r--p 001f7000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+75f3bac0a000-75f3bac0b000 rw-p 0020a000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+75f3bac0b000-75f3bac0d000 rw-p 00000000 00:00 0 
+75f3bac0e000-75f3bac10000 r--p 00000000 08:02 929435                     /usr/lib/x86_64-linux-gnu/libplc4.so
+75f3bac10000-75f3bac12000 r-xp 00002000 08:02 929435                     /usr/lib/x86_64-linux-gnu/libplc4.so
+75f3bac12000-75f3bac13000 r--p 00004000 08:02 929435                     /usr/lib/x86_64-linux-gnu/libplc4.so
+75f3bac13000-75f3bac14000 r--p 00004000 08:02 929435                     /usr/lib/x86_64-linux-gnu/libplc4.so
+75f3bac14000-75f3bac15000 rw-p 00005000 08:02 929435                     /usr/lib/x86_64-linux-gnu/libplc4.so
+75f3bac15000-75f3bac17000 r--p 00000000 08:02 929029                     /usr/lib/x86_64-linux-gnu/libcom_err.so.2.1
+75f3bac17000-75f3bac18000 r-xp 00002000 08:02 929029                     /usr/lib/x86_64-linux-gnu/libcom_err.so.2.1
+75f3bac18000-75f3bac19000 r--p 00003000 08:02 929029                     /usr/lib/x86_64-linux-gnu/libcom_err.so.2.1
+75f3bac19000-75f3bac1a000 r--p 00003000 08:02 929029                     /usr/lib/x86_64-linux-gnu/libcom_err.so.2.1
+75f3bac1a000-75f3bac1b000 rw-p 00004000 08:02 929029                     /usr/lib/x86_64-linux-gnu/libcom_err.so.2.1
+75f3bac1b000-75f3bac1e000 r--p 00000000 08:02 928940                     /usr/lib/x86_64-linux-gnu/libabsl_throw_delegate.so.20220623.0.0
+75f3bac1e000-75f3bac1f000 r-xp 00003000 08:02 928940                     /usr/lib/x86_64-linux-gnu/libabsl_throw_delegate.so.20220623.0.0
+75f3bac1f000-75f3bac20000 r--p 00004000 08:02 928940                     /usr/lib/x86_64-linux-gnu/libabsl_throw_delegate.so.20220623.0.0
+75f3bac20000-75f3bac21000 r--p 00004000 08:02 928940                     /usr/lib/x86_64-linux-gnu/libabsl_throw_delegate.so.20220623.0.0
+75f3bac21000-75f3bac22000 rw-p 00005000 08:02 928940                     /usr/lib/x86_64-linux-gnu/libabsl_throw_delegate.so.20220623.0.0
+75f3bac22000-75f3bac23000 r--p 00000000 08:02 928927                     /usr/lib/x86_64-linux-gnu/libabsl_raw_hash_set.so.20220623.0.0
+75f3bac23000-75f3bac24000 r-xp 00001000 08:02 928927                     /usr/lib/x86_64-linux-gnu/libabsl_raw_hash_set.so.20220623.0.0
+75f3bac24000-75f3bac25000 r--p 00002000 08:02 928927                     /usr/lib/x86_64-linux-gnu/libabsl_raw_hash_set.so.20220623.0.0
+75f3bac25000-75f3bac26000 r--p 00002000 08:02 928927                     /usr/lib/x86_64-linux-gnu/libabsl_raw_hash_set.so.20220623.0.0
+75f3bac26000-75f3bac27000 rw-p 00003000 08:02 928927                     /usr/lib/x86_64-linux-gnu/libabsl_raw_hash_set.so.20220623.0.0
+75f3bac27000-75f3bac32000 r--p 00000000 08:02 929373                     /usr/lib/x86_64-linux-gnu/libnspr4.so
+75f3bac32000-75f3bac54000 r-xp 0000b000 08:02 929373                     /usr/lib/x86_64-linux-gnu/libnspr4.so
+75f3bac54000-75f3bac61000 r--p 0002d000 08:02 929373                     /usr/lib/x86_64-linux-gnu/libnspr4.so
+75f3bac61000-75f3bac62000 r--p 0003a000 08:02 929373                     /usr/lib/x86_64-linux-gnu/libnspr4.so
+75f3bac62000-75f3bac63000 rw-p 0003b000 08:02 929373                     /usr/lib/x86_64-linux-gnu/libnspr4.so
+75f3bac63000-75f3bac66000 rw-p 00000000 00:00 0 
+75f3bac66000-75f3bac73000 r--p 00000000 08:02 929525                     /usr/lib/x86_64-linux-gnu/libssl3.so
+75f3bac73000-75f3bacbb000 r-xp 0000d000 08:02 929525                     /usr/lib/x86_64-linux-gnu/libssl3.so
+75f3bacbb000-75f3baccb000 r--p 00055000 08:02 929525                     /usr/lib/x86_64-linux-gnu/libssl3.so
+75f3baccb000-75f3bacd0000 r--p 00064000 08:02 929525                     /usr/lib/x86_64-linux-gnu/libssl3.so
+75f3bacd0000-75f3bacd1000 rw-p 00069000 08:02 929525                     /usr/lib/x86_64-linux-gnu/libssl3.so
+75f3bacd1000-75f3bace9000 r--p 00000000 08:02 929374                     /usr/lib/x86_64-linux-gnu/libnss3.so
+75f3bace9000-75f3badca000 r-xp 00018000 08:02 929374                     /usr/lib/x86_64-linux-gnu/libnss3.so
+75f3badca000-75f3badf7000 r--p 000f9000 08:02 929374                     /usr/lib/x86_64-linux-gnu/libnss3.so
+75f3badf7000-75f3badfd000 r--p 00125000 08:02 929374                     /usr/lib/x86_64-linux-gnu/libnss3.so
+75f3badfd000-75f3badfe000 rw-p 0012b000 08:02 929374                     /usr/lib/x86_64-linux-gnu/libnss3.so
+75f3badfe000-75f3bae00000 rw-p 00000000 00:00 0 
+75f3bae00000-75f3baeee000 r--p 00000000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+75f3baeee000-75f3bb0b1000 r-xp 000ee000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+75f3bb0b1000-75f3bb13a000 r--p 002b1000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+75f3bb13a000-75f3bb14c000 r--p 00339000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+75f3bb14c000-75f3bb14d000 rw-p 0034b000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+75f3bb14d000-75f3bb154000 rw-p 00000000 00:00 0 
+75f3bb154000-75f3bb155000 r--p 00000000 08:02 928908                     /usr/lib/x86_64-linux-gnu/libabsl_hash.so.20220623.0.0
+75f3bb155000-75f3bb156000 r-xp 00001000 08:02 928908                     /usr/lib/x86_64-linux-gnu/libabsl_hash.so.20220623.0.0
+75f3bb156000-75f3bb157000 r--p 00002000 08:02 928908                     /usr/lib/x86_64-linux-gnu/libabsl_hash.so.20220623.0.0
+75f3bb157000-75f3bb158000 r--p 00002000 08:02 928908                     /usr/lib/x86_64-linux-gnu/libabsl_hash.so.20220623.0.0
+75f3bb158000-75f3bb159000 rw-p 00003000 08:02 928908                     /usr/lib/x86_64-linux-gnu/libabsl_hash.so.20220623.0.0
+75f3bb159000-75f3bb15b000 rw-p 00000000 00:00 0 
+75f3bb15b000-75f3bb163000 r--p 00000000 08:02 929507                     /usr/lib/x86_64-linux-gnu/libsmime3.so
+75f3bb163000-75f3bb17b000 r-xp 00008000 08:02 929507                     /usr/lib/x86_64-linux-gnu/libsmime3.so
+75f3bb17b000-75f3bb180000 r--p 00020000 08:02 929507                     /usr/lib/x86_64-linux-gnu/libsmime3.so
+75f3bb180000-75f3bb183000 r--p 00024000 08:02 929507                     /usr/lib/x86_64-linux-gnu/libsmime3.so
+75f3bb183000-75f3bb184000 rw-p 00027000 08:02 929507                     /usr/lib/x86_64-linux-gnu/libsmime3.so
+75f3bb184000-75f3bb189000 r--p 00000000 08:02 929362                     /usr/lib/x86_64-linux-gnu/libnghttp2.so.14.26.0
+75f3bb189000-75f3bb19f000 r-xp 00005000 08:02 929362                     /usr/lib/x86_64-linux-gnu/libnghttp2.so.14.26.0
+75f3bb19f000-75f3bb1ab000 r--p 0001b000 08:02 929362                     /usr/lib/x86_64-linux-gnu/libnghttp2.so.14.26.0
+75f3bb1ab000-75f3bb1ae000 r--p 00026000 08:02 929362                     /usr/lib/x86_64-linux-gnu/libnghttp2.so.14.26.0
+75f3bb1ae000-75f3bb1af000 rw-p 00029000 08:02 929362                     /usr/lib/x86_64-linux-gnu/libnghttp2.so.14.26.0
+75f3bb1af000-75f3bb1bb000 r--p 00000000 08:02 929192                     /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2.2
+75f3bb1bb000-75f3bb1f5000 r-xp 0000c000 08:02 929192                     /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2.2
+75f3bb1f5000-75f3bb1ff000 r--p 00046000 08:02 929192                     /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2.2
+75f3bb1ff000-75f3bb201000 r--p 0004f000 08:02 929192                     /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2.2
+75f3bb201000-75f3bb203000 rw-p 00051000 08:02 929192                     /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2.2
+75f3bb203000-75f3bb204000 r--p 00000000 08:02 928998                     /usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.1.0
+75f3bb204000-75f3bb20c000 r-xp 00001000 08:02 928998                     /usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.1.0
+75f3bb20c000-75f3bb20f000 r--p 00009000 08:02 928998                     /usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.1.0
+75f3bb20f000-75f3bb210000 r--p 0000b000 08:02 928998                     /usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.1.0
+75f3bb210000-75f3bb211000 rw-p 0000c000 08:02 928998                     /usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.1.0
+75f3bb211000-75f3bb213000 r--p 00000000 08:02 929456                     /usr/lib/x86_64-linux-gnu/libpsl.so.5.3.4
+75f3bb213000-75f3bb215000 r-xp 00002000 08:02 929456                     /usr/lib/x86_64-linux-gnu/libpsl.so.5.3.4
+75f3bb215000-75f3bb223000 r--p 00004000 08:02 929456                     /usr/lib/x86_64-linux-gnu/libpsl.so.5.3.4
+75f3bb223000-75f3bb224000 r--p 00011000 08:02 929456                     /usr/lib/x86_64-linux-gnu/libpsl.so.5.3.4
+75f3bb224000-75f3bb225000 rw-p 00012000 08:02 929456                     /usr/lib/x86_64-linux-gnu/libpsl.so.5.3.4
+75f3bb225000-75f3bb23b000 r--p 00000000 08:02 929429                     /usr/lib/x86_64-linux-gnu/libphonenumber.so.8.12
+75f3bb23b000-75f3bb27b000 r-xp 00016000 08:02 929429                     /usr/lib/x86_64-linux-gnu/libphonenumber.so.8.12
+75f3bb27b000-75f3bb2d5000 r--p 00056000 08:02 929429                     /usr/lib/x86_64-linux-gnu/libphonenumber.so.8.12
+75f3bb2d5000-75f3bb2d6000 r--p 000af000 08:02 929429                     /usr/lib/x86_64-linux-gnu/libphonenumber.so.8.12
+75f3bb2d6000-75f3bb2d7000 rw-p 000b0000 08:02 929429                     /usr/lib/x86_64-linux-gnu/libphonenumber.so.8.12
+75f3bb2d7000-75f3bb2db000 r--p 00000000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+75f3bb2db000-75f3bb2ff000 r-xp 00004000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+75f3bb2ff000-75f3bb303000 r--p 00028000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+75f3bb303000-75f3bb304000 r--p 0002b000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+75f3bb304000-75f3bb305000 rw-p 0002c000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+75f3bb305000-75f3bb30e000 r--p 00000000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+75f3bb30e000-75f3bb326000 r-xp 00009000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+75f3bb326000-75f3bb32f000 r--p 00021000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+75f3bb32f000-75f3bb330000 r--p 0002a000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+75f3bb330000-75f3bb331000 rw-p 0002b000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+75f3bb331000-75f3bb360000 r--p 00000000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+75f3bb360000-75f3bb4c6000 r-xp 0002f000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+75f3bb4c6000-75f3bb508000 r--p 00195000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+75f3bb508000-75f3bb511000 r--p 001d6000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+75f3bb511000-75f3bb512000 rw-p 001df000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+75f3bb512000-75f3bb513000 rw-p 00000000 00:00 0 
+75f3bb513000-75f3bb526000 r--p 00000000 08:02 929494                     /usr/lib/x86_64-linux-gnu/libsecret-1.so.0.0.0
+75f3bb526000-75f3bb559000 r-xp 00013000 08:02 929494                     /usr/lib/x86_64-linux-gnu/libsecret-1.so.0.0.0
+75f3bb559000-75f3bb56d000 r--p 00046000 08:02 929494                     /usr/lib/x86_64-linux-gnu/libsecret-1.so.0.0.0
+75f3bb56d000-75f3bb571000 r--p 00059000 08:02 929494                     /usr/lib/x86_64-linux-gnu/libsecret-1.so.0.0.0
+75f3bb571000-75f3bb572000 rw-p 0005d000 08:02 929494                     /usr/lib/x86_64-linux-gnu/libsecret-1.so.0.0.0
+75f3bb572000-75f3bb594000 r--p 00000000 08:02 929042                     /usr/lib/x86_64-linux-gnu/libdb-5.3.so
+75f3bb594000-75f3bb6e1000 r-xp 00022000 08:02 929042                     /usr/lib/x86_64-linux-gnu/libdb-5.3.so
+75f3bb6e1000-75f3bb71a000 r--p 0016f000 08:02 929042                     /usr/lib/x86_64-linux-gnu/libdb-5.3.so
+75f3bb71a000-75f3bb721000 r--p 001a8000 08:02 929042                     /usr/lib/x86_64-linux-gnu/libdb-5.3.so
+75f3bb721000-75f3bb722000 rw-p 001af000 08:02 929042                     /usr/lib/x86_64-linux-gnu/libdb-5.3.so
+75f3bb722000-75f3bb724000 r--p 00000000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+75f3bb724000-75f3bb72b000 r-xp 00002000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+75f3bb72b000-75f3bb72c000 r--p 00009000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+75f3bb72c000-75f3bb72d000 r--p 0000a000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+75f3bb72d000-75f3bb72e000 rw-p 0000b000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+75f3bb72e000-75f3bb734000 r--p 00000000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+75f3bb734000-75f3bb751000 r-xp 00006000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+75f3bb751000-75f3bb757000 r--p 00023000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+75f3bb757000-75f3bb758000 r--p 00029000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+75f3bb758000-75f3bb759000 rw-p 0002a000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+75f3bb759000-75f3bb75b000 rw-p 00000000 00:00 0 
+75f3bb75b000-75f3bb764000 r--p 00000000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+75f3bb764000-75f3bb798000 r-xp 00009000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+75f3bb798000-75f3bb7a5000 r--p 0003d000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+75f3bb7a5000-75f3bb7a7000 r--p 00049000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+75f3bb7a7000-75f3bb7a8000 rw-p 0004b000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+75f3bb7a8000-75f3bb7aa000 r--p 00000000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+75f3bb7aa000-75f3bb818000 r-xp 00002000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+75f3bb818000-75f3bb840000 r--p 00070000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+75f3bb840000-75f3bb841000 r--p 00097000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+75f3bb841000-75f3bb842000 rw-p 00098000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+75f3bb842000-75f3bb852000 r--p 00000000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+75f3bb852000-75f3bb8d1000 r-xp 00010000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+75f3bb8d1000-75f3bb929000 r--p 0008f000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+75f3bb929000-75f3bb92a000 r--p 000e7000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+75f3bb92a000-75f3bb92b000 rw-p 000e8000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+75f3bb92b000-75f3bb962000 r--p 00000000 08:02 929011                     /usr/lib/x86_64-linux-gnu/libcamel-1.2.so.64.0.0
+75f3bb962000-75f3bba2e000 r-xp 00037000 08:02 929011                     /usr/lib/x86_64-linux-gnu/libcamel-1.2.so.64.0.0
+75f3bba2e000-75f3bba78000 r--p 00103000 08:02 929011                     /usr/lib/x86_64-linux-gnu/libcamel-1.2.so.64.0.0
+75f3bba78000-75f3bba82000 r--p 0014d000 08:02 929011                     /usr/lib/x86_64-linux-gnu/libcamel-1.2.so.64.0.0
+75f3bba82000-75f3bba97000 rw-p 00157000 08:02 929011                     /usr/lib/x86_64-linux-gnu/libcamel-1.2.so.64.0.0
+75f3bba97000-75f3bba98000 rw-p 00000000 00:00 0 
+75f3bba98000-75f3bbab8000 r--p 00000000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+75f3bbab8000-75f3bbbc3000 r-xp 00020000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+75f3bbbc3000-75f3bbbf7000 r--p 0012b000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+75f3bbbf7000-75f3bbbfb000 r--p 0015e000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+75f3bbbfb000-75f3bbbff000 rw-p 00162000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+75f3bbbff000-75f3bbc00000 rw-p 00000000 00:00 0 
+75f3bbc00000-75f3bbc28000 r--p 00000000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+75f3bbc28000-75f3bbdb0000 r-xp 00028000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+75f3bbdb0000-75f3bbdff000 r--p 001b0000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+75f3bbdff000-75f3bbe03000 r--p 001fe000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+75f3bbe03000-75f3bbe05000 rw-p 00202000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+75f3bbe05000-75f3bbe1a000 rw-p 00000000 00:00 0 
+75f3bbe1a000-75f3bbe1c000 r--p 00000000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+75f3bbe1c000-75f3bbe2e000 r-xp 00002000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+75f3bbe2e000-75f3bbe34000 r--p 00014000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+75f3bbe34000-75f3bbe35000 r--p 0001a000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+75f3bbe35000-75f3bbe36000 rw-p 0001b000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+75f3bbe36000-75f3bbe38000 r--p 00000000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+75f3bbe38000-75f3bbe3a000 r-xp 00002000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+75f3bbe3a000-75f3bbe3b000 r--p 00004000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+75f3bbe3b000-75f3bbe3c000 r--p 00004000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+75f3bbe3c000-75f3bbe3d000 rw-p 00005000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+75f3bbe3d000-75f3bbe3f000 rw-p 00000000 00:00 0 
+75f3bbe3f000-75f3bbe58000 r--p 00000000 08:02 929515                     /usr/lib/x86_64-linux-gnu/libsoup-3.0.so.0.7.1
+75f3bbe58000-75f3bbeb1000 r-xp 00019000 08:02 929515                     /usr/lib/x86_64-linux-gnu/libsoup-3.0.so.0.7.1
+75f3bbeb1000-75f3bbed3000 r--p 00072000 08:02 929515                     /usr/lib/x86_64-linux-gnu/libsoup-3.0.so.0.7.1
+75f3bbed3000-75f3bbed7000 r--p 00093000 08:02 929515                     /usr/lib/x86_64-linux-gnu/libsoup-3.0.so.0.7.1
+75f3bbed7000-75f3bbed8000 rw-p 00097000 08:02 929515                     /usr/lib/x86_64-linux-gnu/libsoup-3.0.so.0.7.1
+75f3bbed8000-75f3bbee4000 r--p 00000000 08:02 929078                     /usr/lib/x86_64-linux-gnu/libebook-contacts-1.2.so.4.0.0
+75f3bbee4000-75f3bbefa000 r-xp 0000c000 08:02 929078                     /usr/lib/x86_64-linux-gnu/libebook-contacts-1.2.so.4.0.0
+75f3bbefa000-75f3bbf02000 r--p 00022000 08:02 929078                     /usr/lib/x86_64-linux-gnu/libebook-contacts-1.2.so.4.0.0
+75f3bbf02000-75f3bbf06000 r--p 0002a000 08:02 929078                     /usr/lib/x86_64-linux-gnu/libebook-contacts-1.2.so.4.0.0
+75f3bbf06000-75f3bbf07000 rw-p 0002e000 08:02 929078                     /usr/lib/x86_64-linux-gnu/libebook-contacts-1.2.so.4.0.0
+75f3bbf07000-75f3bbf34000 r--p 00000000 08:02 929082                     /usr/lib/x86_64-linux-gnu/libedataserver-1.2.so.27.0.0
+75f3bbf34000-75f3bbfb2000 r-xp 0002d000 08:02 929082                     /usr/lib/x86_64-linux-gnu/libedataserver-1.2.so.27.0.0
+75f3bbfb2000-75f3bbfe6000 r--p 000ab000 08:02 929082                     /usr/lib/x86_64-linux-gnu/libedataserver-1.2.so.27.0.0
+75f3bbfe6000-75f3bbfec000 r--p 000df000 08:02 929082                     /usr/lib/x86_64-linux-gnu/libedataserver-1.2.so.27.0.0
+75f3bbfec000-75f3bbfed000 rw-p 000e5000 08:02 929082                     /usr/lib/x86_64-linux-gnu/libedataserver-1.2.so.27.0.0
+75f3bbfed000-75f3bbfef000 rw-p 00000000 00:00 0 
+75f3bbfef000-75f3bc002000 r--p 00000000 08:02 929076                     /usr/lib/x86_64-linux-gnu/libebackend-1.2.so.11.0.0
+75f3bc002000-75f3bc031000 r-xp 00013000 08:02 929076                     /usr/lib/x86_64-linux-gnu/libebackend-1.2.so.11.0.0
+75f3bc031000-75f3bc043000 r--p 00042000 08:02 929076                     /usr/lib/x86_64-linux-gnu/libebackend-1.2.so.11.0.0
+75f3bc043000-75f3bc046000 r--p 00054000 08:02 929076                     /usr/lib/x86_64-linux-gnu/libebackend-1.2.so.11.0.0
+75f3bc046000-75f3bc047000 rw-p 00057000 08:02 929076                     /usr/lib/x86_64-linux-gnu/libebackend-1.2.so.11.0.0
+75f3bc047000-75f3bc056000 r--p 00000000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+75f3bc056000-75f3bc08d000 r-xp 0000f000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+75f3bc08d000-75f3bc0a6000 r--p 00046000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+75f3bc0a6000-75f3bc0a9000 r--p 0005e000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+75f3bc0a9000-75f3bc0aa000 rw-p 00061000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+75f3bc0aa000-75f3bc0e3000 r--p 00000000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+75f3bc0e3000-75f3bc1fa000 r-xp 00039000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+75f3bc1fa000-75f3bc26f000 r--p 00150000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+75f3bc26f000-75f3bc277000 r--p 001c4000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+75f3bc277000-75f3bc278000 rw-p 001cc000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+75f3bc278000-75f3bc27a000 rw-p 00000000 00:00 0 
+75f3bc27a000-75f3bc298000 r--p 00000000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+75f3bc298000-75f3bc338000 r-xp 0001e000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+75f3bc338000-75f3bc3c0000 r--p 000be000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+75f3bc3c0000-75f3bc3c1000 r--p 00146000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+75f3bc3c1000-75f3bc3c2000 rw-p 00147000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+75f3bc3c2000-75f3bc3c3000 rw-p 00000000 00:00 0 
+75f3bc3c3000-75f3bc3e4000 r--p 00000000 08:02 929080                     /usr/lib/x86_64-linux-gnu/libedata-book-1.2.so.27.0.0
+75f3bc3e4000-75f3bc465000 r-xp 00021000 08:02 929080                     /usr/lib/x86_64-linux-gnu/libedata-book-1.2.so.27.0.0
+75f3bc465000-75f3bc48d000 r--p 000a2000 08:02 929080                     /usr/lib/x86_64-linux-gnu/libedata-book-1.2.so.27.0.0
+75f3bc48d000-75f3bc494000 r--p 000c9000 08:02 929080                     /usr/lib/x86_64-linux-gnu/libedata-book-1.2.so.27.0.0
+75f3bc494000-75f3bc495000 rw-p 000d0000 08:02 929080                     /usr/lib/x86_64-linux-gnu/libedata-book-1.2.so.27.0.0
+75f3bc49a000-75f3bc49b000 r--p 00000000 08:02 1090058                    /usr/share/locale-langpack/ru/LC_MESSAGES/evolution-data-server.mo
+75f3bc49b000-75f3bc49d000 r--p 00000000 08:02 528358                     /home/mark/.config/dconf/user (deleted)
+75f3bc49d000-75f3bc49e000 r--s 00000000 00:46 104                        /run/user/1000/dconf/user (deleted)
+75f3bc49e000-75f3bc4a5000 r--s 00000000 08:02 919962                     /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+75f3bc4a5000-75f3bc4a7000 rw-p 00000000 00:00 0 
+75f3bc4a7000-75f3bc4a9000 r--p 00000000 00:00 0                          [vvar]
+75f3bc4a9000-75f3bc4ab000 r--p 00000000 00:00 0                          [vvar_vclock]
+75f3bc4ab000-75f3bc4ad000 r-xp 00000000 00:00 0                          [vdso]
+75f3bc4ad000-75f3bc4ae000 r--p 00000000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+75f3bc4ae000-75f3bc4d9000 r-xp 00001000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+75f3bc4d9000-75f3bc4e3000 r--p 0002c000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+75f3bc4e3000-75f3bc4e5000 r--p 00036000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+75f3bc4e5000-75f3bc4e7000 rw-p 00038000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffc30cfd000-7ffc30d1e000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

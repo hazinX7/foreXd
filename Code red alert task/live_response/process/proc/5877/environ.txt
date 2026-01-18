@@ -1,0 +1,11 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+NOTIFY_SOCKET=/run/systemd/notify
+USER=root
+LOGNAME=root
+HOME=/root
+SHELL=/usr/bin/bash
+INVOCATION_ID=edf4331c10e94e7cbf52e56be0146842
+JOURNAL_STREAM=9:35177
+SYSTEMD_EXEC_PID=5877
+XDG_RUNTIME_DIR=/run/user/0

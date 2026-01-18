@@ -1,0 +1,12 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+NOTIFY_SOCKET=/run/systemd/notify
+LISTEN_PID=811
+LISTEN_FDS=1
+LISTEN_FDNAMES=syslog.socket
+USER=root
+INVOCATION_ID=84a9069364c6496c8c7e7c176e522f54
+JOURNAL_STREAM=9:9393
+SYSTEMD_EXEC_PID=811
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/rsyslog.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

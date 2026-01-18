@@ -1,0 +1,127 @@
+5ec02948f000-5ec0294a5000 r--p 00000000 08:02 934196                     /usr/sbin/rsyslogd
+5ec0294a5000-5ec029514000 r-xp 00016000 08:02 934196                     /usr/sbin/rsyslogd
+5ec029514000-5ec029545000 r--p 00085000 08:02 934196                     /usr/sbin/rsyslogd
+5ec029545000-5ec029548000 r--p 000b6000 08:02 934196                     /usr/sbin/rsyslogd
+5ec029548000-5ec029550000 rw-p 000b9000 08:02 934196                     /usr/sbin/rsyslogd
+5ec029550000-5ec029551000 rw-p 00000000 00:00 0 
+5ec030fb8000-5ec030ff8000 rw-p 00000000 00:00 0                          [heap]
+76b218000000-76b21805f000 rw-p 00000000 00:00 0 
+76b21805f000-76b21c000000 ---p 00000000 00:00 0 
+76b21c000000-76b21c029000 rw-p 00000000 00:00 0 
+76b21c029000-76b220000000 ---p 00000000 00:00 0 
+76b220000000-76b220033000 rw-p 00000000 00:00 0 
+76b220033000-76b224000000 ---p 00000000 00:00 0 
+76b225085000-76b225086000 ---p 00000000 00:00 0 
+76b225086000-76b225886000 rw-p 00000000 00:00 0 
+76b225886000-76b225887000 ---p 00000000 00:00 0 
+76b225887000-76b225c87000 rw-p 00000000 00:00 0 
+76b225c87000-76b225c88000 ---p 00000000 00:00 0 
+76b225c88000-76b226088000 rw-p 00000000 00:00 0 
+76b226088000-76b22614c000 rw-p 00000000 00:00 0 
+76b22614c000-76b22614e000 r--p 00000000 08:02 929385                     /usr/lib/x86_64-linux-gnu/libnss_sss.so.2
+76b22614e000-76b226156000 r-xp 00002000 08:02 929385                     /usr/lib/x86_64-linux-gnu/libnss_sss.so.2
+76b226156000-76b226158000 r--p 0000a000 08:02 929385                     /usr/lib/x86_64-linux-gnu/libnss_sss.so.2
+76b226158000-76b226159000 r--p 0000b000 08:02 929385                     /usr/lib/x86_64-linux-gnu/libnss_sss.so.2
+76b226159000-76b22615a000 rw-p 0000c000 08:02 929385                     /usr/lib/x86_64-linux-gnu/libnss_sss.so.2
+76b22615a000-76b226162000 r--p 00000000 08:02 929386                     /usr/lib/x86_64-linux-gnu/libnss_systemd.so.2
+76b226162000-76b2261a1000 r-xp 00008000 08:02 929386                     /usr/lib/x86_64-linux-gnu/libnss_systemd.so.2
+76b2261a1000-76b2261b1000 r--p 00047000 08:02 929386                     /usr/lib/x86_64-linux-gnu/libnss_systemd.so.2
+76b2261b1000-76b2261b5000 r--p 00056000 08:02 929386                     /usr/lib/x86_64-linux-gnu/libnss_systemd.so.2
+76b2261b5000-76b2261b6000 rw-p 0005a000 08:02 929386                     /usr/lib/x86_64-linux-gnu/libnss_systemd.so.2
+76b2261c6000-76b2261c8000 r--p 00000000 08:02 932840                     /usr/lib/x86_64-linux-gnu/rsyslog/imklog.so
+76b2261c8000-76b2261cb000 r-xp 00002000 08:02 932840                     /usr/lib/x86_64-linux-gnu/rsyslog/imklog.so
+76b2261cb000-76b2261cc000 r--p 00005000 08:02 932840                     /usr/lib/x86_64-linux-gnu/rsyslog/imklog.so
+76b2261cc000-76b2261cd000 r--p 00005000 08:02 932840                     /usr/lib/x86_64-linux-gnu/rsyslog/imklog.so
+76b2261cd000-76b2261ce000 rw-p 00006000 08:02 932840                     /usr/lib/x86_64-linux-gnu/rsyslog/imklog.so
+76b2261ce000-76b2261d0000 r--p 00000000 08:02 932847                     /usr/lib/x86_64-linux-gnu/rsyslog/imuxsock.so
+76b2261d0000-76b2261d5000 r-xp 00002000 08:02 932847                     /usr/lib/x86_64-linux-gnu/rsyslog/imuxsock.so
+76b2261d5000-76b2261d7000 r--p 00007000 08:02 932847                     /usr/lib/x86_64-linux-gnu/rsyslog/imuxsock.so
+76b2261d7000-76b2261d8000 r--p 00008000 08:02 932847                     /usr/lib/x86_64-linux-gnu/rsyslog/imuxsock.so
+76b2261d8000-76b2261d9000 rw-p 00009000 08:02 932847                     /usr/lib/x86_64-linux-gnu/rsyslog/imuxsock.so
+76b2261d9000-76b2261dd000 r--p 00000000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+76b2261dd000-76b2261f3000 r-xp 00004000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+76b2261f3000-76b2261fc000 r--p 0001a000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+76b2261fc000-76b2261fd000 r--p 00023000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+76b2261fd000-76b2261fe000 rw-p 00024000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+76b2261fe000-76b226202000 r--p 00000000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+76b226202000-76b2262a9000 r-xp 00004000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+76b2262a9000-76b2262b6000 r--p 000ab000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+76b2262b6000-76b2262b7000 r--p 000b7000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+76b2262b7000-76b2262b8000 rw-p 000b8000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+76b2262b8000-76b2262c7000 r--p 00000000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+76b2262c7000-76b2263bb000 r-xp 0000f000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+76b2263bb000-76b2263f6000 r--p 00103000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+76b2263f6000-76b2263fb000 r--p 0013e000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+76b2263fb000-76b2263ff000 rw-p 00143000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+76b2263ff000-76b226400000 rw-p 00000000 00:00 0 
+76b226400000-76b226428000 r--p 00000000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+76b226428000-76b2265b0000 r-xp 00028000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+76b2265b0000-76b2265ff000 r--p 001b0000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+76b2265ff000-76b226603000 r--p 001fe000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+76b226603000-76b226605000 rw-p 00202000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+76b226605000-76b226612000 rw-p 00000000 00:00 0 
+76b226619000-76b22661e000 rw-p 00000000 00:00 0 
+76b22661e000-76b226621000 r--p 00000000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+76b226621000-76b226643000 r-xp 00003000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+76b226643000-76b22664e000 r--p 00025000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+76b22664e000-76b22664f000 r--p 00030000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+76b22664f000-76b226650000 rw-p 00031000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+76b226650000-76b226652000 rw-p 00000000 00:00 0 
+76b226652000-76b226655000 r--p 00000000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+76b226655000-76b226670000 r-xp 00003000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+76b226670000-76b226672000 r--p 0001e000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+76b226672000-76b226673000 r--p 00020000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+76b226673000-76b226674000 rw-p 00021000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+76b226674000-76b226677000 r--p 00000000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+76b226677000-76b22667d000 r-xp 00003000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+76b22667d000-76b22667f000 r--p 00009000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+76b22667f000-76b226680000 r--p 0000b000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+76b226680000-76b226681000 rw-p 0000c000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+76b226681000-76b226683000 r--p 00000000 08:02 929584                     /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+76b226683000-76b226688000 r-xp 00002000 08:02 929584                     /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+76b226688000-76b226689000 r--p 00007000 08:02 929584                     /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+76b226689000-76b22668a000 r--p 00007000 08:02 929584                     /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+76b22668a000-76b22668b000 rw-p 00008000 08:02 929584                     /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+76b22668b000-76b22668d000 rw-p 00000000 00:00 0 
+76b22668d000-76b2266a3000 r--p 00000000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+76b2266a3000-76b226732000 r-xp 00016000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+76b226732000-76b226760000 r--p 000a5000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+76b226760000-76b22676b000 r--p 000d2000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+76b22676b000-76b22676c000 rw-p 000dd000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+76b22676c000-76b22676d000 rw-p 00000000 00:00 0 
+76b22676d000-76b226770000 r--p 00000000 08:02 929106                     /usr/lib/x86_64-linux-gnu/libfastjson.so.4.3.0
+76b226770000-76b226777000 r-xp 00003000 08:02 929106                     /usr/lib/x86_64-linux-gnu/libfastjson.so.4.3.0
+76b226777000-76b226779000 r--p 0000a000 08:02 929106                     /usr/lib/x86_64-linux-gnu/libfastjson.so.4.3.0
+76b226779000-76b22677a000 r--p 0000b000 08:02 929106                     /usr/lib/x86_64-linux-gnu/libfastjson.so.4.3.0
+76b22677a000-76b22677b000 rw-p 0000c000 08:02 929106                     /usr/lib/x86_64-linux-gnu/libfastjson.so.4.3.0
+76b22677b000-76b22677c000 r--p 00000000 08:02 929095                     /usr/lib/x86_64-linux-gnu/libestr.so.0.0.0
+76b22677c000-76b22677e000 r-xp 00001000 08:02 929095                     /usr/lib/x86_64-linux-gnu/libestr.so.0.0.0
+76b22677e000-76b22677f000 r--p 00003000 08:02 929095                     /usr/lib/x86_64-linux-gnu/libestr.so.0.0.0
+76b22677f000-76b226780000 r--p 00003000 08:02 929095                     /usr/lib/x86_64-linux-gnu/libestr.so.0.0.0
+76b226780000-76b226781000 rw-p 00004000 08:02 929095                     /usr/lib/x86_64-linux-gnu/libestr.so.0.0.0
+76b226781000-76b226791000 r--p 00000000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+76b226791000-76b226810000 r-xp 00010000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+76b226810000-76b226868000 r--p 0008f000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+76b226868000-76b226869000 r--p 000e7000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+76b226869000-76b22686a000 rw-p 000e8000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+76b22686a000-76b22686c000 r--p 00000000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+76b22686c000-76b22687e000 r-xp 00002000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+76b22687e000-76b226884000 r--p 00014000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+76b226884000-76b226885000 r--p 0001a000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+76b226885000-76b226886000 rw-p 0001b000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+76b22688c000-76b22688e000 r--p 00000000 08:02 932848                     /usr/lib/x86_64-linux-gnu/rsyslog/lmnet.so
+76b22688e000-76b226892000 r-xp 00002000 08:02 932848                     /usr/lib/x86_64-linux-gnu/rsyslog/lmnet.so
+76b226892000-76b226894000 r--p 00006000 08:02 932848                     /usr/lib/x86_64-linux-gnu/rsyslog/lmnet.so
+76b226894000-76b226895000 r--p 00007000 08:02 932848                     /usr/lib/x86_64-linux-gnu/rsyslog/lmnet.so
+76b226895000-76b226896000 rw-p 00008000 08:02 932848                     /usr/lib/x86_64-linux-gnu/rsyslog/lmnet.so
+76b226896000-76b226898000 rw-p 00000000 00:00 0 
+76b226898000-76b22689a000 r--p 00000000 00:00 0                          [vvar]
+76b22689a000-76b22689c000 r--p 00000000 00:00 0                          [vvar_vclock]
+76b22689c000-76b22689e000 r-xp 00000000 00:00 0                          [vdso]
+76b22689e000-76b22689f000 r--p 00000000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+76b22689f000-76b2268ca000 r-xp 00001000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+76b2268ca000-76b2268d4000 r--p 0002c000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+76b2268d4000-76b2268d6000 r--p 00036000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+76b2268d6000-76b2268d8000 rw-p 00038000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffe33697000-7ffe336b8000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

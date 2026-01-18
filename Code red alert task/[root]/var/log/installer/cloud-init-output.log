@@ -1,0 +1,79 @@
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 running 'init-local' at Wed, 19 Nov 2025 12:49:18 +0000. Up 10.75 seconds.
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 running 'init' at Wed, 19 Nov 2025 12:49:29 +0000. Up 22.00 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |           Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+ci-info: | enp0s3 | True |          10.0.2.15          | 255.255.255.0 | global | 08:00:27:67:98:5e |
+ci-info: | enp0s3 | True | fe80::a00:27ff:fe67:985e/64 |       .       |  link  | 08:00:27:67:98:5e |
+ci-info: |   lo   | True |          127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |           ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+ci-info: +++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++
+ci-info: +-------+-------------+----------+---------------+-----------+-------+
+ci-info: | Route | Destination | Gateway  |    Genmask    | Interface | Flags |
+ci-info: +-------+-------------+----------+---------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 10.0.2.2 |    0.0.0.0    |   enp0s3  |   UG  |
+ci-info: |   1   |   10.0.2.0  | 0.0.0.0  | 255.255.255.0 |   enp0s3  |   U   |
+ci-info: +-------+-------------+----------+---------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |   enp0s3  |   U   |
+ci-info: |   2   |  multicast  |    ::   |   enp0s3  |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Generating public/private rsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_rsa_key
+Your public key has been saved in /etc/ssh/ssh_host_rsa_key.pub
+The key fingerprint is:
+SHA256:t20mFDC8F+XaoqkQqsG57dB7AB9MSLE/IPGWxIdAZf8 root@ubuntu
+The key's randomart image is:
++---[RSA 3072]----+
+|=*=+   .o  ..    |
+| ==oo   .o..     |
+|.o*. .   ....    |
+|.ooo  . . .+     |
+|  ooo  ES.= .    |
+|. o+..   = +     |
+|.+..o   o o +    |
+| o+ .o .   +     |
+|...+. .          |
++----[SHA256]-----+
+Generating public/private ecdsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ecdsa_key
+Your public key has been saved in /etc/ssh/ssh_host_ecdsa_key.pub
+The key fingerprint is:
+SHA256:4WY3SVod7ArFLHHEz+a3+TMTLO6dhktF0AEa5g4AUdo root@ubuntu
+The key's randomart image is:
++---[ECDSA 256]---+
+|     o+o.*o+.oo..|
+|      o o.B.+... |
+|     . E.+o*.  . |
+|       ..=o.= .  |
+|        S.+=  .. |
+|       o .....oo |
+|            .ooo.|
+|            .o+=.|
+|            .oo+=|
++----[SHA256]-----+
+Generating public/private ed25519 key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ed25519_key
+Your public key has been saved in /etc/ssh/ssh_host_ed25519_key.pub
+The key fingerprint is:
+SHA256:X27tozIDy9k1qtmJ0fP4bjOix/8ko7Ss0pZLtkKsefU root@ubuntu
+The key's randomart image is:
++--[ED25519 256]--+
+|                 |
+|                 |
+|                 |
+|                 |
+|     .  S   .    |
+|      o oo oo.   |
+|     + ++O=o=.o  |
+|    o +oBOEO+=.  |
+|     . +O*BX*=o. |
++----[SHA256]-----+
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 running 'modules:config' at Wed, 19 Nov 2025 12:49:31 +0000. Up 23.58 seconds.
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 running 'modules:final' at Wed, 19 Nov 2025 12:50:11 +0000. Up 60.72 seconds.
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 finished at Wed, 19 Nov 2025 12:50:11 +0000. Datasource DataSourceNoCloud [seed=/var/lib/cloud/seed/nocloud].  Up 60.77 seconds

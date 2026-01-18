@@ -1,0 +1,43 @@
+enp0s8: connected to ????????? ??????????? 1
+	"Intel 82540EM"
+	ethernet (e1000), 08:00:27:57:68:64, hw, mtu 1500
+	ip4 default
+	inet4 192.168.0.101/24
+	route4 192.168.0.0/24 metric 101
+	route4 default via 192.168.0.1 metric 101
+	inet6 fe80::dea1:312e:61ed:9689/64
+	route6 fe80::/64 metric 1024
+
+enp0s9: connected to ????????? ??????????? 2
+	"Intel 82540EM"
+	ethernet (e1000), 08:00:27:7D:FD:33, hw, mtu 1500
+	inet4 10.0.2.4/24
+	route4 10.0.2.0/24 metric 102
+	route4 default via 10.0.2.1 metric 102
+	inet6 fe80::c4c9:7089:c9f7:5a89/64
+	route6 fe80::/64 metric 1024
+
+enp0s3: connected to netplan-enp0s3
+	"Intel 82540EM"
+	ethernet (e1000), 08:00:27:67:98:5E, hw, mtu 1500
+	inet4 192.168.54.101/24
+	route4 default via 192.168.54.1 metric 20100
+	route4 192.168.54.0/24 metric 100
+
+lo: connected (externally) to lo
+	"lo"
+	loopback (unknown), 00:00:00:00:00:00, sw, mtu 65536
+	inet4 127.0.0.1/8
+	inet6 ::1/128
+
+DNS configuration:
+	servers: 192.168.0.1
+	interface: enp0s9
+
+	servers: 192.168.0.1
+	interface: enp0s8
+
+Use "nmcli device show" to get complete information about known devices and
+"nmcli connection show" to get an overview on active connection profiles.
+
+Consult nmcli(1) and nmcli-examples(7) manual pages for complete usage details.

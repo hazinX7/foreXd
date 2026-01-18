@@ -1,0 +1,14 @@
+total 0
+dr-x------ 2 root     root     12 Nov 23 12:35 .
+dr-xr-xr-x 9 www-data www-data  0 Nov 23 12:32 ..
+lr-x------ 1 root     root     64 Nov 23 12:35 0 -> /dev/null
+l-wx------ 1 root     root     64 Nov 23 12:35 1 -> /dev/null
+lrwx------ 1 root     root     64 Nov 23 12:35 10 -> anon_inode:[eventpoll]
+l-wx------ 1 root     root     64 Nov 23 12:35 2 -> /var/log/apache2/error.log
+lrwx------ 1 root     root     64 Nov 23 12:35 3 -> socket:[11533]
+lr-x------ 1 root     root     64 Nov 23 12:35 4 -> pipe:[12509]
+l-wx------ 1 root     root     64 Nov 23 12:35 5 -> pipe:[12509]
+l-wx------ 1 root     root     64 Nov 23 12:35 6 -> /var/log/apache2/mysms_error.log
+l-wx------ 1 root     root     64 Nov 23 12:35 7 -> /var/log/apache2/other_vhosts_access.log
+l-wx------ 1 root     root     64 Nov 23 12:35 8 -> /var/log/apache2/mysms_access.log
+lrwx------ 1 root     root     64 Nov 23 12:35 9 -> /memfd:opcache_lock (deleted)

@@ -1,0 +1,9 @@
+USER=root
+SYSTEMD_EXEC_PID=761
+JOURNAL_STREAM=9:9330
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/virtualbox-guest-utils.service/memory.pressure
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin:/bin:/sbin:/usr/sbin
+INVOCATION_ID=9a2cb4f3ab6c4aaa903a34f6940f19ed
+LANG=ru_RU.UTF-8
+PWD=/
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

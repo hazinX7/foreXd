@@ -1,0 +1,27 @@
+total 0
+dr-x------ 2 mark mark 24 Nov 23 12:25 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:25 ..
+lr-x------ 1 mark mark 64 Nov 23 12:25 0 -> /dev/null
+lrwx------ 1 mark mark 64 Nov 23 12:25 1 -> socket:[20225]
+l-wx------ 1 mark mark 64 Nov 23 12:25 10 -> pipe:[20283]
+lrwx------ 1 mark mark 64 Nov 23 12:25 11 -> socket:[20282]
+lrwx------ 1 mark mark 64 Nov 23 12:25 12 -> socket:[22535]
+lrwx------ 1 mark mark 64 Nov 23 12:25 13 -> socket:[22575]
+lrwx------ 1 mark mark 64 Nov 23 12:25 14 -> socket:[22590]
+lrwx------ 1 mark mark 64 Nov 23 12:25 15 -> socket:[23675]
+lrwx------ 1 mark mark 64 Nov 23 12:25 16 -> socket:[23735]
+lrwx------ 1 mark mark 64 Nov 23 12:25 17 -> socket:[23975]
+lrwx------ 1 mark mark 64 Nov 23 12:25 18 -> socket:[22966]
+lrwx------ 1 mark mark 64 Nov 23 12:25 19 -> socket:[22989]
+lrwx------ 1 mark mark 64 Nov 23 12:25 2 -> socket:[20225]
+lrwx------ 1 mark mark 64 Nov 23 12:25 20 -> socket:[23063]
+lr-x------ 1 mark mark 64 Nov 23 12:25 3 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:25 4 -> /dev/null
+lr-x------ 1 mark mark 64 Nov 23 12:25 48 -> /home/mark/.local/share/gvfs-metadata/root (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 49 -> /home/mark/.local/share/gvfs-metadata/root-a280e5e4.log (deleted)
+lr-x------ 1 mark mark 64 Nov 23 12:25 5 -> /dev/null
+l-wx------ 1 mark mark 64 Nov 23 12:25 6 -> /home/mark/snap/firefox/common/.mozilla/firefox/Crash Reports/crash_helper_server.log
+lr-x------ 1 mark mark 64 Nov 23 12:25 7 -> pipe:[20283]
+lrwx------ 1 mark mark 64 Nov 23 12:25 8 -> socket:[20279]
+lrwx------ 1 mark mark 64 Nov 23 12:25 80 -> /memfd:pulseaudio (deleted)
+lrwx------ 1 mark mark 64 Nov 23 12:25 9 -> socket:[20280]

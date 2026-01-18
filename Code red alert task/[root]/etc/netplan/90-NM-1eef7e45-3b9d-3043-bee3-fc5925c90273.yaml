@@ -1,0 +1,18 @@
+network:
+  version: 2
+  ethernets:
+    enp0s3:
+      renderer: NetworkManager
+      match: {}
+      addresses:
+      - "192.168.54.101/24"
+      networkmanager:
+        uuid: "1eef7e45-3b9d-3043-bee3-fc5925c90273"
+        name: "netplan-enp0s3"
+        passthrough:
+          connection.timestamp: "1763572606"
+          ipv4.address1: "192.168.54.101/24,192.168.54.1"
+          ipv4.method: "manual"
+          ipv6.method: "disabled"
+          ipv6.ip6-privacy: "-1"
+          proxy._: ""

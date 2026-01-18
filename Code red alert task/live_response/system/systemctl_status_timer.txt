@@ -1,0 +1,144 @@
+* fstrim.timer - Discard unused filesystem blocks once a week
+     Loaded: loaded (/usr/lib/systemd/system/fstrim.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Mon 2025-11-24 01:12:40 MSK; 11h left
+   Triggers: * fstrim.service
+       Docs: man:fstrim
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started fstrim.timer - Discard unused filesystem blocks once a week.
+
+* motd-news.timer - Message of the Day
+     Loaded: loaded (/usr/lib/systemd/system/motd-news.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Mon 2025-11-24 06:02:25 MSK; 15h left
+   Triggers: * motd-news.service
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: motd-news.timer: Not using persistent file timestamp Sun 2025-11-23 11:37:14 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started motd-news.timer - Message of the Day.
+
+* sysstat-collect.timer - Run system activity accounting tool every 10 minutes
+     Loaded: loaded (/usr/lib/systemd/system/sysstat-collect.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Sun 2025-11-23 14:10:00 MSK; 22s left
+   Triggers: * sysstat-collect.service
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started sysstat-collect.timer - Run system activity accounting tool every 10 minutes.
+
+* fwupd-refresh.timer - Refresh fwupd metadata regularly
+     Loaded: loaded (/usr/lib/systemd/system/fwupd-refresh.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Sun 2025-11-23 14:12:41 MSK; 3min 4s left
+   Triggers: * fwupd-refresh.service
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: fwupd-refresh.timer: Not using persistent file timestamp Sun 2025-11-23 11:37:14 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started fwupd-refresh.timer - Refresh fwupd metadata regularly.
+
+* update-notifier-motd.timer - Check to see whether there is a new version of Ubuntu available
+     Loaded: loaded (/usr/lib/systemd/system/update-notifier-motd.timer; enabled; preset: enabled)
+     Active: active (waiting) since Sun 2025-11-23 12:16:53 MSK; 1h 52min ago
+    Trigger: Thu 2025-11-27 12:42:42 MSK; 3 days left
+   Triggers: * update-notifier-motd.service
+
+Nov 23 12:16:53 mark-VirtualBox systemd[1]: Started update-notifier-motd.timer - Check to see whether there is a new version of Ubuntu available.
+
+* apt-daily.timer - Daily apt download activities
+     Loaded: loaded (/usr/lib/systemd/system/apt-daily.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Sun 2025-11-23 15:35:43 MSK; 1h 26min left
+   Triggers: * apt-daily.service
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: apt-daily.timer: Not using persistent file timestamp Thu 2025-11-20 20:37:50 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started apt-daily.timer - Daily apt download activities.
+
+* update-notifier-download.timer - Download data for packages that failed at package install time
+     Loaded: loaded (/usr/lib/systemd/system/update-notifier-download.timer; enabled; preset: enabled)
+     Active: active (waiting) since Sun 2025-11-23 12:16:53 MSK; 1h 52min ago
+    Trigger: Mon 2025-11-24 12:21:49 MSK; 22h left
+   Triggers: * update-notifier-download.service
+
+Nov 23 12:16:53 mark-VirtualBox systemd[1]: Started update-notifier-download.timer - Download data for packages that failed at package install time.
+
+* logrotate.timer - Daily rotation of log files
+     Loaded: loaded (/usr/lib/systemd/system/logrotate.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Mon 2025-11-24 00:00:00 MSK; 9h left
+   Triggers: * logrotate.service
+       Docs: man:logrotate(8)
+             man:logrotate.conf(5)
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: logrotate.timer: Not using persistent file timestamp Sun 2025-11-23 11:37:14 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started logrotate.timer - Daily rotation of log files.
+
+* man-db.timer - Daily man-db regeneration
+     Loaded: loaded (/usr/lib/systemd/system/man-db.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Sun 2025-11-23 15:13:31 MSK; 1h 3min left
+   Triggers: * man-db.service
+       Docs: man:mandb(8)
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: man-db.timer: Not using persistent file timestamp Thu 2025-11-20 21:38:43 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started man-db.timer - Daily man-db regeneration.
+
+* anacron.timer - Trigger anacron every hour
+     Loaded: loaded (/usr/lib/systemd/system/anacron.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Sun 2025-11-23 14:33:22 MSK; 23min left
+   Triggers: * anacron.service
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: anacron.timer: Not using persistent file timestamp Sun 2025-11-23 11:37:14 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started anacron.timer - Trigger anacron every hour.
+
+* dpkg-db-backup.timer - Daily dpkg database backup timer
+     Loaded: loaded (/usr/lib/systemd/system/dpkg-db-backup.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Mon 2025-11-24 00:00:00 MSK; 9h left
+   Triggers: * dpkg-db-backup.service
+       Docs: man:dpkg(1)
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: dpkg-db-backup.timer: Not using persistent file timestamp Sun 2025-11-23 11:37:14 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started dpkg-db-backup.timer - Daily dpkg database backup timer.
+
+* phpsessionclean.timer - Clean PHP session files every 30 mins
+     Loaded: loaded (/usr/lib/systemd/system/phpsessionclean.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Sun 2025-11-23 14:39:00 MSK; 29min left
+   Triggers: * phpsessionclean.service
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: phpsessionclean.timer: Not using persistent file timestamp Sun 2025-11-23 11:48:32 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started phpsessionclean.timer - Clean PHP session files every 30 mins.
+
+* e2scrub_all.timer - Periodic ext4 Online Metadata Check for All Filesystems
+     Loaded: loaded (/usr/lib/systemd/system/e2scrub_all.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Sun 2025-11-30 03:10:22 MSK; 6 days left
+   Triggers: * e2scrub_all.service
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: e2scrub_all.timer: Not using persistent file timestamp Sun 2025-11-23 11:37:14 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started e2scrub_all.timer - Periodic ext4 Online Metadata Check for All Filesystems.
+
+* apt-daily-upgrade.timer - Daily apt upgrade and clean activities
+     Loaded: loaded (/usr/lib/systemd/system/apt-daily-upgrade.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Mon 2025-11-24 06:02:19 MSK; 15h left
+   Triggers: * apt-daily-upgrade.service
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: apt-daily-upgrade.timer: Not using persistent file timestamp Sun 2025-11-23 11:37:14 MSK as it is in the future.
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started apt-daily-upgrade.timer - Daily apt upgrade and clean activities.
+
+* sysstat-summary.timer - Generate summary of yesterday's process accounting
+     Loaded: loaded (/usr/lib/systemd/system/sysstat-summary.timer; enabled; preset: enabled)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Mon 2025-11-24 00:07:00 MSK; 9h left
+   Triggers: * sysstat-summary.service
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started sysstat-summary.timer - Generate summary of yesterday's process accounting.
+
+* systemd-tmpfiles-clean.timer - Daily Cleanup of Temporary Directories
+     Loaded: loaded (/usr/lib/systemd/system/systemd-tmpfiles-clean.timer; static)
+     Active: active (waiting) since Thu 2025-11-20 03:38:13 MSK; 3 days ago
+    Trigger: Mon 2025-11-24 12:31:43 MSK; 22h left
+   Triggers: * systemd-tmpfiles-clean.service
+       Docs: man:tmpfiles.d(5)
+             man:systemd-tmpfiles(8)
+
+Nov 20 03:38:13 mark-VirtualBox systemd[1]: Started systemd-tmpfiles-clean.timer - Daily Cleanup of Temporary Directories.

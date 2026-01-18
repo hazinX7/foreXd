@@ -1,0 +1,36 @@
+root (0)
+   Since: Sun 2025-11-23 13:20:11 MSK; 49min ago
+   State: active
+Sessions: 27
+  Linger: no
+    Unit: user-0.slice
+          |-session-27.scope
+          | |-5869 sudo -i
+          | `-5893 -bash
+          `-user@0.service
+            |-app.slice
+            | `-snap.snapd-desktop-integration.snapd-desktop-integration.service
+            |   |-5891 /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+            |   `-6052 /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+            |-init.scope
+            | |-5877 /usr/lib/systemd/systemd --user
+            | `-5879 "(sd-pam)"
+            `-session.slice
+              |-dbus.service
+              | `-5925 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+              |-xdg-document-portal.service
+              | |-5926 /usr/libexec/xdg-document-portal
+              | `-5937 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/0/doc
+              `-xdg-permission-store.service
+                `-5930 /usr/libexec/xdg-permission-store
+
+Nov 23 13:20:11 mark-VirtualBox dbus-daemon[5925]: [session uid=0 pid=5925] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+Nov 23 13:20:11 mark-VirtualBox systemd[5877]: Started xdg-permission-store.service - sandboxed app permission store.
+Nov 23 13:20:11 mark-VirtualBox dbus-daemon[5925]: [session uid=0 pid=5925] Successfully activated service 'org.freedesktop.portal.Documents'
+Nov 23 13:20:11 mark-VirtualBox systemd[5877]: Started xdg-document-portal.service - flatpak document portal service.
+Nov 23 13:20:11 mark-VirtualBox xdg-document-portal[5926]: Ignoring invalid max threads value 4294967295 > max (100000).
+Nov 23 13:20:11 mark-VirtualBox snapd-desktop-integration.snapd-desktop-integration[5951]: touch: cannot touch '/root/snap/snapd-desktop-integration/common/.cache/desktop-runtime-date': No such file or directory
+Nov 23 13:20:11 mark-VirtualBox snapd-desktop-i[6052]: Failed to do gtk init. Waiting for a new session with desktop capabilities.
+Nov 23 13:20:11 mark-VirtualBox snapd-desktop-i[6052]: Checking session /org/freedesktop/login1/session/_327...
+Nov 23 13:20:11 mark-VirtualBox snapd-desktop-i[6052]: Checking session /org/freedesktop/login1/session/_32...
+Nov 23 13:25:29 mark-VirtualBox systemd[5877]: launchpadlib-cache-clean.service - Clean up old files in the Launchpadlib cache was skipped because of an unmet condition check (ConditionPathExists=/root/.launchpadlib/api.launchpad.net/cache).

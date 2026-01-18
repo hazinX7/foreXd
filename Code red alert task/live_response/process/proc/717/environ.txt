@@ -1,0 +1,9 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+USER=root
+INVOCATION_ID=4a8a7bec8184414faa5540fff24052d9
+JOURNAL_STREAM=9:8176
+STATE_DIRECTORY=/var/lib/power-profiles-daemon
+SYSTEMD_EXEC_PID=717
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/power-profiles-daemon.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

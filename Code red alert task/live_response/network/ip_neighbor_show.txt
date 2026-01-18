@@ -1,0 +1,9 @@
+10.0.2.1 dev enp0s9 lladdr 52:54:00:12:35:00 DELAY 
+192.168.54.1 dev enp0s3 FAILED 
+192.168.0.1 dev enp0s8 lladdr 50:91:e3:5a:c4:3a DELAY 
+10.0.2.3 dev enp0s9 lladdr 08:00:27:07:b0:18 STALE 
+192.168.54.102 dev enp0s3 lladdr 08:00:27:ad:25:87 DELAY 
+fe80::a00:27ff:fe90:933c dev enp0s8 lladdr 08:00:27:90:93:3c router STALE 
+fe80::6fed:ccfc:eb1:446a dev enp0s8 lladdr 08:00:27:90:93:3c STALE 
+fe80::a00:27ff:fec2:9476 dev enp0s9 lladdr 08:00:27:c2:94:76 router STALE 
+fe80::fd03:dec4:41fc:b5cc dev enp0s9 lladdr 08:00:27:c2:94:76 STALE 

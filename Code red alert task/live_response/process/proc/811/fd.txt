@@ -1,0 +1,13 @@
+total 0
+dr-x------ 2 root   root   10 Nov 20 03:38 .
+dr-xr-xr-x 9 syslog syslog  0 Nov 20 03:38 ..
+lr-x------ 1 root   root   64 Nov 20 03:38 0 -> /dev/null
+l-wx------ 1 root   root   64 Nov 20 03:38 1 -> /dev/null
+lrwx------ 1 root   root   64 Nov 20 03:38 2 -> socket:[9393]
+lrwx------ 1 root   root   64 Nov 20 03:38 3 -> socket:[4293]
+lr-x------ 1 root   root   64 Nov 20 03:38 4 -> /dev/urandom
+lr-x------ 1 root   root   64 Nov 23 12:18 5 -> /proc/kmsg
+lrwx------ 1 root   root   64 Nov 23 12:18 6 -> socket:[8788]
+l-wx------ 1 root   root   64 Nov 23 12:18 7 -> /var/log/syslog
+l-wx------ 1 root   root   64 Nov 23 12:18 8 -> /var/log/kern.log
+l-wx------ 1 root   root   64 Nov 20 03:38 9 -> /var/log/auth.log

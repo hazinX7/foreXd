@@ -1,0 +1,25 @@
+5836228c5000-5836228c9000 r--p 00000000 08:02 918148                     /usr/bin/dash
+5836228c9000-5836228de000 r-xp 00004000 08:02 918148                     /usr/bin/dash
+5836228de000-5836228e3000 r--p 00019000 08:02 918148                     /usr/bin/dash
+5836228e3000-5836228e5000 r--p 0001d000 08:02 918148                     /usr/bin/dash
+5836228e5000-5836228e6000 rw-p 0001f000 08:02 918148                     /usr/bin/dash
+5836228e6000-5836228e8000 rw-p 00000000 00:00 0 
+583635fe2000-583636003000 rw-p 00000000 00:00 0                          [heap]
+7975aa000000-7975aa028000 r--p 00000000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7975aa028000-7975aa1b0000 r-xp 00028000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7975aa1b0000-7975aa1ff000 r--p 001b0000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7975aa1ff000-7975aa203000 r--p 001fe000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7975aa203000-7975aa205000 rw-p 00202000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7975aa205000-7975aa212000 rw-p 00000000 00:00 0 
+7975aa27c000-7975aa27f000 rw-p 00000000 00:00 0 
+7975aa28f000-7975aa291000 rw-p 00000000 00:00 0 
+7975aa291000-7975aa293000 r--p 00000000 00:00 0                          [vvar]
+7975aa293000-7975aa295000 r--p 00000000 00:00 0                          [vvar_vclock]
+7975aa295000-7975aa297000 r-xp 00000000 00:00 0                          [vdso]
+7975aa297000-7975aa298000 r--p 00000000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7975aa298000-7975aa2c3000 r-xp 00001000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7975aa2c3000-7975aa2cd000 r--p 0002c000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7975aa2cd000-7975aa2cf000 r--p 00036000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7975aa2cf000-7975aa2d1000 rw-p 00038000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7fffba196000-7fffba1b7000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

@@ -1,0 +1,61 @@
+Name:	unattended-upgr
+Umask:	0022
+State:	S (sleeping)
+Tgid:	1162
+Ngid:	0
+Pid:	1162
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	256
+Groups:	 
+NStgid:	1162
+NSpid:	1162
+NSpgid:	1162
+NSsid:	1162
+Kthread:	0
+VmPeak:	  175196 kB
+VmSize:	  109660 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   22972 kB
+VmRSS:	   22972 kB
+RssAnon:	    9344 kB
+RssFile:	   13628 kB
+RssShmem:	       0 kB
+VmData:	   18944 kB
+VmStk:	     132 kB
+VmExe:	    2956 kB
+VmLib:	   10136 kB
+VmPTE:	     112 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+untag_mask:	0xffffffffffffffff
+Threads:	2
+SigQ:	1/15545
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000001001000
+SigCgt:	0000000100004003
+CapInh:	0000000000000000
+CapPrm:	000001ffffffffff
+CapEff:	000001ffffffffff
+CapBnd:	000001ffffffffff
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	0
+Seccomp_filters:	0
+Speculation_Store_Bypass:	vulnerable
+SpeculationIndirectBranch:	always enabled
+Cpus_allowed:	3
+Cpus_allowed_list:	0-1
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	57
+nonvoluntary_ctxt_switches:	105
+x86_Thread_features:	
+x86_Thread_features_locked:	

@@ -1,0 +1,15 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+NOTIFY_SOCKET=/run/systemd/notify
+LISTEN_PID=415
+LISTEN_FDS=1
+LISTEN_FDNAMES=systemd-oomd.socket
+WATCHDOG_PID=415
+WATCHDOG_USEC=180000000
+USER=systemd-oom
+LOGNAME=systemd-oom
+INVOCATION_ID=86a7e44b34774f938f7ed331d401f360
+JOURNAL_STREAM=9:6384
+SYSTEMD_EXEC_PID=415
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/systemd-oomd.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

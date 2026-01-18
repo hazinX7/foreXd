@@ -1,0 +1,15 @@
+/snap/firefox/7355/usr/lib/firefox/firefox
+-contentproc
+-ipcHandle
+-signalPipe
+-initialChannelId
+{ca6a72ff-4fc0-4b33-babd-453649baae68}
+-parentPid
+2906
+-greomni
+/snap/firefox/7355/usr/lib/firefox/omni.ja
+-appomni
+/snap/firefox/7355/usr/lib/firefox/browser/omni.ja
+-appDir
+/snap/firefox/7355/usr/lib/firefox/browser
+forkserver

@@ -1,0 +1,8 @@
+support- seat0        Wed Nov 19 23:33:49 2025 - Wed Nov 19 23:33:49 2025  (00:00)     login screen
+sysadmin seat0        Wed Nov 19 23:33:26 2025 - Wed Nov 19 23:33:26 2025  (00:00)     login screen
+sysadmin seat0        Wed Nov 19 23:33:20 2025 - Wed Nov 19 23:33:20 2025  (00:00)     login screen
+sysadmin seat0        Wed Nov 19 23:33:13 2025 - Wed Nov 19 23:33:13 2025  (00:00)     login screen
+root     pts/0        Wed Nov 19 20:45:25 2025 - Wed Nov 19 20:45:25 2025  (00:00)
+root     pts/0        Wed Nov 19 20:45:14 2025 - Wed Nov 19 20:45:14 2025  (00:00)
+
+btmp begins Wed Nov 19 20:45:14 2025

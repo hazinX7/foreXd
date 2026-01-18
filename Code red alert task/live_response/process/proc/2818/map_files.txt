@@ -1,0 +1,24 @@
+total 0
+dr-x------ 2 mark mark  0 Nov 23 14:07 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:17 ..
+lr-------- 1 mark mark 64 Nov 23 14:07 581767a55000-581767a5a000 -> /usr/bin/less
+lr-------- 1 mark mark 64 Nov 23 14:07 581767a5a000-581767a76000 -> /usr/bin/less
+lr-------- 1 mark mark 64 Nov 23 14:07 581767a76000-581767a80000 -> /usr/bin/less
+lr-------- 1 mark mark 64 Nov 23 14:07 581767a80000-581767a81000 -> /usr/bin/less
+lr-------- 1 mark mark 64 Nov 23 14:07 581767a81000-581767a86000 -> /usr/bin/less
+lr-------- 1 mark mark 64 Nov 23 14:07 79c000a00000-79c000cec000 -> /usr/lib/locale/locale-archive
+lr-------- 1 mark mark 64 Nov 23 14:07 79c000e00000-79c000e28000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 79c000e28000-79c000fb0000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 79c000fb0000-79c000fff000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 79c000fff000-79c001003000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 79c001003000-79c001005000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 79c0011d4000-79c0011e2000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 79c0011e2000-79c0011f5000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 79c0011f5000-79c001203000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 79c001203000-79c001207000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 79c001207000-79c001208000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 79c001220000-79c001221000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 79c001221000-79c00124c000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 79c00124c000-79c001256000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 79c001256000-79c001258000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 79c001258000-79c00125a000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2

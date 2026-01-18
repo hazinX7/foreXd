@@ -1,0 +1,12 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 3 root root    0 Nov 23 14:09 ..
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 beta
+-r--r--r-- 1 root root 4096 Nov 23 14:09 bic_scale
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 fast_convergence
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 hystart
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 hystart_ack_delta_us
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 hystart_detect
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 hystart_low_window
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 initial_ssthresh
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 tcp_friendliness

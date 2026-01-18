@@ -1,0 +1,9 @@
+total 0
+dr-x------ 2 mark mark  6 Nov 23 12:25 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:21 ..
+lrwx------ 1 mark mark 64 Nov 23 12:25 0 -> /dev/null
+lrwx------ 1 mark mark 64 Nov 23 12:25 1 -> socket:[22635]
+lrwx------ 1 mark mark 64 Nov 23 12:25 2 -> socket:[22637]
+lrwx------ 1 mark mark 64 Nov 23 12:25 3 -> socket:[22645]
+lrwx------ 1 mark mark 64 Nov 23 12:25 4 -> anon_inode:[eventpoll]
+lrwx------ 1 mark mark 64 Nov 23 12:25 5 -> anon_inode:[eventfd]

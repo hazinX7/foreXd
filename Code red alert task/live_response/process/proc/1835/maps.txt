@@ -1,0 +1,220 @@
+556aa7da1000-556aa7da2000 r--p 00000000 08:02 918693                     /usr/bin/pipewire
+556aa7da2000-556aa7da3000 r-xp 00001000 08:02 918693                     /usr/bin/pipewire
+556aa7da3000-556aa7da4000 r--p 00002000 08:02 918693                     /usr/bin/pipewire
+556aa7da4000-556aa7da5000 r--p 00002000 08:02 918693                     /usr/bin/pipewire
+556aa7da5000-556aa7da6000 rw-p 00003000 08:02 918693                     /usr/bin/pipewire
+556ab8fda000-556ab952b000 rw-p 00000000 00:00 0                          [heap]
+7a9240000000-7a9240021000 rw-p 00000000 00:00 0 
+7a9240021000-7a9244000000 ---p 00000000 00:00 0 
+7a9244513000-7a9244555000 rw-p 00000000 00:00 0 
+7a924458f000-7a9244590000 r--p 00000000 08:02 933404                     /usr/lib/x86_64-linux-gnu/spa-0.2/audiomixer/libspa-audiomixer.so
+7a9244590000-7a924459f000 r-xp 00001000 08:02 933404                     /usr/lib/x86_64-linux-gnu/spa-0.2/audiomixer/libspa-audiomixer.so
+7a924459f000-7a92445a1000 r--p 00010000 08:02 933404                     /usr/lib/x86_64-linux-gnu/spa-0.2/audiomixer/libspa-audiomixer.so
+7a92445a1000-7a92445a2000 r--p 00012000 08:02 933404                     /usr/lib/x86_64-linux-gnu/spa-0.2/audiomixer/libspa-audiomixer.so
+7a92445a2000-7a92445a3000 rw-p 00013000 08:02 933404                     /usr/lib/x86_64-linux-gnu/spa-0.2/audiomixer/libspa-audiomixer.so
+7a9244657000-7a9244757000 rw-p 00000000 00:00 0 
+7a9244757000-7a924475c000 r--p 00000000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a924475c000-7a924477e000 r-xp 00005000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a924477e000-7a9244788000 r--p 00027000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a9244788000-7a9244789000 r--p 00031000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a9244789000-7a924478a000 rw-p 00032000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a924478a000-7a92447b5000 r--p 00000000 08:02 928955                     /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7a92447b5000-7a9244854000 r-xp 0002b000 08:02 928955                     /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7a9244854000-7a924488c000 r--p 000ca000 08:02 928955                     /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7a924488c000-7a9244893000 r--p 00101000 08:02 928955                     /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7a9244893000-7a9244894000 rw-p 00108000 08:02 928955                     /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7a92448a4000-7a92448c4000 r--p 00000000 08:02 933402                     /usr/lib/x86_64-linux-gnu/spa-0.2/alsa/libspa-alsa.so
+7a92448c4000-7a9244943000 r-xp 00020000 08:02 933402                     /usr/lib/x86_64-linux-gnu/spa-0.2/alsa/libspa-alsa.so
+7a9244943000-7a924495d000 r--p 0009f000 08:02 933402                     /usr/lib/x86_64-linux-gnu/spa-0.2/alsa/libspa-alsa.so
+7a924495d000-7a9244974000 r--p 000b9000 08:02 933402                     /usr/lib/x86_64-linux-gnu/spa-0.2/alsa/libspa-alsa.so
+7a9244974000-7a9244975000 rw-p 000d0000 08:02 933402                     /usr/lib/x86_64-linux-gnu/spa-0.2/alsa/libspa-alsa.so
+7a9244975000-7a9244986000 r--p 00000000 08:02 933403                     /usr/lib/x86_64-linux-gnu/spa-0.2/audioconvert/libspa-audioconvert.so
+7a9244986000-7a92449ce000 r-xp 00011000 08:02 933403                     /usr/lib/x86_64-linux-gnu/spa-0.2/audioconvert/libspa-audioconvert.so
+7a92449ce000-7a92449e2000 r--p 00059000 08:02 933403                     /usr/lib/x86_64-linux-gnu/spa-0.2/audioconvert/libspa-audioconvert.so
+7a92449e2000-7a92449f0000 r--p 0006c000 08:02 933403                     /usr/lib/x86_64-linux-gnu/spa-0.2/audioconvert/libspa-audioconvert.so
+7a92449f0000-7a92449f2000 rw-p 0007a000 08:02 933403                     /usr/lib/x86_64-linux-gnu/spa-0.2/audioconvert/libspa-audioconvert.so
+7a92449f2000-7a92449f3000 ---p 00000000 00:00 0 
+7a92449f3000-7a92451f3000 rw-p 00000000 00:00 0 
+7a92451f3000-7a92451f7000 r--p 00000000 08:02 932698                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-session-manager.so
+7a92451f7000-7a9245214000 r-xp 00004000 08:02 932698                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-session-manager.so
+7a9245214000-7a9245219000 r--p 00021000 08:02 932698                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-session-manager.so
+7a9245219000-7a924521b000 r--p 00026000 08:02 932698                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-session-manager.so
+7a924521b000-7a924521c000 rw-p 00028000 08:02 932698                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-session-manager.so
+7a924521c000-7a9245226000 r--p 00000000 08:02 932662                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-adapter.so
+7a9245226000-7a9245231000 r-xp 0000a000 08:02 932662                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-adapter.so
+7a9245231000-7a9245237000 r--p 00015000 08:02 932662                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-adapter.so
+7a9245237000-7a9245240000 r--p 0001b000 08:02 932662                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-adapter.so
+7a9245240000-7a9245241000 rw-p 00024000 08:02 932662                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-adapter.so
+7a9245241000-7a924525f000 r--p 00000000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a924525f000-7a92452ff000 r-xp 0001e000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a92452ff000-7a9245387000 r--p 000be000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a9245387000-7a9245388000 r--p 00146000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a9245388000-7a9245389000 rw-p 00147000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a9245389000-7a924538a000 rw-p 00000000 00:00 0 
+7a924538c000-7a924538e000 r--p 00000000 08:02 932675                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-jackdbus-detect.so
+7a924538e000-7a9245390000 r-xp 00002000 08:02 932675                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-jackdbus-detect.so
+7a9245390000-7a9245391000 r--p 00004000 08:02 932675                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-jackdbus-detect.so
+7a9245391000-7a9245392000 r--p 00004000 08:02 932675                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-jackdbus-detect.so
+7a9245392000-7a9245393000 rw-p 00005000 08:02 932675                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-jackdbus-detect.so
+7a9245393000-7a9245395000 r--p 00000000 08:02 932676                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-link-factory.so
+7a9245395000-7a9245397000 r-xp 00002000 08:02 932676                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-link-factory.so
+7a9245397000-7a9245398000 r--p 00004000 08:02 932676                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-link-factory.so
+7a9245398000-7a9245399000 r--p 00004000 08:02 932676                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-link-factory.so
+7a9245399000-7a924539a000 rw-p 00005000 08:02 932676                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-link-factory.so
+7a924539a000-7a924539c000 r--p 00000000 08:02 932661                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-access.so
+7a924539c000-7a924539f000 r-xp 00002000 08:02 932661                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-access.so
+7a924539f000-7a92453a0000 r--p 00005000 08:02 932661                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-access.so
+7a92453a0000-7a92453a1000 r--p 00005000 08:02 932661                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-access.so
+7a92453a1000-7a92453a2000 rw-p 00006000 08:02 932661                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-access.so
+7a92453a2000-7a92453a4000 r--p 00000000 08:02 932668                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-device.so
+7a92453a4000-7a92453ad000 r-xp 00002000 08:02 932668                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-device.so
+7a92453ad000-7a92453ae000 r--p 0000b000 08:02 932668                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-device.so
+7a92453ae000-7a92453af000 r--p 0000c000 08:02 932668                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-device.so
+7a92453af000-7a92453b0000 rw-p 0000d000 08:02 932668                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-device.so
+7a92453b0000-7a92453bc000 r--p 00000000 08:02 932669                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-node.so
+7a92453bc000-7a92453dd000 r-xp 0000c000 08:02 932669                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-node.so
+7a92453dd000-7a92453e7000 r--p 0002d000 08:02 932669                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-node.so
+7a92453e7000-7a92453f1000 r--p 00037000 08:02 932669                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-node.so
+7a92453f1000-7a92453f2000 rw-p 00041000 08:02 932669                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-node.so
+7a92453f2000-7a92453f8000 r--p 00000000 08:02 932701                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-node-factory.so
+7a92453f8000-7a92453fb000 r-xp 00006000 08:02 932701                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-node-factory.so
+7a92453fb000-7a9245401000 r--p 00009000 08:02 932701                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-node-factory.so
+7a9245401000-7a9245406000 r--p 0000e000 08:02 932701                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-node-factory.so
+7a9245406000-7a9245407000 rw-p 00013000 08:02 932701                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-node-factory.so
+7a9245407000-7a9245c08000 rw-p 00000000 00:00 0 
+7a9245c08000-7a9245c0a000 r--p 00000000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a9245c0a000-7a9245c78000 r-xp 00002000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a9245c78000-7a9245ca0000 r--p 00070000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a9245ca0000-7a9245ca1000 r--p 00097000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a9245ca1000-7a9245ca2000 rw-p 00098000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a9245ca2000-7a9245ca8000 r--p 00000000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a9245ca8000-7a9245cc5000 r-xp 00006000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a9245cc5000-7a9245ccb000 r--p 00023000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a9245ccb000-7a9245ccc000 r--p 00029000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a9245ccc000-7a9245ccd000 rw-p 0002a000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a9245ccd000-7a9245ccf000 rw-p 00000000 00:00 0 
+7a9245ccf000-7a9245ce2000 r--p 00000000 08:02 932684                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-protocol-native.so
+7a9245ce2000-7a9245d01000 r-xp 00013000 08:02 932684                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-protocol-native.so
+7a9245d01000-7a9245d0c000 r--p 00032000 08:02 932684                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-protocol-native.so
+7a9245d0c000-7a9245d1c000 r--p 0003c000 08:02 932684                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-protocol-native.so
+7a9245d1c000-7a9245d1d000 rw-p 0004c000 08:02 932684                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-protocol-native.so
+7a9245d1d000-7a9245d1e000 ---p 00000000 00:00 0 
+7a9245d1e000-7a924651e000 rw-p 00000000 00:00 0 
+7a924651e000-7a9246522000 r--p 00000000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7a9246522000-7a92465c9000 r-xp 00004000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7a92465c9000-7a92465d6000 r--p 000ab000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7a92465d6000-7a92465d7000 r--p 000b7000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7a92465d7000-7a92465d8000 rw-p 000b8000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7a92465d8000-7a92465e7000 r--p 00000000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7a92465e7000-7a92466db000 r-xp 0000f000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7a92466db000-7a9246716000 r--p 00103000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7a9246716000-7a924671b000 r--p 0013e000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7a924671b000-7a924671f000 rw-p 00143000 08:02 929143                     /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7a924671f000-7a9246720000 rw-p 00000000 00:00 0 
+7a9246720000-7a9246736000 r--p 00000000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7a9246736000-7a92467c5000 r-xp 00016000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7a92467c5000-7a92467f3000 r--p 000a5000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7a92467f3000-7a92467fe000 r--p 000d2000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7a92467fe000-7a92467ff000 rw-p 000dd000 08:02 929535                     /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7a92467ff000-7a9246800000 rw-p 00000000 00:00 0 
+7a9246800000-7a9246aec000 r--p 00000000 08:02 972560                     /usr/lib/locale/locale-archive
+7a9246aed000-7a9246aef000 r--p 00000000 08:02 932682                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-portal.so
+7a9246aef000-7a9246af1000 r-xp 00002000 08:02 932682                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-portal.so
+7a9246af1000-7a9246af2000 r--p 00004000 08:02 932682                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-portal.so
+7a9246af2000-7a9246af3000 r--p 00004000 08:02 932682                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-portal.so
+7a9246af3000-7a9246af4000 rw-p 00005000 08:02 932682                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-portal.so
+7a9246af4000-7a9246af6000 r--p 00000000 08:02 932678                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-metadata.so
+7a9246af6000-7a9246afe000 r-xp 00002000 08:02 932678                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-metadata.so
+7a9246afe000-7a9246aff000 r--p 0000a000 08:02 932678                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-metadata.so
+7a9246aff000-7a9246b00000 r--p 0000b000 08:02 932678                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-metadata.so
+7a9246b00000-7a9246b01000 rw-p 0000c000 08:02 932678                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-metadata.so
+7a9246b01000-7a9246b03000 r--p 00000000 08:02 932683                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-profiler.so
+7a9246b03000-7a9246b0a000 r-xp 00002000 08:02 932683                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-profiler.so
+7a9246b0a000-7a9246b0b000 r--p 00009000 08:02 932683                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-profiler.so
+7a9246b0b000-7a9246b0c000 r--p 00009000 08:02 932683                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-profiler.so
+7a9246b0c000-7a9246b0d000 rw-p 0000a000 08:02 932683                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-profiler.so
+7a9246b0d000-7a9246b0f000 r--p 00000000 08:02 932692                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-rt.so
+7a9246b0f000-7a9246b13000 r-xp 00002000 08:02 932692                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-rt.so
+7a9246b13000-7a9246b15000 r--p 00006000 08:02 932692                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-rt.so
+7a9246b15000-7a9246b16000 r--p 00007000 08:02 932692                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-rt.so
+7a9246b16000-7a9246b17000 rw-p 00008000 08:02 932692                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-rt.so
+7a9246b17000-7a9246b27000 r--p 00000000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a9246b27000-7a9246ba6000 r-xp 00010000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a9246ba6000-7a9246bfe000 r--p 0008f000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a9246bfe000-7a9246bff000 r--p 000e7000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a9246bff000-7a9246c00000 rw-p 000e8000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a9246c00000-7a9246c28000 r--p 00000000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a9246c28000-7a9246db0000 r-xp 00028000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a9246db0000-7a9246dff000 r--p 001b0000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a9246dff000-7a9246e03000 r--p 001fe000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a9246e03000-7a9246e05000 rw-p 00202000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a9246e05000-7a9246e12000 rw-p 00000000 00:00 0 
+7a9246e13000-7a9246e14000 rw-s 00000000 00:01 1113                       /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+7a9246e14000-7a9246e20000 r--p 00000000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7a9246e20000-7a9246e50000 r-xp 0000c000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7a9246e50000-7a9246e61000 r--p 0003c000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7a9246e61000-7a9246e62000 r--p 0004c000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7a9246e62000-7a9246e63000 rw-p 0004d000 08:02 929043                     /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7a9246e63000-7a9246e67000 r--p 00000000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7a9246e67000-7a9246e7d000 r-xp 00004000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7a9246e7d000-7a9246e86000 r--p 0001a000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7a9246e86000-7a9246e87000 r--p 00023000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7a9246e87000-7a9246e88000 rw-p 00024000 08:02 929181                     /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7a9246e88000-7a9246e8b000 r--p 00000000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7a9246e8b000-7a9246ead000 r-xp 00003000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7a9246ead000-7a9246eb8000 r--p 00025000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7a9246eb8000-7a9246eb9000 r--p 00030000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7a9246eb9000-7a9246eba000 rw-p 00031000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7a9246eba000-7a9246ebd000 r--p 00000000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7a9246ebd000-7a9246ed8000 r-xp 00003000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7a9246ed8000-7a9246eda000 r--p 0001e000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7a9246eda000-7a9246edb000 r--p 00020000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7a9246edb000-7a9246edc000 rw-p 00021000 08:02 929305                     /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7a9246edc000-7a9246edf000 r--p 00000000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a9246edf000-7a9246ee5000 r-xp 00003000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a9246ee5000-7a9246ee7000 r--p 00009000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a9246ee7000-7a9246ee8000 r--p 0000b000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a9246ee8000-7a9246ee9000 rw-p 0000c000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a9246ee9000-7a9246eea000 rw-s 00000000 00:01 1112                       /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+7a9246eea000-7a9246eeb000 rw-s 00000000 00:01 1111                       /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+7a9246eeb000-7a9246eed000 r--p 00000000 08:02 932699                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-device-factory.so
+7a9246eed000-7a9246eef000 r-xp 00002000 08:02 932699                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-device-factory.so
+7a9246eef000-7a9246ef0000 r--p 00004000 08:02 932699                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-device-factory.so
+7a9246ef0000-7a9246ef1000 r--p 00004000 08:02 932699                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-device-factory.so
+7a9246ef1000-7a9246ef2000 rw-p 00005000 08:02 932699                     /usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-device-factory.so
+7a9246ef2000-7a9246ef9000 r--s 00000000 08:02 919962                     /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7a9246ef9000-7a9246efd000 r--p 00000000 08:02 933417                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-support.so
+7a9246efd000-7a9246f13000 r-xp 00004000 08:02 933417                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-support.so
+7a9246f13000-7a9246f18000 r--p 0001a000 08:02 933417                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-support.so
+7a9246f18000-7a9246f1a000 r--p 0001f000 08:02 933417                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-support.so
+7a9246f1a000-7a9246f1b000 rw-p 00021000 08:02 933417                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-support.so
+7a9246f1b000-7a9246f1e000 rw-p 00000000 00:00 0 
+7a9246f1e000-7a9246f51000 r--p 00000000 08:02 929432                     /usr/lib/x86_64-linux-gnu/libpipewire-0.3.so.0.1005.0
+7a9246f51000-7a9246fb8000 r-xp 00033000 08:02 929432                     /usr/lib/x86_64-linux-gnu/libpipewire-0.3.so.0.1005.0
+7a9246fb8000-7a9246fd1000 r--p 0009a000 08:02 929432                     /usr/lib/x86_64-linux-gnu/libpipewire-0.3.so.0.1005.0
+7a9246fd1000-7a9246ffc000 r--p 000b2000 08:02 929432                     /usr/lib/x86_64-linux-gnu/libpipewire-0.3.so.0.1005.0
+7a9246ffc000-7a9246ffd000 rw-p 000dd000 08:02 929432                     /usr/lib/x86_64-linux-gnu/libpipewire-0.3.so.0.1005.0
+7a9246ffd000-7a9246ffe000 rw-p 00000000 00:00 0 
+7a9246fff000-7a9247000000 rw-s 00000000 00:01 114                        /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+7a9247000000-7a9247001000 rw-s 00000000 00:01 113                        /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+7a9247001000-7a9247002000 r--p 00000000 08:02 933415                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-dbus.so
+7a9247002000-7a9247005000 r-xp 00001000 08:02 933415                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-dbus.so
+7a9247005000-7a9247006000 r--p 00004000 08:02 933415                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-dbus.so
+7a9247006000-7a9247007000 r--p 00004000 08:02 933415                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-dbus.so
+7a9247007000-7a9247008000 rw-p 00005000 08:02 933415                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-dbus.so
+7a9247008000-7a9247009000 r--p 00000000 08:02 933416                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-journal.so
+7a9247009000-7a924700b000 r-xp 00001000 08:02 933416                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-journal.so
+7a924700b000-7a924700c000 r--p 00003000 08:02 933416                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-journal.so
+7a924700c000-7a924700d000 r--p 00003000 08:02 933416                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-journal.so
+7a924700d000-7a924700e000 rw-p 00004000 08:02 933416                     /usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-journal.so
+7a924700e000-7a9247010000 rw-p 00000000 00:00 0 
+7a9247010000-7a9247012000 r--p 00000000 00:00 0                          [vvar]
+7a9247012000-7a9247014000 r--p 00000000 00:00 0                          [vvar_vclock]
+7a9247014000-7a9247016000 r-xp 00000000 00:00 0                          [vdso]
+7a9247016000-7a9247017000 r--p 00000000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7a9247017000-7a9247042000 r-xp 00001000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7a9247042000-7a924704c000 r--p 0002c000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7a924704c000-7a924704e000 r--p 00036000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7a924704e000-7a9247050000 rw-p 00038000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffcfa4c2000-7ffcfa4e3000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

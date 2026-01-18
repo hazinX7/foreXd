@@ -1,0 +1,20 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       User       Inode      PID/Program name    
+tcp        0      0 127.0.0.54:53           0.0.0.0:*               LISTEN      991        6777       418/systemd-resolve 
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      991        6775       418/systemd-resolve 
+tcp        0      0 192.168.54.101:80       0.0.0.0:*               LISTEN      0          11533      1202/apache2        
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      0          9096       1150/cupsd          
+tcp        0      0 192.168.0.101:39384     172.64.41.4:443         ESTABLISHED 1000       28965      2906/firefox        
+tcp        0      0 192.168.54.101:37756    192.168.54.102:4444     ESTABLISHED 0          35137      5862/bash           
+tcp        0      0 192.168.0.101:39532     34.107.243.93:443       ESTABLISHED 1000       44202      2906/firefox        
+tcp        0      0 192.168.54.101:37912    192.168.54.102:4444     ESTABLISHED 0          29094      4783/bash           
+tcp        0      0 192.168.54.101:38358    192.168.54.102:443      ESTABLISHED 0          37304      6465/iwlwifi-5000-5 
+tcp6       0      0 ::1:631                 :::*                    LISTEN      0          9095       1150/cupsd          
+udp        0      0 0.0.0.0:56852           0.0.0.0:*                           108        8582       681/avahi-daemon: r 
+udp        0      0 127.0.0.54:53           0.0.0.0:*                           991        6776       418/systemd-resolve 
+udp        0      0 127.0.0.53:53           0.0.0.0:*                           991        6774       418/systemd-resolve 
+udp        0      0 192.168.0.101:68        192.168.0.1:67          ESTABLISHED 0          11999      797/NetworkManager  
+udp        0      0 10.0.2.4:68             10.0.2.3:67             ESTABLISHED 0          11526      797/NetworkManager  
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                           108        8580       681/avahi-daemon: r 
+udp6       0      0 :::59008                :::*                                108        8583       681/avahi-daemon: r 
+udp6       0      0 :::5353                 :::*                                108        8581       681/avahi-daemon: r 

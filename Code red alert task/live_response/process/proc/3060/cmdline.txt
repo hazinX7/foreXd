@@ -1,0 +1,1 @@
+/snap/firefox/7355/usr/lib/firefox/firefox -contentproc -parentBuildID 20251118110623 -prefsHandle 0:35081 -prefMapHandle 1:276878 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {6b6a53dd-96bc-45a7-8d9f-468e0a436440} -parentPid 2906 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/7355/usr/lib/firefox/browser 2 socket

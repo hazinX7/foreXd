@@ -1,0 +1,9 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 7 root root    0 Nov 23 14:09 ..
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 allow_duplicates
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 brightness_switch_enabled
+-r--r--r-- 1 root root 4096 Nov 23 14:09 device_id_scheme
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 hw_changes_brightness
+-r--r--r-- 1 root root 4096 Nov 23 14:09 only_lcd
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 report_key_events

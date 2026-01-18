@@ -1,0 +1,9 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+USER=root
+INVOCATION_ID=56f8c7988f9840679e515cb1d9039a63
+JOURNAL_STREAM=9:13636
+STATE_DIRECTORY=/var/lib/upower
+SYSTEMD_EXEC_PID=1485
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/upower.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

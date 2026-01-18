@@ -1,0 +1,1860 @@
+cfbba00000-cfbbb00000 rw-p 00000000 00:00 0                              [anon:js-gc-heap]
+26aa5500000-26aa5600000 rw-p 00000000 00:00 0                            [anon:js-gc-heap]
+3c058400000-3c058500000 rw-p 00000000 00:00 0                            [anon:js-gc-heap]
+4a538b00000-4a538c00000 rw-p 00000000 00:00 0                            [anon:js-gc-heap]
+8d054300000-8d054400000 rw-p 00000000 00:00 0                            [anon:js-gc-heap]
+8e2c7700000-8e2c7800000 rw-p 00000000 00:00 0                            [anon:js-gc-heap]
+90703900000-90703a00000 rw-p 00000000 00:00 0                            [anon:js-gc-heap]
+a489e453000-a489e463000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e463000-a489e471000 r-xp 00000000 00:00 0                            [anon:js-executable-memory]
+a489e471000-a489e473000 r-xp 00000000 00:00 0                            [anon:js-executable-memory]
+a489e473000-a489e483000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e483000-a489e4b3000 r-xp 00000000 00:00 0                            [anon:js-executable-memory]
+a489e4b3000-a489e4c3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e4c3000-a489e4f3000 r-xp 00000000 00:00 0                            [anon:js-executable-memory]
+a489e4f3000-a489e503000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e503000-a489e504000 r-xp 00000000 00:00 0                            [anon:js-executable-memory]
+a489e504000-a489e513000 r-xp 00000000 00:00 0                            [anon:js-executable-memory]
+a489e513000-a489e523000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e523000-a489e533000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e533000-a489e543000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e543000-a489e553000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e553000-a489e563000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e563000-a489e573000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e573000-a489e581000 r-xp 00000000 00:00 0                            [anon:js-executable-memory]
+a489e581000-a489e583000 r-xp 00000000 00:00 0                            [anon:js-executable-memory]
+a489e583000-a489e5b3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e5b3000-a489e5c3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e5c3000-a489e5d3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e5d3000-a489e5e3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e5e3000-a489e613000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e613000-a489e623000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e623000-a489e683000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e683000-a489e693000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e693000-a489e6a3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e6a3000-a489e6b3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e6b3000-a489e6c3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e6c3000-a489e6d3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e6d3000-a489e6e3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e6e3000-a489e6f3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e6f3000-a489e703000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e703000-a489e713000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e713000-a489e723000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e723000-a489e733000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e733000-a489e763000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e763000-a489e773000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e773000-a489e7a3000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+a489e7a3000-a491e053000 ---p 00000000 00:00 0                            [anon:js-executable-memory]
+c99b4f00000-c99b5000000 rw-p 00000000 00:00 0                            [anon:js-gc-heap]
+cb3ed000000-cb3ed100000 rw-p 00000000 00:00 0                            [anon:js-gc-heap]
+dc448d00000-dc448e00000 rw-p 00000000 00:00 0                            [anon:js-gc-heap]
+1236a8800000-1236a8900000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+1276bcf00000-1276bd000000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+12967c200000-12967c300000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+13597a400000-13597a500000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+1451b4e00000-1451b4f00000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+153dc1300000-153dc1400000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+16652c400000-16652c500000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+168102400000-168102500000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+172e91200000-172e91300000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+177567200000-177567300000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+177b87500000-177b87600000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+18d715500000-18d715600000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+1d8de8500000-1d8de8600000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+1e7ebfc00000-1e7ebfd00000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+1f72f9600000-1f72f9700000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+1f7c3f400000-1f7c3f500000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+1f8321500000-1f8321600000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+1fe453f00000-1fe454000000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+201d45f00000-201d46000000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+203e90200000-203e90300000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+20890ce00000-20890cf00000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+214c75e00000-214c75f00000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+23c6a4b00000-23c6a4c00000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+24ffea900000-24ffeaa00000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+253742a00000-253742b00000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+28a97cb00000-28a97cc00000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+2a0b70600000-2a0b70700000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+2a8a89100000-2a8a89200000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+2ac81c400000-2ac81c500000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+2b8bf0100000-2b8bf0200000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+2cbb03000000-2cbb03100000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+2d5c80300000-2d5c80400000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+2f8107500000-2f8107600000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+2f81a3000000-2f81a3100000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+2ffff6200000-2ffff6300000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+301cb8500000-301cb8600000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+3371e0700000-3371e0800000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+3467f1c00000-3467f1d00000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+3e5911100000-3e5911200000 rw-p 00000000 00:00 0                          [anon:js-gc-heap]
+567a0942e000-567a09455000 r--p 00000000 07:05 262                        /snap/firefox/7355/usr/lib/firefox/firefox
+567a09455000-567a09503000 r-xp 00026000 07:05 262                        /snap/firefox/7355/usr/lib/firefox/firefox
+567a09503000-567a09505000 r--p 000d3000 07:05 262                        /snap/firefox/7355/usr/lib/firefox/firefox
+567a09505000-567a09506000 rw-p 000d4000 07:05 262                        /snap/firefox/7355/usr/lib/firefox/firefox
+567a09506000-567a09509000 rw-p 00000000 00:00 0 
+7fbfc3200000-7fbfc3271000 r--s 00000000 00:01 1185                       /memfd:mozilla-ipc (deleted)
+7fc1a6700000-7fc1a6702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6702000-7fc1a6703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6703000-7fc1a67ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a67ff000-7fc1a6a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6b00000-7fc1a6b02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6b02000-7fc1a6b03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6b03000-7fc1a6bff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6bff000-7fc1a6c00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6c00000-7fc1a6c02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6c02000-7fc1a6c03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6c03000-7fc1a6cff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6cff000-7fc1a6d00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6d00000-7fc1a6d02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6d02000-7fc1a6d03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6d03000-7fc1a6dff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6dff000-7fc1a6e00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6e00000-7fc1a6e02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6e02000-7fc1a6e03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6e03000-7fc1a6eff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6eff000-7fc1a6f00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6f00000-7fc1a6f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6f02000-7fc1a6f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a6f03000-7fc1a6fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a6fff000-7fc1a7000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a703e000-7fc1a7100000 r--s 00000000 00:01 1352                       /memfd:mozilla-ipc (deleted)
+7fc1a7100000-7fc1a7200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a7200000-7fc1a7202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a7202000-7fc1a7203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a7203000-7fc1a72ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a72ff000-7fc1a7300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a7300000-7fc1a7302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a7302000-7fc1a7303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a7303000-7fc1a73ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a73ff000-7fc1a7400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a7400000-7fc1a7402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a7402000-7fc1a7403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a7403000-7fc1a74ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a74ff000-7fc1a7500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a7500000-7fc1a7502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a7502000-7fc1a7503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a7503000-7fc1a75ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a75ff000-7fc1a8a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a8bfd000-7fc1a8bfe000 ---p 00000000 00:00 0 
+7fc1a8bfe000-7fc1a8dfe000 rw-p 00000000 00:00 0 
+7fc1a8dfe000-7fc1a8dff000 ---p 00000000 00:00 0 
+7fc1a8dff000-7fc1a8fff000 rw-p 00000000 00:00 0 
+7fc1a8fff000-7fc1a9000000 ---p 00000000 00:00 0 
+7fc1a9000000-7fc1a9200000 rw-p 00000000 00:00 0 
+7fc1a9200000-7fc1a9202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a9202000-7fc1a9203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a9203000-7fc1a92ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a92ff000-7fc1a9300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a9306000-7fc1a9307000 ---p 00000000 00:00 0 
+7fc1a9307000-7fc1a9347000 rw-p 00000000 00:00 0 
+7fc1a93db000-7fc1a93ff000 r--s 00000000 00:01 1258                       /memfd:mozilla-ipc (deleted)
+7fc1a93ff000-7fc1a9400000 ---p 00000000 00:00 0 
+7fc1a9400000-7fc1a9600000 rw-p 00000000 00:00 0 
+7fc1a9600000-7fc1a9602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a9602000-7fc1a9603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a9603000-7fc1a96ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a96ff000-7fc1a9700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a9700000-7fc1a9702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a9702000-7fc1a9703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a9703000-7fc1a97ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1a97ff000-7fc1a9800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1a980c000-7fc1a980d000 ---p 00000000 00:00 0 
+7fc1a980d000-7fc1a984d000 rw-p 00000000 00:00 0 
+7fc1a984d000-7fc1a984e000 ---p 00000000 00:00 0 
+7fc1a984e000-7fc1a9a4e000 rw-p 00000000 00:00 0 
+7fc1a9a57000-7fc1a9a7b000 r--s 00000000 00:01 1257                       /memfd:mozilla-ipc (deleted)
+7fc1a9a7b000-7fc1a9a7c000 ---p 00000000 00:00 0 
+7fc1a9a7c000-7fc1a9abc000 rw-p 00000000 00:00 0 
+7fc1a9abc000-7fc1a9abd000 ---p 00000000 00:00 0 
+7fc1a9abd000-7fc1a9afd000 rw-p 00000000 00:00 0 
+7fc1a9afd000-7fc1a9afe000 ---p 00000000 00:00 0 
+7fc1a9afe000-7fc1a9cfe000 rw-p 00000000 00:00 0 
+7fc1a9cfe000-7fc1a9cff000 ---p 00000000 00:00 0 
+7fc1a9cff000-7fc1a9eff000 rw-p 00000000 00:00 0 
+7fc1a9eff000-7fc1a9f00000 ---p 00000000 00:00 0 
+7fc1a9f00000-7fc1aa100000 rw-p 00000000 00:00 0 
+7fc1aa100000-7fc1ac300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac300000-7fc1ac302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac302000-7fc1ac303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac303000-7fc1ac3ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac3ff000-7fc1ac400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac400000-7fc1ac402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac402000-7fc1ac403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac403000-7fc1ac4ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac4ff000-7fc1ac500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac500000-7fc1ac502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac502000-7fc1ac503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac503000-7fc1ac5ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac5ff000-7fc1ac600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac600000-7fc1ac602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac602000-7fc1ac603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac603000-7fc1ac6ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac6ff000-7fc1ac700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac700000-7fc1ac702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac702000-7fc1ac703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac703000-7fc1ac7ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac7ff000-7fc1ac800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac800000-7fc1ac802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac802000-7fc1ac803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac803000-7fc1ac8ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac8ff000-7fc1ac900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac900000-7fc1ac902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac902000-7fc1ac903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ac903000-7fc1ac9ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ac9ff000-7fc1aca00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1aca00000-7fc1aca02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1aca02000-7fc1aca03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1aca03000-7fc1acaff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1acaff000-7fc1acc00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1acc00000-7fc1acc02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1acc02000-7fc1acc03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1acc03000-7fc1accff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1accff000-7fc1ae200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae200000-7fc1ae202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae202000-7fc1ae203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae203000-7fc1ae2ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae2ff000-7fc1ae300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae300000-7fc1ae302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae302000-7fc1ae303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae303000-7fc1ae3ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae3ff000-7fc1ae400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae400000-7fc1ae402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae402000-7fc1ae403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae403000-7fc1ae4ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae4ff000-7fc1ae500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae500000-7fc1ae502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae502000-7fc1ae503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae503000-7fc1ae5ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae5ff000-7fc1ae600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae600000-7fc1ae602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae602000-7fc1ae603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae603000-7fc1ae6ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae6ff000-7fc1ae800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae800000-7fc1ae802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae802000-7fc1ae803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae803000-7fc1ae8ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae8ff000-7fc1ae900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae900000-7fc1ae902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae902000-7fc1ae903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ae903000-7fc1ae9ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ae9ff000-7fc1aed00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1aed00000-7fc1aed02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1aed02000-7fc1aed03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1aed03000-7fc1aedff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1aedff000-7fc1aee00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1aee00000-7fc1aee02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1aee02000-7fc1aee03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1aee03000-7fc1aeeff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1aeeff000-7fc1aef00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1aef00000-7fc1aef02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1aef02000-7fc1aef03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1aef03000-7fc1aefff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1aefff000-7fc1af200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af200000-7fc1af202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af202000-7fc1af203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af203000-7fc1af2ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af2ff000-7fc1af300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af300000-7fc1af302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af302000-7fc1af303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af303000-7fc1af3ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af3ff000-7fc1af400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af400000-7fc1af402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af402000-7fc1af403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af403000-7fc1af4ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af4ff000-7fc1af500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af500000-7fc1af502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af502000-7fc1af503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af503000-7fc1af5ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af5ff000-7fc1af600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af600000-7fc1af602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af602000-7fc1af603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af603000-7fc1af6ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af6ff000-7fc1af700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af700000-7fc1af702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af702000-7fc1af703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af703000-7fc1af7ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af7ff000-7fc1af800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af800000-7fc1af802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af802000-7fc1af803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af803000-7fc1af8ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af8ff000-7fc1af900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af900000-7fc1af902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af902000-7fc1af903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1af903000-7fc1af9ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1af9ff000-7fc1afa00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afa00000-7fc1afa02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afa02000-7fc1afa03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afa03000-7fc1afaff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afaff000-7fc1afb00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afb00000-7fc1afb02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afb02000-7fc1afb03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afb03000-7fc1afbff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afbff000-7fc1afc00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afc00000-7fc1afc02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afc02000-7fc1afc03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afc03000-7fc1afcff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afcff000-7fc1afd00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afd00000-7fc1afd02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afd02000-7fc1afd03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afd03000-7fc1afdff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afdff000-7fc1afe00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afe00000-7fc1afe02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afe02000-7fc1afe03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1afe03000-7fc1afeff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1afeff000-7fc1b1200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b1200000-7fc1b1601000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b1601000-7fc1b1a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b1a00000-7fc1b1c00000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b1c00000-7fc1b1d00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b1d00000-7fc1b1f00000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b1f00000-7fc1b2000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2000000-7fc1b2200000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2200000-7fc1b2300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2300000-7fc1b2700000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2700000-7fc1b2800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2800000-7fc1b2940000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2940000-7fc1b2a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2a00000-7fc1b2a02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2a02000-7fc1b2a03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2a03000-7fc1b2aff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2aff000-7fc1b2b00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2b00000-7fc1b2d00000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2d00000-7fc1b2e00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2e00000-7fc1b2e02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2e02000-7fc1b2e03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2e03000-7fc1b2eff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2eff000-7fc1b2f00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2f00000-7fc1b2f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2f02000-7fc1b2f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b2f03000-7fc1b2fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b2fff000-7fc1b3000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3000000-7fc1b3002000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3002000-7fc1b3003000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3003000-7fc1b30ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b30ff000-7fc1b3100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3100000-7fc1b3102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3102000-7fc1b3103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3103000-7fc1b31ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b31ff000-7fc1b3200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3200000-7fc1b3202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3202000-7fc1b3203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3203000-7fc1b32ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b32ff000-7fc1b3300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3300000-7fc1b3302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3302000-7fc1b3303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3303000-7fc1b33ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b33ff000-7fc1b3400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3400000-7fc1b3402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3402000-7fc1b3403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3403000-7fc1b34ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b34ff000-7fc1b3500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3500000-7fc1b3502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3502000-7fc1b3503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3503000-7fc1b35ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b35ff000-7fc1b3600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3600000-7fc1b3602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3602000-7fc1b3603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3603000-7fc1b36ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b36ff000-7fc1b3700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3700000-7fc1b3702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3702000-7fc1b3703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3703000-7fc1b37ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b37ff000-7fc1b3800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3800000-7fc1b3802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3802000-7fc1b3803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3803000-7fc1b38ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b38ff000-7fc1b3900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3900000-7fc1b3b01000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3b01000-7fc1b3c00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3c00000-7fc1b3c02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3c02000-7fc1b3c03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3c03000-7fc1b3cff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3cff000-7fc1b3d00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3d00000-7fc1b3d02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3d02000-7fc1b3d03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3d03000-7fc1b3dff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3dff000-7fc1b3e00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3e00000-7fc1b3e02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3e02000-7fc1b3e03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3e03000-7fc1b3eff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3eff000-7fc1b3f00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3f00000-7fc1b3f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3f02000-7fc1b3f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b3f03000-7fc1b3fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b3fff000-7fc1b4000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4000000-7fc1b4002000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4002000-7fc1b4003000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4003000-7fc1b40ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b40ff000-7fc1b4100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4100000-7fc1b4102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4102000-7fc1b4103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4103000-7fc1b41ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b41ff000-7fc1b4400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4401000-7fc1b4402000 ---p 00000000 00:00 0 
+7fc1b4402000-7fc1b4600000 rw-p 00000000 00:00 0 
+7fc1b4600000-7fc1b4602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4602000-7fc1b4603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4603000-7fc1b46ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b46ff000-7fc1b4700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4700000-7fc1b4702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4702000-7fc1b4703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4703000-7fc1b47ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b47ff000-7fc1b4800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4800000-7fc1b4802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4802000-7fc1b4803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4803000-7fc1b48ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b48ff000-7fc1b4900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4900000-7fc1b4902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4902000-7fc1b4903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4903000-7fc1b49ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b49ff000-7fc1b4a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4a00000-7fc1b4a02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4a02000-7fc1b4a03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4a03000-7fc1b4aff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4aff000-7fc1b4b00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4b30000-7fc1b4b31000 ---p 00000000 00:00 0 
+7fc1b4b31000-7fc1b4b71000 rw-p 00000000 00:00 0 
+7fc1b4b71000-7fc1b4f00000 rw-s 00000000 00:01 1195                       /memfd:mozilla-ipc (deleted)
+7fc1b4f00000-7fc1b4f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4f02000-7fc1b4f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b4f03000-7fc1b4fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b4fff000-7fc1b5000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5000000-7fc1b5002000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5002000-7fc1b5003000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5003000-7fc1b50ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b50ff000-7fc1b5100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5100000-7fc1b5102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5102000-7fc1b5103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5103000-7fc1b51ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b51ff000-7fc1b5200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5200000-7fc1b5202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5202000-7fc1b5203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5203000-7fc1b52ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b52ff000-7fc1b5300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5300000-7fc1b5302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5302000-7fc1b5303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5303000-7fc1b53ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b53ff000-7fc1b5400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5400000-7fc1b5600000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5600000-7fc1b5700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5700000-7fc1b5702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5702000-7fc1b5703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5703000-7fc1b57ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b57ff000-7fc1b5a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5a00000-7fc1b5a02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5a02000-7fc1b5a03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5a03000-7fc1b5aff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5aff000-7fc1b5b00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5b00000-7fc1b5b02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5b02000-7fc1b5b03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5b03000-7fc1b5bff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5bff000-7fc1b5c00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5c01000-7fc1b5c02000 ---p 00000000 00:00 0 
+7fc1b5c02000-7fc1b5e00000 rw-p 00000000 00:00 0 
+7fc1b5e00000-7fc1b5e02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5e02000-7fc1b5e03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5e03000-7fc1b5eff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5eff000-7fc1b5f00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5f00000-7fc1b5f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5f02000-7fc1b5f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b5f03000-7fc1b5fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b5fff000-7fc1b6000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6000000-7fc1b6002000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6002000-7fc1b6003000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6003000-7fc1b60ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b60ff000-7fc1b6100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6100000-7fc1b6102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6102000-7fc1b6103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6103000-7fc1b61ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b61ff000-7fc1b6200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6200000-7fc1b6202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6202000-7fc1b6203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6203000-7fc1b62ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b62ff000-7fc1b6300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6300000-7fc1b6302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6302000-7fc1b6303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6303000-7fc1b63ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b63ff000-7fc1b6400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6400000-7fc1b6402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6402000-7fc1b6403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6403000-7fc1b64ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b64ff000-7fc1b6500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6500000-7fc1b6502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6502000-7fc1b6503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6503000-7fc1b65ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b65ff000-7fc1b6600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6600000-7fc1b6602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6602000-7fc1b6603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6603000-7fc1b66ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b66ff000-7fc1b6700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6700000-7fc1b6702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6702000-7fc1b6703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6703000-7fc1b67ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b67ff000-7fc1b6800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6800000-7fc1b6802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6802000-7fc1b6803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6803000-7fc1b68ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b68ff000-7fc1b6a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6a00000-7fc1b6a02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6a02000-7fc1b6a03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6a03000-7fc1b6aff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6aff000-7fc1b6b00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6b1d000-7fc1b6b1e000 ---p 00000000 00:00 0 
+7fc1b6b1e000-7fc1b6b28000 rw-p 00000000 00:00 0 
+7fc1b6b3d000-7fc1b6b3e000 ---p 00000000 00:00 0 
+7fc1b6b3e000-7fc1b6b7e000 rw-p 00000000 00:00 0 
+7fc1b6b7e000-7fc1b6b7f000 ---p 00000000 00:00 0 
+7fc1b6b7f000-7fc1b6bbf000 rw-p 00000000 00:00 0 
+7fc1b6bbf000-7fc1b6bc0000 ---p 00000000 00:00 0 
+7fc1b6bc0000-7fc1b6c00000 rw-p 00000000 00:00 0 
+7fc1b6c00000-7fc1b6c02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6c02000-7fc1b6c03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6c03000-7fc1b6cff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6cff000-7fc1b6d00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6d00000-7fc1b6e80000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6e80000-7fc1b6f00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6f00000-7fc1b6f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6f02000-7fc1b6f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b6f03000-7fc1b6fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b6fff000-7fc1b7100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7100000-7fc1b7102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7102000-7fc1b7103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7103000-7fc1b71ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b71ff000-7fc1b7200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7200000-7fc1b7202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7202000-7fc1b7203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7203000-7fc1b72ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b72ff000-7fc1b7300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7300000-7fc1b7302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7302000-7fc1b7303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7303000-7fc1b73ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b73ff000-7fc1b7400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7400000-7fc1b7600000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7600000-7fc1b7700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7700000-7fc1b7900000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7900000-7fc1b7a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7a00000-7fc1b7c00000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7c00000-7fc1b7d00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7d00000-7fc1b7d02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7d02000-7fc1b7d03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7d03000-7fc1b7dff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7dff000-7fc1b7e00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7e00000-7fc1b7e02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7e02000-7fc1b7e03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7e03000-7fc1b7eff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7eff000-7fc1b7f00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7f00000-7fc1b7f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7f02000-7fc1b7f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b7f03000-7fc1b7fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b7fff000-7fc1b8000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b8000000-7fc1b8200000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b8200000-7fc1b8300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b8300000-7fc1b8302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b8302000-7fc1b8303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b8303000-7fc1b83ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b83ff000-7fc1b8400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b8400000-7fc1b878f000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b878f000-7fc1b8800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b8822000-7fc1b8830000 rw-s 00000000 00:01 231                        /memfd:mozilla-ipc (deleted)
+7fc1b8830000-7fc1b8831000 ---p 00000000 00:00 0 
+7fc1b8831000-7fc1b8871000 rw-p 00000000 00:00 0 
+7fc1b8871000-7fc1b8c00000 rw-s 00000000 00:01 1194                       /memfd:mozilla-ipc (deleted)
+7fc1b8c00000-7fc1b9c00000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1b9c00000-7fc1b9d00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1b9d00000-7fc1bad00000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bad00000-7fc1bae00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bae00000-7fc1bb200000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bb200000-7fc1bb300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bb300000-7fc1bb700000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bb700000-7fc1bb800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bb800000-7fc1bc800000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bc800000-7fc1bc900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bc900000-7fc1bcd00000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bcd00000-7fc1bce00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bce00000-7fc1bcf00000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bcf00000-7fc1bd000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bd000000-7fc1be000000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1be000000-7fc1be100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1be100000-7fc1be102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1be102000-7fc1be103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1be103000-7fc1be1ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1be1ff000-7fc1be200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1be206000-7fc1be20a000 rw-p 00000000 00:00 0 
+7fc1be20e000-7fc1be316000 r--p 00000000 08:02 947391                     /usr/share/fonts/truetype/ubuntu/UbuntuSans[wdth,wght].ttf
+7fc1be316000-7fc1be317000 ---p 00000000 00:00 0 
+7fc1be317000-7fc1be357000 rw-p 00000000 00:00 0 
+7fc1be6e8000-7fc1be6ec000 rw-p 00000000 00:00 0 
+7fc1be718000-7fc1be76c000 r--p 00000000 08:02 947048                     /usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf
+7fc1be76c000-7fc1be7fc000 r--p 00000000 08:02 947330                     /usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf
+7fc1be7fc000-7fc1be7fd000 ---p 00000000 00:00 0 
+7fc1be7fd000-7fc1be83d000 rw-p 00000000 00:00 0 
+7fc1be83d000-7fc1be83e000 ---p 00000000 00:00 0 
+7fc1be83e000-7fc1be87e000 rw-p 00000000 00:00 0 
+7fc1be87e000-7fc1be87f000 ---p 00000000 00:00 0 
+7fc1be87f000-7fc1be8bf000 rw-p 00000000 00:00 0 
+7fc1be8bf000-7fc1be8c0000 ---p 00000000 00:00 0 
+7fc1be8c0000-7fc1be900000 rw-p 00000000 00:00 0 
+7fc1be900000-7fc1beb00000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1beb00000-7fc1bec00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bec00000-7fc1bec02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bec02000-7fc1bec03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bec03000-7fc1becff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1becff000-7fc1bed00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bed00000-7fc1bed02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bed02000-7fc1bed03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bed03000-7fc1bedff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bedff000-7fc1bee00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bee00000-7fc1bee02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bee02000-7fc1bee03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bee03000-7fc1beeff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1beeff000-7fc1bef00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bef00000-7fc1bef02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bef02000-7fc1bef03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bef03000-7fc1befff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1befff000-7fc1bf000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf000000-7fc1bf002000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf002000-7fc1bf003000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf003000-7fc1bf0ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf0ff000-7fc1bf100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf100000-7fc1bf102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf102000-7fc1bf103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf103000-7fc1bf1ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf1ff000-7fc1bf200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf200000-7fc1bf202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf202000-7fc1bf203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf203000-7fc1bf2ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf2ff000-7fc1bf300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf300000-7fc1bf302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf302000-7fc1bf303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf303000-7fc1bf3ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf3ff000-7fc1bf400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf400000-7fc1bf402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf402000-7fc1bf403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf403000-7fc1bf4ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf4ff000-7fc1bf500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf500000-7fc1bf502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf502000-7fc1bf503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf503000-7fc1bf5ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf5ff000-7fc1bf600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf600000-7fc1bf602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf602000-7fc1bf603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf603000-7fc1bf6ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf6ff000-7fc1bf700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf700000-7fc1bf702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf702000-7fc1bf703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf703000-7fc1bf7ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf7ff000-7fc1bf800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf800000-7fc1bf802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf802000-7fc1bf803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf803000-7fc1bf8ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf8ff000-7fc1bf900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf900000-7fc1bf902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf902000-7fc1bf903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bf903000-7fc1bf9ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bf9ff000-7fc1bfa00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfa00000-7fc1bfa02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfa02000-7fc1bfa03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfa03000-7fc1bfaff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfaff000-7fc1bfb00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfb00000-7fc1bfb02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfb02000-7fc1bfb03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfb03000-7fc1bfbff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfbff000-7fc1bfc00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfc00000-7fc1bfc02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfc02000-7fc1bfc03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfc03000-7fc1bfcff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfcff000-7fc1bfd00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfd00000-7fc1bfd02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfd02000-7fc1bfd03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfd03000-7fc1bfdff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfdff000-7fc1bfe00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfe00000-7fc1bfe02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfe02000-7fc1bfe03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bfe03000-7fc1bfeff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1bfeff000-7fc1bff00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1bff03000-7fc1bff04000 ---p 00000000 00:00 0 
+7fc1bff04000-7fc1bff0e000 rw-p 00000000 00:00 0 
+7fc1bff0e000-7fc1bff16000 rw-p 00000000 00:00 0 
+7fc1bff3d000-7fc1bff3e000 ---p 00000000 00:00 0 
+7fc1bff3e000-7fc1bff7e000 rw-p 00000000 00:00 0 
+7fc1bff7e000-7fc1bff7f000 ---p 00000000 00:00 0 
+7fc1bff7f000-7fc1bffbf000 rw-p 00000000 00:00 0 
+7fc1bffbf000-7fc1bffc0000 ---p 00000000 00:00 0 
+7fc1bffc0000-7fc1c0000000 rw-p 00000000 00:00 0 
+7fc1c0000000-7fc1c0002000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0002000-7fc1c0003000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0003000-7fc1c00ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c00ff000-7fc1c0100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0100000-7fc1c0102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0102000-7fc1c0103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0103000-7fc1c01ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c01ff000-7fc1c0200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0200000-7fc1c0202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0202000-7fc1c0203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0203000-7fc1c02ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c02ff000-7fc1c0300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0300000-7fc1c0302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0302000-7fc1c0303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0303000-7fc1c03ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c03ff000-7fc1c0400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0400000-7fc1c0402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0402000-7fc1c0403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0403000-7fc1c04ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c04ff000-7fc1c0500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0500000-7fc1c0502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0502000-7fc1c0503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0503000-7fc1c05ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c05ff000-7fc1c0600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0600000-7fc1c0602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0602000-7fc1c0603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0603000-7fc1c06ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c06ff000-7fc1c0700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0700000-7fc1c0702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0702000-7fc1c0703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0703000-7fc1c07ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c07ff000-7fc1c0800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0800000-7fc1c0802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0802000-7fc1c0803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0803000-7fc1c08ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c08ff000-7fc1c0900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0900000-7fc1c0902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0902000-7fc1c0903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0903000-7fc1c09ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c09ff000-7fc1c0a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0a00000-7fc1c0a02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0a02000-7fc1c0a03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0a03000-7fc1c0aff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0aff000-7fc1c0b00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0b00000-7fc1c0b02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0b02000-7fc1c0b03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0b03000-7fc1c0bff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0bff000-7fc1c0c00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0c00000-7fc1c0c02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0c02000-7fc1c0c03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0c03000-7fc1c0cff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0cff000-7fc1c0d00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0d00000-7fc1c0d02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0d02000-7fc1c0d03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0d03000-7fc1c0dff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0dff000-7fc1c0e00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0e00000-7fc1c0e02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0e02000-7fc1c0e03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0e03000-7fc1c0eff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0eff000-7fc1c0f00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0f00000-7fc1c0f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0f02000-7fc1c0f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c0f03000-7fc1c0fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c0fff000-7fc1c1000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1000000-7fc1c1002000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1002000-7fc1c1003000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1003000-7fc1c10ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c10ff000-7fc1c1100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1100000-7fc1c1102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1102000-7fc1c1103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1103000-7fc1c11ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c11ff000-7fc1c1200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1200000-7fc1c1202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1202000-7fc1c1203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1203000-7fc1c12ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c12ff000-7fc1c1300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1300000-7fc1c1302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1302000-7fc1c1303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1303000-7fc1c13ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c13ff000-7fc1c1400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1400000-7fc1c1402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1402000-7fc1c1403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1403000-7fc1c14ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c14ff000-7fc1c1500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1500000-7fc1c1502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1502000-7fc1c1503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1503000-7fc1c15ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c15ff000-7fc1c1600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1600000-7fc1c1602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1602000-7fc1c1603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1603000-7fc1c16ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c16ff000-7fc1c1700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1700000-7fc1c1702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1702000-7fc1c1703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1703000-7fc1c17ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c17ff000-7fc1c1800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1800000-7fc1c1801000 r--s 00000000 00:01 1259                       /memfd:mozilla-ipc (deleted)
+7fc1c1801000-7fc1c1802000 r--s 00000000 00:01 234                        /memfd:mozilla-ipc (deleted)
+7fc1c1802000-7fc1c1804000 r--s 00000000 00:01 233                        /memfd:mozilla-ipc (deleted)
+7fc1c1804000-7fc1c180c000 rw-p 00000000 00:00 0 
+7fc1c180c000-7fc1c181a000 rw-s 00000000 00:01 201                        /memfd:mozilla-ipc (deleted)
+7fc1c181a000-7fc1c1822000 rw-s 00000000 00:01 1200                       /memfd:mozilla-ipc (deleted)
+7fc1c1822000-7fc1c1823000 ---p 00000000 00:00 0 
+7fc1c1823000-7fc1c1863000 rw-p 00000000 00:00 0 
+7fc1c1863000-7fc1c1867000 rw-p 00000000 00:00 0 
+7fc1c1867000-7fc1c1868000 ---p 00000000 00:00 0 
+7fc1c1868000-7fc1c18a8000 rw-p 00000000 00:00 0 
+7fc1c18a8000-7fc1c18a9000 ---p 00000000 00:00 0 
+7fc1c18a9000-7fc1c18e9000 rw-p 00000000 00:00 0 
+7fc1c18e9000-7fc1c1913000 r--p 00000000 07:05 272                        /snap/firefox/7355/usr/lib/firefox/libfreeblpriv3.so
+7fc1c1913000-7fc1c19f8000 r-xp 00029000 07:05 272                        /snap/firefox/7355/usr/lib/firefox/libfreeblpriv3.so
+7fc1c19f8000-7fc1c19fa000 r--p 0010d000 07:05 272                        /snap/firefox/7355/usr/lib/firefox/libfreeblpriv3.so
+7fc1c19fa000-7fc1c19fb000 rw-p 0010e000 07:05 272                        /snap/firefox/7355/usr/lib/firefox/libfreeblpriv3.so
+7fc1c19fb000-7fc1c1a00000 rw-p 00000000 00:00 0 
+7fc1c1a00000-7fc1c1a02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1a02000-7fc1c1a03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1a03000-7fc1c1aff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1aff000-7fc1c1b00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1b04000-7fc1c1b0c000 rw-s 00000000 08:02 524812                     /home/mark/snap/firefox/common/.mozilla/firefox/Profile Groups/0e168a01.sqlite-shm
+7fc1c1b0c000-7fc1c1b1a000 rw-s 00000000 00:01 179                        /memfd:mozilla-ipc (deleted)
+7fc1c1b1a000-7fc1c1b1b000 ---p 00000000 00:00 0 
+7fc1c1b1b000-7fc1c1b5b000 rw-p 00000000 00:00 0 
+7fc1c1b5b000-7fc1c1b5c000 ---p 00000000 00:00 0 
+7fc1c1b5c000-7fc1c1b9c000 rw-p 00000000 00:00 0 
+7fc1c1b9c000-7fc1c1bb7000 r--p 00000000 07:05 288                        /snap/firefox/7355/usr/lib/firefox/libsoftokn3.so
+7fc1c1bb7000-7fc1c1bf3000 r-xp 0001a000 07:05 288                        /snap/firefox/7355/usr/lib/firefox/libsoftokn3.so
+7fc1c1bf3000-7fc1c1bf5000 r--p 00055000 07:05 288                        /snap/firefox/7355/usr/lib/firefox/libsoftokn3.so
+7fc1c1bf5000-7fc1c1bf7000 rw-p 00056000 07:05 288                        /snap/firefox/7355/usr/lib/firefox/libsoftokn3.so
+7fc1c1bf7000-7fc1c1bf8000 rw-p 00000000 00:00 0 
+7fc1c1bf8000-7fc1c1bf9000 ---p 00000000 00:00 0 
+7fc1c1bf9000-7fc1c1c39000 rw-p 00000000 00:00 0 
+7fc1c1c39000-7fc1c1c3a000 ---p 00000000 00:00 0 
+7fc1c1c3a000-7fc1c1c7a000 rw-p 00000000 00:00 0 
+7fc1c1c7a000-7fc1c1c7b000 ---p 00000000 00:00 0 
+7fc1c1c7b000-7fc1c1cbb000 rw-p 00000000 00:00 0 
+7fc1c1cbb000-7fc1c1cbc000 ---p 00000000 00:00 0 
+7fc1c1cbc000-7fc1c1cfc000 rw-p 00000000 00:00 0 
+7fc1c1cfc000-7fc1c1cfd000 ---p 00000000 00:00 0 
+7fc1c1cfd000-7fc1c1d3d000 rw-p 00000000 00:00 0 
+7fc1c1d3d000-7fc1c1d3e000 ---p 00000000 00:00 0 
+7fc1c1d3e000-7fc1c1d7e000 rw-p 00000000 00:00 0 
+7fc1c1d7e000-7fc1c1d7f000 ---p 00000000 00:00 0 
+7fc1c1d7f000-7fc1c1dbf000 rw-p 00000000 00:00 0 
+7fc1c1dbf000-7fc1c1dc0000 ---p 00000000 00:00 0 
+7fc1c1dc0000-7fc1c1e00000 rw-p 00000000 00:00 0 
+7fc1c1e00000-7fc1c1e02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1e02000-7fc1c1e03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1e03000-7fc1c1eff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1eff000-7fc1c1f00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1f00000-7fc1c1f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1f02000-7fc1c1f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c1f03000-7fc1c1fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c1fff000-7fc1c2000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2000000-7fc1c2003000 r--s 00000000 00:01 230                        /memfd:mozilla-ipc (deleted)
+7fc1c2007000-7fc1c200b000 rw-p 00000000 00:00 0 
+7fc1c200b000-7fc1c2019000 rw-s 00000000 00:01 179                        /memfd:mozilla-ipc (deleted)
+7fc1c2021000-7fc1c2029000 rw-s 00000000 08:02 525535                     /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/favicons.sqlite-shm
+7fc1c2029000-7fc1c2031000 rw-s 00000000 08:02 524802                     /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/places.sqlite-shm
+7fc1c2031000-7fc1c2035000 rw-p 00000000 00:00 0 
+7fc1c2035000-7fc1c2039000 r--s 00000000 00:01 174                        /memfd:mozilla-ipc (deleted)
+7fc1c2039000-7fc1c203a000 ---p 00000000 00:00 0 
+7fc1c203a000-7fc1c207a000 rw-p 00000000 00:00 0 
+7fc1c207a000-7fc1c207b000 ---p 00000000 00:00 0 
+7fc1c207b000-7fc1c20bb000 rw-p 00000000 00:00 0 
+7fc1c20bb000-7fc1c20bc000 ---p 00000000 00:00 0 
+7fc1c20bc000-7fc1c20fc000 rw-p 00000000 00:00 0 
+7fc1c20fc000-7fc1c20fd000 ---p 00000000 00:00 0 
+7fc1c20fd000-7fc1c213d000 rw-p 00000000 00:00 0 
+7fc1c213d000-7fc1c213e000 ---p 00000000 00:00 0 
+7fc1c213e000-7fc1c217e000 rw-p 00000000 00:00 0 
+7fc1c217e000-7fc1c217f000 ---p 00000000 00:00 0 
+7fc1c217f000-7fc1c21bf000 rw-p 00000000 00:00 0 
+7fc1c21bf000-7fc1c21c0000 ---p 00000000 00:00 0 
+7fc1c21c0000-7fc1c2200000 rw-p 00000000 00:00 0 
+7fc1c2200000-7fc1c2202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2202000-7fc1c2203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2203000-7fc1c22ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c22ff000-7fc1c2300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2300000-7fc1c2302000 r--s 00000000 00:01 232                        /memfd:mozilla-ipc (deleted)
+7fc1c2302000-7fc1c2303000 rw-s 00000000 00:01 1209                       /memfd:mozilla-ipc (deleted)
+7fc1c2303000-7fc1c2304000 r--p 00000000 07:01 7655                       /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7fc1c2304000-7fc1c2306000 r-xp 00001000 07:01 7655                       /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7fc1c2306000-7fc1c2307000 r--p 00003000 07:01 7655                       /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7fc1c2307000-7fc1c2308000 r--p 00003000 07:01 7655                       /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7fc1c2308000-7fc1c2309000 rw-p 00004000 07:01 7655                       /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7fc1c2309000-7fc1c230a000 rw-s 00000000 00:01 204                        /memfd:mozilla-ipc (deleted)
+7fc1c230a000-7fc1c230b000 rw-s 00000000 00:01 192                        /memfd:mozilla-ipc (deleted)
+7fc1c230b000-7fc1c2312000 r--s 00000000 00:01 173                        /memfd:mozilla-ipc (deleted)
+7fc1c2312000-7fc1c2319000 r--s 00000000 00:01 169                        /memfd:mozilla-ipc (deleted)
+7fc1c231d000-7fc1c2339000 rw-p 00000000 00:00 0 
+7fc1c2339000-7fc1c233a000 ---p 00000000 00:00 0 
+7fc1c233a000-7fc1c237a000 rw-p 00000000 00:00 0 
+7fc1c237a000-7fc1c237b000 ---p 00000000 00:00 0 
+7fc1c237b000-7fc1c23bb000 rw-p 00000000 00:00 0 
+7fc1c23bb000-7fc1c23bc000 ---p 00000000 00:00 0 
+7fc1c23bc000-7fc1c23fc000 rw-p 00000000 00:00 0 
+7fc1c23fc000-7fc1c23fd000 ---p 00000000 00:00 0 
+7fc1c23fd000-7fc1c243d000 rw-p 00000000 00:00 0 
+7fc1c243d000-7fc1c243e000 ---p 00000000 00:00 0 
+7fc1c243e000-7fc1c247e000 rw-p 00000000 00:00 0 
+7fc1c247e000-7fc1c247f000 ---p 00000000 00:00 0 
+7fc1c247f000-7fc1c24bf000 rw-p 00000000 00:00 0 
+7fc1c24bf000-7fc1c24c0000 ---p 00000000 00:00 0 
+7fc1c24c0000-7fc1c2500000 rw-p 00000000 00:00 0 
+7fc1c2500000-7fc1c2502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2502000-7fc1c2503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2503000-7fc1c25ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c25ff000-7fc1c2600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2600000-7fc1c2602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2602000-7fc1c2603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2603000-7fc1c26ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c26ff000-7fc1c2700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2700000-7fc1c2702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2702000-7fc1c2703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2703000-7fc1c27ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c27ff000-7fc1c2800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2800000-7fc1c2802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2802000-7fc1c2803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2803000-7fc1c28ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c28ff000-7fc1c2900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2900000-7fc1c2902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2902000-7fc1c2903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2903000-7fc1c29ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c29ff000-7fc1c2a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2a00000-7fc1c2a02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2a02000-7fc1c2a03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2a03000-7fc1c2aff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2aff000-7fc1c2b00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2b00000-7fc1c2b02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2b02000-7fc1c2b03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2b03000-7fc1c2bff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2bff000-7fc1c2c00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2c00000-7fc1c2c01000 rw-s 00000000 00:01 191                        /memfd:mozilla-ipc (deleted)
+7fc1c2c01000-7fc1c2c11000 rw-s 00000000 00:01 1193                       /memfd:mozilla-ipc (deleted)
+7fc1c2c11000-7fc1c2c12000 rw-s 00000000 00:01 190                        /memfd:mozilla-ipc (deleted)
+7fc1c2c12000-7fc1c2c16000 rw-p 00000000 00:00 0 
+7fc1c2c16000-7fc1c2c17000 ---p 00000000 00:00 0 
+7fc1c2c17000-7fc1c2c21000 rw-p 00000000 00:00 0 
+7fc1c2c21000-7fc1c2c25000 rw-p 00000000 00:00 0 
+7fc1c2c25000-7fc1c2c26000 ---p 00000000 00:00 0 
+7fc1c2c26000-7fc1c2c66000 rw-p 00000000 00:00 0 
+7fc1c2c66000-7fc1c2d6e000 r--p 00000000 08:02 947391                     /usr/share/fonts/truetype/ubuntu/UbuntuSans[wdth,wght].ttf
+7fc1c2d6e000-7fc1c2dbf000 r--p 00000000 08:02 528494                     /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/features/{d0124b6b-a501-4af0-9529-d1013fdbc7bf}/webcompat@mozilla.org.xpi
+7fc1c2dbf000-7fc1c2dc0000 ---p 00000000 00:00 0 
+7fc1c2dc0000-7fc1c2e00000 rw-p 00000000 00:00 0 
+7fc1c2e00000-7fc1c2e02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2e02000-7fc1c2e03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2e03000-7fc1c2eff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2eff000-7fc1c2f00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2f00000-7fc1c2f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2f02000-7fc1c2f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c2f03000-7fc1c2fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c2fff000-7fc1c3000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c3000000-7fc1c3002000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c3002000-7fc1c3003000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c3003000-7fc1c30ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c30ff000-7fc1c3100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c3100000-7fc1c3102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c3102000-7fc1c3103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c3103000-7fc1c31ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c31ff000-7fc1c3200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c3200000-7fc1c3202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c3202000-7fc1c3203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c3203000-7fc1c32ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c32ff000-7fc1c3300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c3300000-7fc1c3302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c3302000-7fc1c3303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c3303000-7fc1c33ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c33ff000-7fc1c3400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c3400000-7fc1c3401000 rw-s 00000000 00:01 189                        /memfd:mozilla-ipc (deleted)
+7fc1c3401000-7fc1c3402000 rw-s 00000000 00:01 188                        /memfd:mozilla-ipc (deleted)
+7fc1c3402000-7fc1c3403000 rw-s 00000000 00:01 187                        /memfd:mozilla-ipc (deleted)
+7fc1c3403000-7fc1c3413000 rw-p 00000000 00:00 0 
+7fc1c3413000-7fc1c3414000 ---p 00000000 00:00 0 
+7fc1c3414000-7fc1c3c14000 rw-p 00000000 00:00 0 
+7fc1c3c14000-7fc1c3d1c000 r--p 00000000 08:02 947391                     /usr/share/fonts/truetype/ubuntu/UbuntuSans[wdth,wght].ttf
+7fc1c3d1c000-7fc1c3e24000 r--p 00000000 08:02 947391                     /usr/share/fonts/truetype/ubuntu/UbuntuSans[wdth,wght].ttf
+7fc1c3e24000-7fc1c3e25000 ---p 00000000 00:00 0 
+7fc1c3e25000-7fc1c4625000 rw-p 00000000 00:00 0 
+7fc1c4625000-7fc1c4626000 ---p 00000000 00:00 0 
+7fc1c4626000-7fc1c4e26000 rw-p 00000000 00:00 0 
+7fc1c4e26000-7fc1c4e27000 r--p 00000000 07:06 10834                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicudata.so.70.1
+7fc1c4e27000-7fc1c4e28000 r-xp 00001000 07:06 10834                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicudata.so.70.1
+7fc1c4e28000-7fc1c6a42000 r--p 00002000 07:06 10834                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicudata.so.70.1
+7fc1c6a42000-7fc1c6a43000 r--p 01c1b000 07:06 10834                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicudata.so.70.1
+7fc1c6a43000-7fc1c6a44000 rw-p 01c1c000 07:06 10834                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicudata.so.70.1
+7fc1c6a44000-7fc1c6aaa000 r--p 00000000 07:06 10849                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1
+7fc1c6aaa000-7fc1c6b9d000 r-xp 00066000 07:06 10849                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1
+7fc1c6b9d000-7fc1c6c29000 r--p 00159000 07:06 10849                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1
+7fc1c6c29000-7fc1c6c3c000 r--p 001e4000 07:06 10849                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1
+7fc1c6c3c000-7fc1c6c3d000 rw-p 001f7000 07:06 10849                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1
+7fc1c6c3d000-7fc1c6c3f000 rw-p 00000000 00:00 0 
+7fc1c6c3f000-7fc1c6c6e000 r--p 00000000 07:06 11311                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13
+7fc1c6c6e000-7fc1c6dc1000 r-xp 0002f000 07:06 11311                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13
+7fc1c6dc1000-7fc1c6e15000 r--p 00182000 07:06 11311                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13
+7fc1c6e15000-7fc1c6e16000 ---p 001d6000 07:06 11311                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13
+7fc1c6e16000-7fc1c6e1f000 r--p 001d6000 07:06 11311                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13
+7fc1c6e1f000-7fc1c6e20000 rw-p 001df000 07:06 11311                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13
+7fc1c6e20000-7fc1c6e21000 rw-p 00000000 00:00 0 
+7fc1c6e21000-7fc1c6ec5000 r--p 00000000 07:06 870                        /snap/firefox/7355/gnome-platform/usr/lib/librsvg-2.so.2.48.0
+7fc1c6ec5000-7fc1c7143000 r-xp 000a4000 07:06 870                        /snap/firefox/7355/gnome-platform/usr/lib/librsvg-2.so.2.48.0
+7fc1c7143000-7fc1c7275000 r--p 00322000 07:06 870                        /snap/firefox/7355/gnome-platform/usr/lib/librsvg-2.so.2.48.0
+7fc1c7275000-7fc1c72ff000 r--p 00453000 07:06 870                        /snap/firefox/7355/gnome-platform/usr/lib/librsvg-2.so.2.48.0
+7fc1c72ff000-7fc1c7300000 rw-p 004dd000 07:06 870                        /snap/firefox/7355/gnome-platform/usr/lib/librsvg-2.so.2.48.0
+7fc1c7300000-7fc1c7302000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c7302000-7fc1c7303000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7303000-7fc1c73ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c73ff000-7fc1c7400000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7400000-7fc1c7402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c7402000-7fc1c7403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7403000-7fc1c74ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c74ff000-7fc1c7500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7500000-7fc1c7502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c7502000-7fc1c7503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7503000-7fc1c75ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c75ff000-7fc1c7600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7600000-7fc1c7602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c7602000-7fc1c7603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7603000-7fc1c76ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c76ff000-7fc1c7700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7700000-7fc1c7702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c7702000-7fc1c7703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7703000-7fc1c77ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c77ff000-7fc1c7800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7800000-7fc1c7900000 rw-s 00000000 00:01 1183                       /memfd:mozilla-ipc (deleted)
+7fc1c7900000-7fc1c7902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c7902000-7fc1c7903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7903000-7fc1c79ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c79ff000-7fc1c7a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7a00000-7fc1c7a01000 rw-s 00000000 00:01 186                        /memfd:mozilla-ipc (deleted)
+7fc1c7a01000-7fc1c7a02000 rw-s 00000000 00:01 185                        /memfd:mozilla-ipc (deleted)
+7fc1c7a02000-7fc1c7a03000 rw-s 00000000 00:01 184                        /memfd:mozilla-ipc (deleted)
+7fc1c7a03000-7fc1c7a15000 r--s 00000000 00:01 1188                       /memfd:mozilla-ipc (deleted)
+7fc1c7a31000-7fc1c7a39000 rw-p 00000000 00:00 0 
+7fc1c7a39000-7fc1c7a3a000 ---p 00000000 00:00 0 
+7fc1c7a3a000-7fc1c7a7a000 rw-p 00000000 00:00 0 
+7fc1c7a7a000-7fc1c7abe000 r--s 00000000 00:01 1186                       /memfd:mozilla-ipc (deleted)
+7fc1c7abe000-7fc1c7abf000 ---p 00000000 00:00 0 
+7fc1c7abf000-7fc1c7aff000 rw-p 00000000 00:00 0 
+7fc1c7aff000-7fc1c7b00000 ---p 00000000 00:00 0 
+7fc1c7b00000-7fc1c7f00000 rw-p 00000000 00:00 0 
+7fc1c7f00000-7fc1c7f02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c7f02000-7fc1c7f03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c7f03000-7fc1c7fff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c7fff000-7fc1c8000000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c8000000-7fc1c8001000 rw-s 00000000 00:01 1198                       /memfd:mozilla-ipc (deleted)
+7fc1c8001000-7fc1c8002000 rw-s 00000000 00:01 1197                       /memfd:mozilla-ipc (deleted)
+7fc1c8002000-7fc1c8003000 rw-s 00000000 00:01 1196                       /memfd:mozilla-ipc (deleted)
+7fc1c8003000-7fc1c800b000 rw-p 00000000 00:00 0 
+7fc1c800f000-7fc1c8010000 rw-s 00000000 00:01 195                        /memfd:mozilla-ipc (deleted)
+7fc1c8010000-7fc1c8018000 rw-s 00000000 00:01 194                        /memfd:mozilla-ipc (deleted)
+7fc1c801c000-7fc1c8028000 rw-p 00000000 00:00 0 
+7fc1c8030000-7fc1c8034000 rw-p 00000000 00:00 0 
+7fc1c8038000-7fc1c803c000 rw-p 00000000 00:00 0 
+7fc1c803c000-7fc1c803d000 ---p 00000000 00:00 0 
+7fc1c803d000-7fc1c807d000 rw-p 00000000 00:00 0 
+7fc1c807d000-7fc1c807e000 ---p 00000000 00:00 0 
+7fc1c807e000-7fc1c80fe000 rw-p 00000000 00:00 0 
+7fc1c80fe000-7fc1c80ff000 ---p 00000000 00:00 0 
+7fc1c80ff000-7fc1c82ff000 rw-p 00000000 00:00 0 
+7fc1c82ff000-7fc1c8300000 ---p 00000000 00:00 0 
+7fc1c8300000-7fc1c8500000 rw-p 00000000 00:00 0 
+7fc1c8500000-7fc1c8502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c8502000-7fc1c8503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c8503000-7fc1c85ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c85ff000-7fc1c8600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c8600000-7fc1c8602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c8602000-7fc1c8603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c8603000-7fc1c86ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c86ff000-7fc1c8700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c8700000-7fc1c8701000 rw-s 00000000 00:01 183                        /memfd:mozilla-ipc (deleted)
+7fc1c8701000-7fc1c8702000 rw-s 00000000 00:01 182                        /memfd:mozilla-ipc (deleted)
+7fc1c8702000-7fc1c8703000 rw-s 00000000 00:01 181                        /memfd:mozilla-ipc (deleted)
+7fc1c8703000-7fc1c870b000 rw-p 00000000 00:00 0 
+7fc1c870b000-7fc1c870c000 r--p 00000000 07:06 9678                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7fc1c870c000-7fc1c870d000 r-xp 00001000 07:06 9678                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7fc1c870d000-7fc1c870e000 r--p 00002000 07:06 9678                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7fc1c870e000-7fc1c870f000 r--p 00002000 07:06 9678                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7fc1c870f000-7fc1c8710000 rw-p 00003000 07:06 9678                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7fc1c8710000-7fc1c8718000 r--p 00000000 07:06 18533                      /snap/firefox/7355/gnome-platform/usr/share/locale/ru/LC_MESSAGES/gdk-pixbuf.mo
+7fc1c8718000-7fc1c873b000 r--s 00000000 07:06 20466                      /snap/firefox/7355/gnome-platform/usr/share/mime/mime.cache
+7fc1c873b000-7fc1c873c000 ---p 00000000 00:00 0 
+7fc1c873c000-7fc1c877c000 rw-p 00000000 00:00 0 
+7fc1c877c000-7fc1c877d000 ---p 00000000 00:00 0 
+7fc1c877d000-7fc1c897d000 rw-p 00000000 00:00 0 
+7fc1c897d000-7fc1c897e000 ---p 00000000 00:00 0 
+7fc1c897e000-7fc1c8b7e000 rw-p 00000000 00:00 0 
+7fc1c8b7e000-7fc1c8b7f000 ---p 00000000 00:00 0 
+7fc1c8b7f000-7fc1c8bbf000 rw-p 00000000 00:00 0 
+7fc1c8bbf000-7fc1c8bc0000 ---p 00000000 00:00 0 
+7fc1c8bc0000-7fc1c8c00000 rw-p 00000000 00:00 0 
+7fc1c8c00000-7fc1c8c02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c8c02000-7fc1c8c03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c8c03000-7fc1c8cff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c8cff000-7fc1c8d00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c8d00000-7fc1c8d08000 rw-p 00000000 00:00 0 
+7fc1c8d08000-7fc1c8d0f000 r--p 00000000 07:06 11289                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7fc1c8d0f000-7fc1c8d15000 r-xp 00007000 07:06 11289                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7fc1c8d15000-7fc1c8d18000 r--p 0000d000 07:06 11289                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7fc1c8d18000-7fc1c8d19000 ---p 00010000 07:06 11289                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7fc1c8d19000-7fc1c8d1a000 r--p 00010000 07:06 11289                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7fc1c8d1a000-7fc1c8d1b000 rw-p 00011000 07:06 11289                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7fc1c8d1b000-7fc1c8d22000 r--p 00000000 07:06 11257                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-server.so.0.22.0
+7fc1c8d22000-7fc1c8d2c000 r-xp 00007000 07:06 11257                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-server.so.0.22.0
+7fc1c8d2c000-7fc1c8d30000 r--p 00011000 07:06 11257                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-server.so.0.22.0
+7fc1c8d30000-7fc1c8d31000 ---p 00015000 07:06 11257                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-server.so.0.22.0
+7fc1c8d31000-7fc1c8d33000 r--p 00015000 07:06 11257                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-server.so.0.22.0
+7fc1c8d33000-7fc1c8d34000 rw-p 00017000 07:06 11257                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-server.so.0.22.0
+7fc1c8d34000-7fc1c8d39000 r--p 00000000 07:06 10523                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7fc1c8d39000-7fc1c8d44000 r-xp 00005000 07:06 10523                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7fc1c8d44000-7fc1c8d48000 r--p 00010000 07:06 10523                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7fc1c8d48000-7fc1c8d49000 r--p 00013000 07:06 10523                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7fc1c8d49000-7fc1c8d4a000 rw-p 00014000 07:06 10523                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7fc1c8d4a000-7fc1c8d4d000 r--p 00000000 07:06 10581                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7fc1c8d4d000-7fc1c8d55000 r-xp 00003000 07:06 10581                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7fc1c8d55000-7fc1c8d59000 r--p 0000b000 07:06 10581                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7fc1c8d59000-7fc1c8d5a000 r--p 0000e000 07:06 10581                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7fc1c8d5a000-7fc1c8d5b000 rw-p 0000f000 07:06 10581                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7fc1c8d5b000-7fc1c8d5e000 r--p 00000000 07:05 326                        /snap/firefox/7355/usr/lib/x86_64-linux-gnu/libopus.so.0.8.0
+7fc1c8d5e000-7fc1c8da4000 r-xp 00003000 07:05 326                        /snap/firefox/7355/usr/lib/x86_64-linux-gnu/libopus.so.0.8.0
+7fc1c8da4000-7fc1c8db6000 r--p 00049000 07:05 326                        /snap/firefox/7355/usr/lib/x86_64-linux-gnu/libopus.so.0.8.0
+7fc1c8db6000-7fc1c8db7000 ---p 0005b000 07:05 326                        /snap/firefox/7355/usr/lib/x86_64-linux-gnu/libopus.so.0.8.0
+7fc1c8db7000-7fc1c8db8000 r--p 0005b000 07:05 326                        /snap/firefox/7355/usr/lib/x86_64-linux-gnu/libopus.so.0.8.0
+7fc1c8db8000-7fc1c8db9000 rw-p 0005c000 07:05 326                        /snap/firefox/7355/usr/lib/x86_64-linux-gnu/libopus.so.0.8.0
+7fc1c8db9000-7fc1c8dcd000 r--p 00000000 07:06 11233                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7fc1c8dcd000-7fc1c8dd0000 r-xp 00014000 07:06 11233                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7fc1c8dd0000-7fc1c8e47000 r--p 00017000 07:06 11233                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7fc1c8e47000-7fc1c8e63000 r--p 0008d000 07:06 11233                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7fc1c8e63000-7fc1c8e64000 rw-p 000a9000 07:06 11233                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7fc1c8e64000-7fc1c8e6c000 r--p 00000000 07:06 10297                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7fc1c8e6c000-7fc1c8e95000 r-xp 00008000 07:06 10297                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7fc1c8e95000-7fc1c8e9e000 r--p 00031000 07:06 10297                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7fc1c8e9e000-7fc1c8e9f000 r--p 00039000 07:06 10297                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7fc1c8e9f000-7fc1c8ea0000 rw-p 0003a000 07:06 10297                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7fc1c8ea0000-7fc1c8ea7000 r--p 00000000 07:06 11111                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.31
+7fc1c8ea7000-7fc1c8efd000 r-xp 00007000 07:06 11111                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.31
+7fc1c8efd000-7fc1c8f19000 r--p 0005d000 07:06 11111                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.31
+7fc1c8f19000-7fc1c8f1c000 r--p 00078000 07:06 11111                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.31
+7fc1c8f1c000-7fc1c8f1d000 rw-p 0007b000 07:06 11111                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.31
+7fc1c8f1d000-7fc1c8f1f000 rw-p 00000000 00:00 0 
+7fc1c8f1f000-7fc1c8f31000 r--p 00000000 07:06 11818                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-15.99.so
+7fc1c8f31000-7fc1c8f7a000 r-xp 00012000 07:06 11818                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-15.99.so
+7fc1c8f7a000-7fc1c8fa1000 r--p 0005b000 07:06 11818                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-15.99.so
+7fc1c8fa1000-7fc1c8fa3000 r--p 00081000 07:06 11818                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-15.99.so
+7fc1c8fa3000-7fc1c8fa4000 rw-p 00083000 07:06 11818                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-15.99.so
+7fc1c8fa4000-7fc1c8fb0000 r--p 00000000 07:06 11074                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpulse.so.0.24.1
+7fc1c8fb0000-7fc1c8fe0000 r-xp 0000c000 07:06 11074                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpulse.so.0.24.1
+7fc1c8fe0000-7fc1c8ff6000 r--p 0003c000 07:06 11074                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpulse.so.0.24.1
+7fc1c8ff6000-7fc1c8ff8000 r--p 00051000 07:06 11074                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpulse.so.0.24.1
+7fc1c8ff8000-7fc1c8ff9000 rw-p 00053000 07:06 11074                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpulse.so.0.24.1
+7fc1c8ff9000-7fc1c8ffa000 ---p 00000000 00:00 0 
+7fc1c8ffa000-7fc1c903a000 rw-p 00000000 00:00 0 
+7fc1c903a000-7fc1c90bf000 r--p 00000000 08:02 525752                     /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/extensions/langpack-ru@firefox.mozilla.org.xpi
+7fc1c90bf000-7fc1c90c0000 ---p 00000000 00:00 0 
+7fc1c90c0000-7fc1c9100000 rw-p 00000000 00:00 0 
+7fc1c9100000-7fc1c9102000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c9102000-7fc1c9103000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9103000-7fc1c91ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c91ff000-7fc1c9200000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9200000-7fc1c9202000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c9202000-7fc1c9203000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9203000-7fc1c92ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c92ff000-7fc1c9300000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9300000-7fc1c9301000 rw-s 00000000 00:01 180                        /memfd:mozilla-ipc (deleted)
+7fc1c9301000-7fc1c9302000 rw-s 00000000 00:01 178                        /memfd:mozilla-ipc (deleted)
+7fc1c9302000-7fc1c9303000 ---p 00000000 00:00 0 
+7fc1c9303000-7fc1c9501000 rw-p 00000000 00:00 0 
+7fc1c9501000-7fc1c9502000 ---p 00000000 00:00 0 
+7fc1c9502000-7fc1c9700000 rw-p 00000000 00:00 0 
+7fc1c9700000-7fc1c9702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c9702000-7fc1c9703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9703000-7fc1c97ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c97ff000-7fc1c9800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9800000-7fc1c9802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c9802000-7fc1c9803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9803000-7fc1c98ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c98ff000-7fc1c9900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9900000-7fc1c9902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c9902000-7fc1c9903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9903000-7fc1c99ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1c99ff000-7fc1c9a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1c9a00000-7fc1ca48d000 r--p 00000000 08:02 527856                     /home/mark/snap/firefox/common/.cache/mozilla/firefox/91fl88ia.default/startupCache/scriptCache-current.bin
+7fc1ca48d000-7fc1ca48e000 r--s 00000000 00:01 172                        /memfd:mozilla-ipc (deleted)
+7fc1ca48e000-7fc1ca492000 rw-p 00000000 00:00 0 
+7fc1ca492000-7fc1ca495000 r--p 00000000 07:06 11231                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7fc1ca495000-7fc1ca4ac000 r-xp 00003000 07:06 11231                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7fc1ca4ac000-7fc1ca4bd000 r--p 0001a000 07:06 11231                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7fc1ca4bd000-7fc1ca4be000 r--p 0002a000 07:06 11231                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7fc1ca4be000-7fc1ca4bf000 rw-p 0002b000 07:06 11231                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7fc1ca4bf000-7fc1ca4c0000 ---p 00000000 00:00 0 
+7fc1ca4c0000-7fc1ca500000 rw-p 00000000 00:00 0 
+7fc1ca500000-7fc1ca502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ca502000-7fc1ca503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ca503000-7fc1ca5ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ca5ff000-7fc1ca600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ca600000-7fc1ca602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ca602000-7fc1ca603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ca603000-7fc1ca6ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1ca6ff000-7fc1ca700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1ca700000-7fc1ca70c000 rw-p 00000000 00:00 0 
+7fc1ca70c000-7fc1ca70e000 r--p 00000000 07:06 10954                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7fc1ca70e000-7fc1ca711000 r-xp 00002000 07:06 10954                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7fc1ca711000-7fc1ca714000 r--p 00005000 07:06 10954                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7fc1ca714000-7fc1ca715000 ---p 00008000 07:06 10954                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7fc1ca715000-7fc1ca716000 r--p 00008000 07:06 10954                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7fc1ca716000-7fc1ca717000 rw-p 00009000 07:06 10954                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7fc1ca717000-7fc1ca71a000 r--p 00000000 07:01 7488                       /usr/lib/x86_64-linux-gnu/libapparmor.so.1.8.2
+7fc1ca71a000-7fc1ca723000 r-xp 00003000 07:01 7488                       /usr/lib/x86_64-linux-gnu/libapparmor.so.1.8.2
+7fc1ca723000-7fc1ca72a000 r--p 0000c000 07:01 7488                       /usr/lib/x86_64-linux-gnu/libapparmor.so.1.8.2
+7fc1ca72a000-7fc1ca72b000 r--p 00012000 07:01 7488                       /usr/lib/x86_64-linux-gnu/libapparmor.so.1.8.2
+7fc1ca72b000-7fc1ca72c000 rw-p 00013000 07:01 7488                       /usr/lib/x86_64-linux-gnu/libapparmor.so.1.8.2
+7fc1ca72c000-7fc1ca73c000 rw-p 00000000 00:00 0 
+7fc1ca73c000-7fc1ca73d000 ---p 00000000 00:00 0 
+7fc1ca73d000-7fc1ca77d000 rw-p 00000000 00:00 0 
+7fc1ca77d000-7fc1ca77e000 ---p 00000000 00:00 0 
+7fc1ca77e000-7fc1ca7be000 rw-p 00000000 00:00 0 
+7fc1ca7be000-7fc1ca7bf000 ---p 00000000 00:00 0 
+7fc1ca7bf000-7fc1ca7ff000 rw-p 00000000 00:00 0 
+7fc1ca7ff000-7fc1ca800000 ---p 00000000 00:00 0 
+7fc1ca800000-7fc1cb000000 rw-p 00000000 00:00 0 
+7fc1cb000000-7fc1cb214000 r--p 00000000 08:02 525581                     /home/mark/snap/firefox/common/.cache/mozilla/firefox/91fl88ia.default/startupCache/startupCache.8.little
+7fc1cb214000-7fc1cb215000 r--s 00000000 00:01 171                        /memfd:mozilla-ipc (deleted)
+7fc1cb215000-7fc1cb216000 r--s 00000000 00:01 170                        /memfd:mozilla-ipc (deleted)
+7fc1cb216000-7fc1cb21a000 rw-p 00000000 00:00 0 
+7fc1cb21a000-7fc1cb21c000 r--p 00000000 07:06 10401                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7fc1cb21c000-7fc1cb21f000 r-xp 00002000 07:06 10401                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7fc1cb21f000-7fc1cb220000 r--p 00005000 07:06 10401                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7fc1cb220000-7fc1cb221000 r--p 00005000 07:06 10401                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7fc1cb221000-7fc1cb222000 rw-p 00006000 07:06 10401                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7fc1cb222000-7fc1cb223000 ---p 00000000 00:00 0 
+7fc1cb223000-7fc1cb263000 rw-p 00000000 00:00 0 
+7fc1cb263000-7fc1cb264000 ---p 00000000 00:00 0 
+7fc1cb264000-7fc1cb2a4000 rw-p 00000000 00:00 0 
+7fc1cb2a4000-7fc1cb2a5000 ---p 00000000 00:00 0 
+7fc1cb2a5000-7fc1cb2e5000 rw-p 00000000 00:00 0 
+7fc1cb2e5000-7fc1cb388000 r--p 00000000 08:02 527848                     /home/mark/snap/firefox/common/.cache/mozilla/firefox/91fl88ia.default/startupCache/scriptCache-child-current.bin
+7fc1cb388000-7fc1cb389000 ---p 00000000 00:00 0 
+7fc1cb389000-7fc1cb3c9000 rw-p 00000000 00:00 0 
+7fc1cb3c9000-7fc1cb400000 r--s 00000000 00:01 1182                       /memfd:mozilla-ipc (deleted)
+7fc1cb400000-7fc1cb402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1cb402000-7fc1cb403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1cb403000-7fc1cb4ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1cb4ff000-7fc1cb500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1cb500000-7fc1cb502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1cb502000-7fc1cb503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1cb503000-7fc1cb5ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1cb5ff000-7fc1cb600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1cb600000-7fc1cb602000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1cb602000-7fc1cb603000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1cb603000-7fc1cb6ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1cb6ff000-7fc1cb700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1cb700000-7fc1cb701000 r--s 00000000 00:01 168                        /memfd:mozilla-ipc (deleted)
+7fc1cb701000-7fc1cb702000 r--s 00000000 00:01 1184                       /memfd:mozilla-ipc (deleted)
+7fc1cb702000-7fc1cb703000 r--s 00000000 08:02 525754                     /home/mark/snap/firefox/common/.cache/fontconfig/cac8794aa7ed8f9f67147dc2b22c9fcb-le64.cache-7
+7fc1cb703000-7fc1cb70b000 rw-p 00000000 00:00 0 
+7fc1cb70f000-7fc1cb713000 rw-p 00000000 00:00 0 
+7fc1cb717000-7fc1cb72b000 rw-p 00000000 00:00 0 
+7fc1cb733000-7fc1cb737000 rw-p 00000000 00:00 0 
+7fc1cb737000-7fc1cb738000 ---p 00000000 00:00 0 
+7fc1cb738000-7fc1cb740000 rw-p 00000000 00:00 0 
+7fc1cb744000-7fc1cb745000 ---p 00000000 00:00 0 
+7fc1cb745000-7fc1cb785000 rw-p 00000000 00:00 0 
+7fc1cb785000-7fc1cb789000 r--p 00000000 07:06 9695                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7fc1cb789000-7fc1cb790000 r-xp 00004000 07:06 9695                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7fc1cb790000-7fc1cb793000 r--p 0000b000 07:06 9695                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7fc1cb793000-7fc1cb794000 r--p 0000e000 07:06 9695                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7fc1cb794000-7fc1cb795000 rw-p 0000f000 07:06 9695                       /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7fc1cb795000-7fc1cb7a0000 r--p 00000000 07:06 13223                      /snap/firefox/7355/gnome-platform/usr/share/glib-2.0/schemas/gschemas.compiled
+7fc1cb7a0000-7fc1cb7a2000 r--p 00000000 07:06 10072                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so
+7fc1cb7a2000-7fc1cb7a5000 r-xp 00002000 07:06 10072                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so
+7fc1cb7a5000-7fc1cb7a6000 r--p 00005000 07:06 10072                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so
+7fc1cb7a6000-7fc1cb7a7000 ---p 00006000 07:06 10072                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so
+7fc1cb7a7000-7fc1cb7a8000 r--p 00006000 07:06 10072                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so
+7fc1cb7a8000-7fc1cb7a9000 rw-p 00007000 07:06 10072                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so
+7fc1cb7a9000-7fc1cb7fd000 r--p 00000000 08:02 947048                     /usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf
+7fc1cb7fd000-7fc1cb905000 r--p 00000000 08:02 947391                     /usr/share/fonts/truetype/ubuntu/UbuntuSans[wdth,wght].ttf
+7fc1cb905000-7fc1cba0d000 r--p 00000000 08:02 947391                     /usr/share/fonts/truetype/ubuntu/UbuntuSans[wdth,wght].ttf
+7fc1cba0d000-7fc1cba11000 rw-p 00000000 00:00 0 
+7fc1cba11000-7fc1cba12000 ---p 00000000 00:00 0 
+7fc1cba12000-7fc1cc212000 rw-p 00000000 00:00 0 
+7fc1cc212000-7fc1cc216000 rw-p 00000000 00:00 0 
+7fc1cc216000-7fc1cc217000 ---p 00000000 00:00 0 
+7fc1cc217000-7fc1cca17000 rw-p 00000000 00:00 0 
+7fc1cca17000-7fc1cca22000 r--s 00000000 08:02 1835489                    /var/snap/firefox/common/fontconfig/a4e60e8d1e10d2fdff3fe3037a1845fb-le64.cache-7
+7fc1cca22000-7fc1cca75000 r--s 00000000 08:02 1836389                    /var/snap/firefox/common/fontconfig/2300eef321c393bfd76478a5c0e95b23-le64.cache-7
+7fc1cca75000-7fc1ccadd000 r--s 00000000 08:02 1836388                    /var/snap/firefox/common/fontconfig/0bd3dc0958fa2205aaaa8ebb13e2872b-le64.cache-7
+7fc1ccadd000-7fc1ccaeb000 r--s 00000000 08:02 1836384                    /var/snap/firefox/common/fontconfig/6cc790b63b123a6a96ee260fcdad32a9-le64.cache-7
+7fc1ccaeb000-7fc1ccafb000 r--s 00000000 08:02 1835471                    /var/snap/firefox/common/fontconfig/9b89f8e3dae116d678bbf48e5f21f69b-le64.cache-7
+7fc1ccafb000-7fc1ccafc000 ---p 00000000 00:00 0 
+7fc1ccafc000-7fc1cd2fc000 rw-p 00000000 00:00 0 
+7fc1cd2fc000-7fc1cd2fd000 ---p 00000000 00:00 0 
+7fc1cd2fd000-7fc1cd33d000 rw-p 00000000 00:00 0 
+7fc1cd33d000-7fc1cd33e000 ---p 00000000 00:00 0 
+7fc1cd33e000-7fc1cd37e000 rw-p 00000000 00:00 0 
+7fc1cd37e000-7fc1cd37f000 ---p 00000000 00:00 0 
+7fc1cd37f000-7fc1cd3bf000 rw-p 00000000 00:00 0 
+7fc1cd3bf000-7fc1cd3c0000 ---p 00000000 00:00 0 
+7fc1cd3c0000-7fc1cd400000 rw-p 00000000 00:00 0 
+7fc1cd400000-7fc1cd402000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1cd402000-7fc1cd403000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1cd403000-7fc1cd4ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1cd4ff000-7fc1cd500000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1cd500000-7fc1cd504000 r--s 00000000 08:02 525570                     /home/mark/snap/firefox/common/.cache/fontconfig/cbb088874be11148256a704525b12cc8-le64.cache-7
+7fc1cd504000-7fc1cd50b000 r--s 00000000 08:02 1836387                    /var/snap/firefox/common/fontconfig/3047814df9a2f067bd2d96a2b9c36e5a-le64.cache-7
+7fc1cd50b000-7fc1cd50c000 ---p 00000000 00:00 0 
+7fc1cd50c000-7fc1cd54c000 rw-p 00000000 00:00 0 
+7fc1cd54c000-7fc1cd54d000 ---p 00000000 00:00 0 
+7fc1cd54d000-7fc1cd58d000 rw-p 00000000 00:00 0 
+7fc1cd58d000-7fc1cffbb000 r--p 00000000 07:05 43                         /snap/firefox/7355/usr/lib/firefox/browser/omni.ja
+7fc1cffbb000-7fc1d25ff000 r--p 00000000 07:05 291                        /snap/firefox/7355/usr/lib/firefox/omni.ja
+7fc1d25ff000-7fc1d2600000 ---p 00000000 00:00 0 
+7fc1d2600000-7fc1d2800000 rw-p 00000000 00:00 0 
+7fc1d2800000-7fc1d2802000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d2802000-7fc1d2803000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d2803000-7fc1d28ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d28ff000-7fc1d2900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d2900000-7fc1d2902000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d2902000-7fc1d2903000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d2903000-7fc1d29ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d29ff000-7fc1d2a00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d2a00000-7fc1d2a02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d2a02000-7fc1d2a03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d2a03000-7fc1d2aff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d2aff000-7fc1d2b00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d2b00000-7fc1d2b02000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d2b02000-7fc1d2b03000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d2b03000-7fc1d2bff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d2bff000-7fc1d2c00000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d2c00000-7fc1d2c02000 r--s 00000000 00:01 166                        /memfd:mozilla-ipc (deleted)
+7fc1d2c02000-7fc1d2c07000 r--s 00000000 08:02 1835483                    /var/snap/firefox/common/fontconfig/d589a48862398ed80a3d6066f4f56f4c-le64.cache-7
+7fc1d2c07000-7fc1d2c15000 r--s 00000000 08:02 1835492                    /var/snap/firefox/common/fontconfig/e13b20fdb08344e0e664864cc2ede53d-le64.cache-7
+7fc1d2c15000-7fc1d2c16000 r--s 00000000 00:01 167                        /memfd:mozilla-ipc (deleted)
+7fc1d2c16000-7fc1d2c17000 r--s 00000000 00:01 165                        /memfd:mozilla-ipc (deleted)
+7fc1d2c17000-7fc1d2c19000 r--s 00000000 00:01 164                        /memfd:mozilla-ipc (deleted)
+7fc1d2c19000-7fc1d2c35000 rw-p 00000000 00:00 0 
+7fc1d2c35000-7fc1d2c37000 r--p 00000000 07:06 10329                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7fc1d2c37000-7fc1d2c3c000 r-xp 00002000 07:06 10329                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7fc1d2c3c000-7fc1d2c3e000 r--p 00007000 07:06 10329                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7fc1d2c3e000-7fc1d2c3f000 r--p 00008000 07:06 10329                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7fc1d2c3f000-7fc1d2c40000 rw-p 00009000 07:06 10329                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7fc1d2c40000-7fc1d2cf5000 r--p 00000000 07:08 75862                      /snap/firefox/7355/data-dir/themes/Yaru/gtk-3.0/gtk.gresource
+7fc1d2cf5000-7fc1d2f35000 rw-s 00000000 00:01 1180                       /memfd:wayland-cursor (deleted)
+7fc1d2f35000-7fc1d2f36000 ---p 00000000 00:00 0 
+7fc1d2f36000-7fc1d3736000 rw-p 00000000 00:00 0 
+7fc1d3736000-7fc1d3762000 r--p 00000000 07:06 18534                      /snap/firefox/7355/gnome-platform/usr/share/locale/ru/LC_MESSAGES/glib20.mo
+7fc1d3762000-7fc1d3763000 ---p 00000000 00:00 0 
+7fc1d3763000-7fc1d3f63000 rw-p 00000000 00:00 0 
+7fc1d3f63000-7fc1d3f64000 ---p 00000000 00:00 0 
+7fc1d3f64000-7fc1d4764000 rw-p 00000000 00:00 0 
+7fc1d4764000-7fc1d4765000 ---p 00000000 00:00 0 
+7fc1d4765000-7fc1d4f65000 rw-p 00000000 00:00 0 
+7fc1d4f65000-7fc1d4fa9000 r--p 00000000 07:06 18537                      /snap/firefox/7355/gnome-platform/usr/share/locale/ru/LC_MESSAGES/gtk30-properties.mo
+7fc1d4fa9000-7fc1d5000000 r--p 00000000 07:01 2089                       /usr/lib/locale/C.utf8/LC_CTYPE
+7fc1d5000000-7fc1d5002000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d5002000-7fc1d5003000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d5003000-7fc1d50ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1d50ff000-7fc1d5100000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1d5100000-7fc1d5102000 r--p 00000000 08:02 528502                     /home/mark/.config/dconf/user
+7fc1d5102000-7fc1d5106000 r--p 00000000 07:06 10321                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7fc1d5106000-7fc1d5115000 r-xp 00004000 07:06 10321                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7fc1d5115000-7fc1d511a000 r--p 00013000 07:06 10321                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7fc1d511a000-7fc1d511b000 r--p 00017000 07:06 10321                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7fc1d511b000-7fc1d511c000 rw-p 00018000 07:06 10321                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7fc1d511c000-7fc1d512f000 rw-p 00000000 00:00 0 
+7fc1d512f000-7fc1d5130000 r--p 00000000 07:06 10055                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-2.0/modules/libatk-bridge.so
+7fc1d5130000-7fc1d5131000 r-xp 00001000 07:06 10055                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-2.0/modules/libatk-bridge.so
+7fc1d5131000-7fc1d5132000 r--p 00002000 07:06 10055                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-2.0/modules/libatk-bridge.so
+7fc1d5132000-7fc1d5133000 r--p 00002000 07:06 10055                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-2.0/modules/libatk-bridge.so
+7fc1d5133000-7fc1d5134000 rw-p 00003000 07:06 10055                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-2.0/modules/libatk-bridge.so
+7fc1d5134000-7fc1d5155000 r--p 00000000 07:06 18538                      /snap/firefox/7355/gnome-platform/usr/share/locale/ru/LC_MESSAGES/gtk30.mo
+7fc1d5155000-7fc1d517f000 r--p 00000000 07:06 10397                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7fc1d517f000-7fc1d5216000 r-xp 0002a000 07:06 10397                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7fc1d5216000-7fc1d5250000 r--p 000c1000 07:06 10397                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7fc1d5250000-7fc1d5257000 r--p 000fa000 07:06 10397                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7fc1d5257000-7fc1d5258000 rw-p 00101000 07:06 10397                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7fc1d5258000-7fc1d525b000 r--p 00000000 07:01 7704                       /usr/lib/x86_64-linux-gnu/libresolv.so.2
+7fc1d525b000-7fc1d5265000 r-xp 00003000 07:01 7704                       /usr/lib/x86_64-linux-gnu/libresolv.so.2
+7fc1d5265000-7fc1d5268000 r--p 0000d000 07:01 7704                       /usr/lib/x86_64-linux-gnu/libresolv.so.2
+7fc1d5268000-7fc1d5269000 r--p 0000f000 07:01 7704                       /usr/lib/x86_64-linux-gnu/libresolv.so.2
+7fc1d5269000-7fc1d526a000 rw-p 00010000 07:01 7704                       /usr/lib/x86_64-linux-gnu/libresolv.so.2
+7fc1d526a000-7fc1d526c000 rw-p 00000000 00:00 0 
+7fc1d526c000-7fc1d526d000 r--s 00000000 00:46 218                        /run/user/1000/dconf/user
+7fc1d526d000-7fc1d526e000 r--s 00000000 08:02 525579                     /home/mark/snap/firefox/common/.cache/fontconfig/84a05ca425166c86e2501b8ca2aba0a9-le64.cache-7
+7fc1d526e000-7fc1d526f000 r--s 00000000 08:02 1836386                    /var/snap/firefox/common/fontconfig/3f7329c5293ffd510edef78f73874cfd-le64.cache-7
+7fc1d526f000-7fc1d5270000 r--p 00000000 07:01 2096                       /usr/lib/locale/C.utf8/LC_NUMERIC
+7fc1d5270000-7fc1d5271000 r--p 00000000 07:01 2099                       /usr/lib/locale/C.utf8/LC_TIME
+7fc1d5271000-7fc1d5272000 r--p 00000000 07:01 2088                       /usr/lib/locale/C.utf8/LC_COLLATE
+7fc1d5272000-7fc1d5273000 r--p 00000000 07:01 2094                       /usr/lib/locale/C.utf8/LC_MONETARY
+7fc1d5273000-7fc1d5274000 r--p 00000000 07:01 2093                       /usr/lib/locale/C.utf8/LC_MESSAGES/SYS_LC_MESSAGES
+7fc1d5274000-7fc1d5275000 r--p 00000000 07:01 2097                       /usr/lib/locale/C.utf8/LC_PAPER
+7fc1d5275000-7fc1d527c000 r--s 00000000 07:01 7462                       /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7fc1d527c000-7fc1d825a000 r--p 00000000 07:05 290                        /snap/firefox/7355/usr/lib/firefox/libxul.so
+7fc1d825a000-7fc1dec53000 r-xp 02fdd000 07:05 290                        /snap/firefox/7355/usr/lib/firefox/libxul.so
+7fc1dec53000-7fc1df1ba000 r--p 099d5000 07:05 290                        /snap/firefox/7355/usr/lib/firefox/libxul.so
+7fc1df1ba000-7fc1df295000 rw-p 09f3b000 07:05 290                        /snap/firefox/7355/usr/lib/firefox/libxul.so
+7fc1df295000-7fc1df346000 rw-p 00000000 00:00 0 
+7fc1df346000-7fc1df34a000 r--p 00000000 07:06 307                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libgpg-error.so.0
+7fc1df34a000-7fc1df360000 r-xp 00004000 07:06 307                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libgpg-error.so.0
+7fc1df360000-7fc1df36a000 r--p 0001a000 07:06 307                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libgpg-error.so.0
+7fc1df36a000-7fc1df36b000 r--p 00023000 07:06 307                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libgpg-error.so.0
+7fc1df36b000-7fc1df36c000 rw-p 00024000 07:06 307                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libgpg-error.so.0
+7fc1df36c000-7fc1df36e000 r--p 00000000 07:01 7614                       /usr/lib/x86_64-linux-gnu/libmd.so.0.0.5
+7fc1df36e000-7fc1df375000 r-xp 00002000 07:01 7614                       /usr/lib/x86_64-linux-gnu/libmd.so.0.0.5
+7fc1df375000-7fc1df377000 r--p 00009000 07:01 7614                       /usr/lib/x86_64-linux-gnu/libmd.so.0.0.5
+7fc1df377000-7fc1df378000 r--p 0000a000 07:01 7614                       /usr/lib/x86_64-linux-gnu/libmd.so.0.0.5
+7fc1df378000-7fc1df379000 rw-p 0000b000 07:01 7614                       /usr/lib/x86_64-linux-gnu/libmd.so.0.0.5
+7fc1df379000-7fc1df388000 r--p 00000000 07:06 10593                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgcrypt.so.20.3.4
+7fc1df388000-7fc1df46e000 r-xp 0000f000 07:06 10593                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgcrypt.so.20.3.4
+7fc1df46e000-7fc1df4ac000 r--p 000f5000 07:06 10593                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgcrypt.so.20.3.4
+7fc1df4ac000-7fc1df4ad000 ---p 00133000 07:06 10593                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgcrypt.so.20.3.4
+7fc1df4ad000-7fc1df4b0000 r--p 00133000 07:06 10593                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgcrypt.so.20.3.4
+7fc1df4b0000-7fc1df4b6000 rw-p 00136000 07:06 10593                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgcrypt.so.20.3.4
+7fc1df4b6000-7fc1df4b7000 rw-p 00000000 00:00 0 
+7fc1df4b7000-7fc1df4ba000 r--p 00000000 07:01 7516                       /usr/lib/x86_64-linux-gnu/libcap.so.2.44
+7fc1df4ba000-7fc1df4be000 r-xp 00003000 07:01 7516                       /usr/lib/x86_64-linux-gnu/libcap.so.2.44
+7fc1df4be000-7fc1df4c0000 r--p 00007000 07:01 7516                       /usr/lib/x86_64-linux-gnu/libcap.so.2.44
+7fc1df4c0000-7fc1df4c1000 r--p 00008000 07:01 7516                       /usr/lib/x86_64-linux-gnu/libcap.so.2.44
+7fc1df4c1000-7fc1df4c2000 rw-p 00009000 07:01 7516                       /usr/lib/x86_64-linux-gnu/libcap.so.2.44
+7fc1df4c2000-7fc1df4c4000 r--p 00000000 07:01 7607                       /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.3
+7fc1df4c4000-7fc1df4dd000 r-xp 00002000 07:01 7607                       /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.3
+7fc1df4dd000-7fc1df4df000 r--p 0001b000 07:01 7607                       /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.3
+7fc1df4df000-7fc1df4e0000 ---p 0001d000 07:01 7607                       /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.3
+7fc1df4e0000-7fc1df4e1000 r--p 0001d000 07:01 7607                       /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.3
+7fc1df4e1000-7fc1df4e2000 rw-p 0001e000 07:01 7607                       /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.3
+7fc1df4e2000-7fc1df4ec000 r--p 00000000 07:06 11322                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libzstd.so.1.4.8
+7fc1df4ec000-7fc1df59e000 r-xp 0000a000 07:06 11322                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libzstd.so.1.4.8
+7fc1df59e000-7fc1df5af000 r--p 000bc000 07:06 11322                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libzstd.so.1.4.8
+7fc1df5af000-7fc1df5b0000 r--p 000cc000 07:06 11322                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libzstd.so.1.4.8
+7fc1df5b0000-7fc1df5b1000 rw-p 000cd000 07:06 11322                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libzstd.so.1.4.8
+7fc1df5b1000-7fc1df5b4000 r--p 00000000 07:01 7609                       /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fc1df5b4000-7fc1df5cf000 r-xp 00003000 07:01 7609                       /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fc1df5cf000-7fc1df5da000 r--p 0001e000 07:01 7609                       /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fc1df5da000-7fc1df5db000 r--p 00028000 07:01 7609                       /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fc1df5db000-7fc1df5dc000 rw-p 00029000 07:01 7609                       /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fc1df5dc000-7fc1df5e0000 r--p 00000000 07:01 7507                       /usr/lib/x86_64-linux-gnu/libbsd.so.0.11.5
+7fc1df5e0000-7fc1df5ed000 r-xp 00004000 07:01 7507                       /usr/lib/x86_64-linux-gnu/libbsd.so.0.11.5
+7fc1df5ed000-7fc1df5f0000 r--p 00011000 07:01 7507                       /usr/lib/x86_64-linux-gnu/libbsd.so.0.11.5
+7fc1df5f0000-7fc1df5f1000 ---p 00014000 07:01 7507                       /usr/lib/x86_64-linux-gnu/libbsd.so.0.11.5
+7fc1df5f1000-7fc1df5f2000 r--p 00014000 07:01 7507                       /usr/lib/x86_64-linux-gnu/libbsd.so.0.11.5
+7fc1df5f2000-7fc1df5f3000 rw-p 00015000 07:01 7507                       /usr/lib/x86_64-linux-gnu/libbsd.so.0.11.5
+7fc1df5f3000-7fc1df5f4000 rw-p 00000000 00:00 0 
+7fc1df5f4000-7fc1df5f5000 r--p 00000000 07:06 10437                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.0.9
+7fc1df5f5000-7fc1df5f6000 r-xp 00001000 07:06 10437                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.0.9
+7fc1df5f6000-7fc1df615000 r--p 00002000 07:06 10437                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.0.9
+7fc1df615000-7fc1df616000 r--p 00020000 07:06 10437                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.0.9
+7fc1df616000-7fc1df617000 rw-p 00021000 07:06 10437                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.0.9
+7fc1df617000-7fc1df62a000 r--p 00000000 07:06 11139                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsystemd.so.0.32.0
+7fc1df62a000-7fc1df6a9000 r-xp 00013000 07:06 11139                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsystemd.so.0.32.0
+7fc1df6a9000-7fc1df6d4000 r--p 00092000 07:06 11139                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsystemd.so.0.32.0
+7fc1df6d4000-7fc1df6d5000 ---p 000bd000 07:06 11139                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsystemd.so.0.32.0
+7fc1df6d5000-7fc1df6dc000 r--p 000bd000 07:06 11139                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsystemd.so.0.32.0
+7fc1df6dc000-7fc1df6dd000 rw-p 000c4000 07:06 11139                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libsystemd.so.0.32.0
+7fc1df6dd000-7fc1df6de000 rw-p 00000000 00:00 0 
+7fc1df6de000-7fc1df6e0000 r--p 00000000 07:06 10350                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7fc1df6e0000-7fc1df6e2000 r-xp 00002000 07:06 10350                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7fc1df6e2000-7fc1df6e4000 r--p 00004000 07:06 10350                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7fc1df6e4000-7fc1df6e5000 r--p 00005000 07:06 10350                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7fc1df6e5000-7fc1df6e6000 rw-p 00006000 07:06 10350                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7fc1df6e6000-7fc1df6e7000 r--p 00000000 07:06 10338                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7fc1df6e7000-7fc1df6e9000 r-xp 00001000 07:06 10338                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7fc1df6e9000-7fc1df6ea000 r--p 00003000 07:06 10338                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7fc1df6ea000-7fc1df6eb000 r--p 00003000 07:06 10338                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7fc1df6eb000-7fc1df6ec000 rw-p 00004000 07:06 10338                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7fc1df6ec000-7fc1df6ed000 r--p 00000000 07:06 10440                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.0.9
+7fc1df6ed000-7fc1df6f5000 r-xp 00001000 07:06 10440                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.0.9
+7fc1df6f5000-7fc1df6f8000 r--p 00009000 07:06 10440                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.0.9
+7fc1df6f8000-7fc1df6f9000 r--p 0000b000 07:06 10440                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.0.9
+7fc1df6f9000-7fc1df6fa000 rw-p 0000c000 07:06 10440                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.0.9
+7fc1df6fa000-7fc1df6fc000 r--p 00000000 07:06 10500                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdatrie.so.1.4.0
+7fc1df6fc000-7fc1df700000 r-xp 00002000 07:06 10500                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdatrie.so.1.4.0
+7fc1df700000-7fc1df701000 r--p 00006000 07:06 10500                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdatrie.so.1.4.0
+7fc1df701000-7fc1df702000 r--p 00007000 07:06 10500                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdatrie.so.1.4.0
+7fc1df702000-7fc1df703000 rw-p 00008000 07:06 10500                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libdatrie.so.1.4.0
+7fc1df703000-7fc1df70a000 r--p 00000000 07:06 10434                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7fc1df70a000-7fc1df72a000 r-xp 00007000 07:06 10434                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7fc1df72a000-7fc1df733000 r--p 00027000 07:06 10434                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7fc1df733000-7fc1df734000 ---p 00030000 07:06 10434                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7fc1df734000-7fc1df739000 r--p 00030000 07:06 10434                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7fc1df739000-7fc1df73a000 rw-p 00035000 07:06 10434                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7fc1df73a000-7fc1df74a000 r--p 00000000 07:06 10412                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7fc1df74a000-7fc1df769000 r-xp 00010000 07:06 10412                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7fc1df769000-7fc1df777000 r--p 0002f000 07:06 10412                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7fc1df777000-7fc1df778000 ---p 0003d000 07:06 10412                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7fc1df778000-7fc1df77b000 r--p 0003d000 07:06 10412                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7fc1df77b000-7fc1df77c000 rw-p 00040000 07:06 10412                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7fc1df77c000-7fc1df77d000 rw-p 00000000 00:00 0 
+7fc1df77d000-7fc1df788000 r--p 00000000 07:06 304                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libdbus-1.so.3.19.13
+7fc1df788000-7fc1df7b6000 r-xp 0000b000 07:06 304                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libdbus-1.so.3.19.13
+7fc1df7b6000-7fc1df7c8000 r--p 00039000 07:06 304                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libdbus-1.so.3.19.13
+7fc1df7c8000-7fc1df7c9000 ---p 0004b000 07:06 304                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libdbus-1.so.3.19.13
+7fc1df7c9000-7fc1df7ca000 r--p 0004b000 07:06 304                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libdbus-1.so.3.19.13
+7fc1df7ca000-7fc1df7cb000 rw-p 0004c000 07:06 304                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libdbus-1.so.3.19.13
+7fc1df7cb000-7fc1df7cf000 r--p 00000000 07:06 10884                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libjpeg.so.8.2.2
+7fc1df7cf000-7fc1df818000 r-xp 00004000 07:06 10884                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libjpeg.so.8.2.2
+7fc1df818000-7fc1df84a000 r--p 0004d000 07:06 10884                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libjpeg.so.8.2.2
+7fc1df84a000-7fc1df84b000 r--p 0007e000 07:06 10884                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libjpeg.so.8.2.2
+7fc1df84b000-7fc1df84c000 rw-p 0007f000 07:06 10884                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libjpeg.so.8.2.2
+7fc1df84c000-7fc1df84e000 r--p 00000000 07:06 11198                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7fc1df84e000-7fc1df852000 r-xp 00002000 07:06 11198                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7fc1df852000-7fc1df853000 r--p 00006000 07:06 11198                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7fc1df853000-7fc1df854000 r--p 00006000 07:06 11198                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7fc1df854000-7fc1df855000 rw-p 00007000 07:06 11198                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7fc1df855000-7fc1df859000 r--p 00000000 07:06 306                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libexpat.so.1.8.7
+7fc1df859000-7fc1df878000 r-xp 00004000 07:06 306                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libexpat.so.1.8.7
+7fc1df878000-7fc1df882000 r--p 00023000 07:06 306                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libexpat.so.1.8.7
+7fc1df882000-7fc1df883000 ---p 0002d000 07:06 306                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libexpat.so.1.8.7
+7fc1df883000-7fc1df885000 r--p 0002d000 07:06 306                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libexpat.so.1.8.7
+7fc1df885000-7fc1df886000 rw-p 0002f000 07:06 306                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libexpat.so.1.8.7
+7fc1df886000-7fc1df891000 r--p 00000000 07:06 11029                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpixman-1.so.0.42.2
+7fc1df891000-7fc1df95f000 r-xp 0000b000 07:06 11029                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpixman-1.so.0.42.2
+7fc1df95f000-7fc1df972000 r--p 000d9000 07:06 11029                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpixman-1.so.0.42.2
+7fc1df972000-7fc1df97a000 r--p 000eb000 07:06 11029                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpixman-1.so.0.42.2
+7fc1df97a000-7fc1df97b000 rw-p 000f3000 07:06 11029                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpixman-1.so.0.42.2
+7fc1df97b000-7fc1df97c000 r--p 00000000 07:06 11295                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7fc1df97c000-7fc1df97d000 r-xp 00001000 07:06 11295                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7fc1df97d000-7fc1df97e000 r--p 00002000 07:06 11295                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7fc1df97e000-7fc1df97f000 r--p 00002000 07:06 11295                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7fc1df97f000-7fc1df980000 rw-p 00003000 07:06 11295                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7fc1df980000-7fc1df985000 r--p 00000000 07:06 11292                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7fc1df985000-7fc1df98a000 r-xp 00005000 07:06 11292                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7fc1df98a000-7fc1df98c000 r--p 0000a000 07:06 11292                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7fc1df98c000-7fc1df98d000 ---p 0000c000 07:06 11292                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7fc1df98d000-7fc1df98e000 r--p 0000c000 07:06 11292                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7fc1df98e000-7fc1df98f000 rw-p 0000d000 07:06 11292                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7fc1df98f000-7fc1df99a000 r--p 00000000 07:06 11302                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7fc1df99a000-7fc1df9ae000 r-xp 0000b000 07:06 11302                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7fc1df9ae000-7fc1df9b7000 r--p 0001f000 07:06 11302                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7fc1df9b7000-7fc1df9b8000 r--p 00027000 07:06 11302                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7fc1df9b8000-7fc1df9b9000 rw-p 00028000 07:06 11302                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7fc1df9b9000-7fc1df9bb000 r--p 00000000 07:06 10373                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7fc1df9bb000-7fc1df9c2000 r-xp 00002000 07:06 10373                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7fc1df9c2000-7fc1df9c4000 r--p 00009000 07:06 10373                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7fc1df9c4000-7fc1df9c5000 r--p 0000a000 07:06 10373                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7fc1df9c5000-7fc1df9c6000 rw-p 0000b000 07:06 10373                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7fc1df9c6000-7fc1df9cb000 r--p 00000000 07:06 11035                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7fc1df9cb000-7fc1df9f4000 r-xp 00005000 07:06 11035                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7fc1df9f4000-7fc1df9ff000 r--p 0002e000 07:06 11035                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7fc1df9ff000-7fc1dfa00000 r--p 00038000 07:06 11035                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7fc1dfa00000-7fc1dfa01000 rw-p 00039000 07:06 11035                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7fc1dfa01000-7fc1dfa04000 r--p 00000000 07:06 10688                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7fc1dfa04000-7fc1dfa21000 r-xp 00003000 07:06 10688                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7fc1dfa21000-7fc1dfa25000 r--p 00020000 07:06 10688                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7fc1dfa25000-7fc1dfa27000 r--p 00023000 07:06 10688                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7fc1dfa27000-7fc1dfa28000 rw-p 00025000 07:06 10688                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7fc1dfa28000-7fc1dfa35000 r--p 00000000 07:06 10572                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfreetype.so.6.18.1
+7fc1dfa35000-7fc1dfabe000 r-xp 0000d000 07:06 10572                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfreetype.so.6.18.1
+7fc1dfabe000-7fc1dfae7000 r--p 00096000 07:06 10572                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfreetype.so.6.18.1
+7fc1dfae7000-7fc1dfae8000 ---p 000bf000 07:06 10572                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfreetype.so.6.18.1
+7fc1dfae8000-7fc1dfaef000 r--p 000bf000 07:06 10572                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfreetype.so.6.18.1
+7fc1dfaef000-7fc1dfaf0000 rw-p 000c6000 07:06 10572                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfreetype.so.6.18.1
+7fc1dfaf0000-7fc1dfaf2000 r--p 00000000 07:06 11149                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7fc1dfaf2000-7fc1dfaf6000 r-xp 00002000 07:06 11149                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7fc1dfaf6000-7fc1dfaf9000 r--p 00006000 07:06 11149                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7fc1dfaf9000-7fc1dfafa000 r--p 00008000 07:06 11149                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7fc1dfafa000-7fc1dfafb000 rw-p 00009000 07:06 11149                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7fc1dfafb000-7fc1dfb01000 r--p 00000000 07:06 312                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libselinux.so.1
+7fc1dfb01000-7fc1dfb1b000 r-xp 00006000 07:06 312                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libselinux.so.1
+7fc1dfb1b000-7fc1dfb22000 r--p 00020000 07:06 312                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libselinux.so.1
+7fc1dfb22000-7fc1dfb23000 ---p 00027000 07:06 312                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libselinux.so.1
+7fc1dfb23000-7fc1dfb24000 r--p 00027000 07:06 312                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libselinux.so.1
+7fc1dfb24000-7fc1dfb25000 rw-p 00028000 07:06 312                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/libselinux.so.1
+7fc1dfb25000-7fc1dfb27000 rw-p 00000000 00:00 0 
+7fc1dfb27000-7fc1dfb2f000 r--p 00000000 07:06 10919                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7fc1dfb2f000-7fc1dfb5b000 r-xp 00008000 07:06 10919                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7fc1dfb5b000-7fc1dfb68000 r--p 00034000 07:06 10919                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7fc1dfb68000-7fc1dfb69000 ---p 00041000 07:06 10919                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7fc1dfb69000-7fc1dfb6a000 r--p 00041000 07:06 10919                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7fc1dfb6a000-7fc1dfb6b000 rw-p 00042000 07:06 10919                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7fc1dfb6b000-7fc1dfb6d000 r--p 00000000 07:01 7749                       /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7fc1dfb6d000-7fc1dfb7e000 r-xp 00002000 07:01 7749                       /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7fc1dfb7e000-7fc1dfb84000 r--p 00013000 07:01 7749                       /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7fc1dfb84000-7fc1dfb85000 ---p 00019000 07:01 7749                       /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7fc1dfb85000-7fc1dfb86000 r--p 00019000 07:01 7749                       /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7fc1dfb86000-7fc1dfb87000 rw-p 0001a000 07:01 7749                       /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7fc1dfb87000-7fc1dfb88000 r--p 00000000 07:01 2095                       /usr/lib/locale/C.utf8/LC_NAME
+7fc1dfb88000-7fc1dfb8c000 rw-p 00000000 00:00 0 
+7fc1dfb8c000-7fc1dfb8d000 r--p 00000000 07:06 10332                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7fc1dfb8d000-7fc1dfb8e000 r-xp 00001000 07:06 10332                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7fc1dfb8e000-7fc1dfb8f000 r--p 00002000 07:06 10332                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7fc1dfb8f000-7fc1dfb90000 r--p 00002000 07:06 10332                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7fc1dfb90000-7fc1dfb91000 rw-p 00003000 07:06 10332                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7fc1dfb91000-7fc1dfb94000 r--p 00000000 07:05 281                        /snap/firefox/7355/usr/lib/firefox/libmozwayland.so
+7fc1dfb94000-7fc1dfb95000 r-xp 00002000 07:05 281                        /snap/firefox/7355/usr/lib/firefox/libmozwayland.so
+7fc1dfb95000-7fc1dfb96000 r--p 00002000 07:05 281                        /snap/firefox/7355/usr/lib/firefox/libmozwayland.so
+7fc1dfb96000-7fc1dfb97000 rw-p 00002000 07:05 281                        /snap/firefox/7355/usr/lib/firefox/libmozwayland.so
+7fc1dfb97000-7fc1dfb99000 r--p 00000000 07:06 10562                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7fc1dfb99000-7fc1dfba0000 r-xp 00002000 07:06 10562                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7fc1dfba0000-7fc1dfba2000 r--p 00009000 07:06 10562                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7fc1dfba2000-7fc1dfba3000 r--p 0000a000 07:06 10562                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7fc1dfba3000-7fc1dfba4000 rw-p 0000b000 07:06 10562                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7fc1dfba4000-7fc1dfba6000 r--p 00000000 07:06 11001                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.10.4
+7fc1dfba6000-7fc1dfc11000 r-xp 00002000 07:06 11001                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.10.4
+7fc1dfc11000-7fc1dfc39000 r--p 0006d000 07:06 11001                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.10.4
+7fc1dfc39000-7fc1dfc3a000 r--p 00094000 07:06 11001                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.10.4
+7fc1dfc3a000-7fc1dfc3b000 rw-p 00095000 07:06 11001                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.10.4
+7fc1dfc3b000-7fc1dfc3c000 r--p 00000000 07:06 10365                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7fc1dfc3c000-7fc1dfc3d000 r-xp 00001000 07:06 10365                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7fc1dfc3d000-7fc1dfc3e000 r--p 00002000 07:06 10365                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7fc1dfc3e000-7fc1dfc3f000 r--p 00003000 07:06 10365                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7fc1dfc3f000-7fc1dfc40000 rw-p 00004000 07:06 10365                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7fc1dfc40000-7fc1dfc42000 r--p 00000000 07:06 10370                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7fc1dfc42000-7fc1dfc49000 r-xp 00002000 07:06 10370                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7fc1dfc49000-7fc1dfc4b000 r--p 00009000 07:06 10370                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7fc1dfc4b000-7fc1dfc4c000 r--p 0000a000 07:06 10370                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7fc1dfc4c000-7fc1dfc4d000 rw-p 0000b000 07:06 10370                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7fc1dfc4d000-7fc1dfc4e000 r--p 00000000 07:06 10341                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7fc1dfc4e000-7fc1dfc4f000 r-xp 00001000 07:06 10341                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7fc1dfc4f000-7fc1dfc50000 r--p 00002000 07:06 10341                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7fc1dfc50000-7fc1dfc51000 r--p 00002000 07:06 10341                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7fc1dfc51000-7fc1dfc52000 rw-p 00003000 07:06 10341                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7fc1dfc52000-7fc1dfc53000 r--p 00000000 07:06 10347                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7fc1dfc53000-7fc1dfc54000 r-xp 00001000 07:06 10347                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7fc1dfc54000-7fc1dfc55000 r--p 00002000 07:06 10347                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7fc1dfc55000-7fc1dfc56000 r--p 00002000 07:06 10347                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7fc1dfc56000-7fc1dfc57000 rw-p 00003000 07:06 10347                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7fc1dfc57000-7fc1dfc59000 r--p 00000000 07:06 10344                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7fc1dfc59000-7fc1dfc5f000 r-xp 00002000 07:06 10344                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7fc1dfc5f000-7fc1dfc61000 r--p 00008000 07:06 10344                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7fc1dfc61000-7fc1dfc62000 r--p 00009000 07:06 10344                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7fc1dfc62000-7fc1dfc63000 rw-p 0000a000 07:06 10344                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7fc1dfc63000-7fc1dfc67000 r--p 00000000 07:06 10353                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7fc1dfc67000-7fc1dfc72000 r-xp 00004000 07:06 10353                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7fc1dfc72000-7fc1dfc76000 r--p 0000f000 07:06 10353                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7fc1dfc76000-7fc1dfc77000 r--p 00012000 07:06 10353                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7fc1dfc77000-7fc1dfc78000 rw-p 00013000 07:06 10353                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7fc1dfc78000-7fc1dfc79000 r--p 00000000 07:06 11254                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.22.0
+7fc1dfc79000-7fc1dfc7a000 r-xp 00001000 07:06 11254                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.22.0
+7fc1dfc7a000-7fc1dfc7b000 r--p 00002000 07:06 11254                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.22.0
+7fc1dfc7b000-7fc1dfc7c000 r--p 00002000 07:06 11254                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.22.0
+7fc1dfc7c000-7fc1dfc7d000 rw-p 00003000 07:06 11254                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.22.0
+7fc1dfc7d000-7fc1dfc7f000 r--p 00000000 07:06 11251                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.22.0
+7fc1dfc7f000-7fc1dfc81000 r-xp 00002000 07:06 11251                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.22.0
+7fc1dfc81000-7fc1dfc82000 r--p 00004000 07:06 11251                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.22.0
+7fc1dfc82000-7fc1dfc83000 r--p 00004000 07:06 11251                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.22.0
+7fc1dfc83000-7fc1dfc87000 rw-p 00005000 07:06 11251                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.22.0
+7fc1dfc87000-7fc1dfc8d000 r--p 00000000 07:06 11248                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-client.so.0.22.0
+7fc1dfc8d000-7fc1dfc94000 r-xp 00006000 07:06 11248                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-client.so.0.22.0
+7fc1dfc94000-7fc1dfc97000 r--p 0000d000 07:06 11248                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-client.so.0.22.0
+7fc1dfc97000-7fc1dfc99000 r--p 0000f000 07:06 11248                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-client.so.0.22.0
+7fc1dfc99000-7fc1dfc9a000 rw-p 00011000 07:06 11248                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libwayland-client.so.0.22.0
+7fc1dfc9a000-7fc1dfc9e000 r--p 00000000 07:06 11308                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7fc1dfc9e000-7fc1dfcbd000 r-xp 00004000 07:06 11308                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7fc1dfcbd000-7fc1dfcde000 r--p 00023000 07:06 11308                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7fc1dfcde000-7fc1dfce0000 r--p 00043000 07:06 11308                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7fc1dfce0000-7fc1dfce1000 rw-p 00045000 07:06 11308                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7fc1dfce1000-7fc1dfce3000 r--p 00000000 07:06 10356                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7fc1dfce3000-7fc1dfce6000 r-xp 00002000 07:06 10356                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7fc1dfce6000-7fc1dfce7000 r--p 00005000 07:06 10356                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7fc1dfce7000-7fc1dfce8000 r--p 00006000 07:06 10356                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7fc1dfce8000-7fc1dfce9000 rw-p 00007000 07:06 10356                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7fc1dfce9000-7fc1dfcf5000 r--p 00000000 07:06 10407                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7fc1dfcf5000-7fc1dfd10000 r-xp 0000c000 07:06 10407                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7fc1dfd10000-7fc1dfd1f000 r--p 00027000 07:06 10407                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7fc1dfd1f000-7fc1dfd20000 r--p 00035000 07:06 10407                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7fc1dfd20000-7fc1dfd22000 rw-p 00036000 07:06 10407                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7fc1dfd22000-7fc1dfd23000 rw-p 00000000 00:00 0 
+7fc1dfd23000-7fc1dfd3c000 r--p 00000000 07:06 10335                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7fc1dfd3c000-7fc1dfdc8000 r-xp 00019000 07:06 10335                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7fc1dfdc8000-7fc1dfe5d000 r--p 000a5000 07:06 10335                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7fc1dfe5d000-7fc1dfe5e000 ---p 0013a000 07:06 10335                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7fc1dfe5e000-7fc1dfe5f000 r--p 0013a000 07:06 10335                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7fc1dfe5f000-7fc1dfe63000 rw-p 0013b000 07:06 10335                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7fc1dfe63000-7fc1dfe66000 r--p 00000000 07:06 10362                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7fc1dfe66000-7fc1dfe72000 r-xp 00003000 07:06 10362                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7fc1dfe72000-7fc1dfe75000 r--p 0000f000 07:06 10362                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7fc1dfe75000-7fc1dfe76000 r--p 00011000 07:06 10362                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7fc1dfe76000-7fc1dfe77000 rw-p 00012000 07:06 10362                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7fc1dfe77000-7fc1dfed7000 r--p 00000000 07:06 10545                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7fc1dfed7000-7fc1dff3d000 r-xp 00060000 07:06 10545                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7fc1dff3d000-7fc1dff9a000 r--p 000c6000 07:06 10545                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7fc1dff9a000-7fc1dff9b000 ---p 00123000 07:06 10545                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7fc1dff9b000-7fc1dffa3000 r--p 00123000 07:06 10545                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7fc1dffa3000-7fc1dffaa000 rw-p 0012b000 07:06 10545                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7fc1dffaa000-7fc1dffab000 rw-p 00000000 00:00 0 
+7fc1dffab000-7fc1dffb5000 r--p 00000000 07:06 10404                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23809.1
+7fc1dffb5000-7fc1dffc4000 r-xp 0000a000 07:06 10404                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23809.1
+7fc1dffc4000-7fc1dffd0000 r--p 00019000 07:06 10404                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23809.1
+7fc1dffd0000-7fc1dffd3000 r--p 00024000 07:06 10404                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23809.1
+7fc1dffd3000-7fc1dffd4000 rw-p 00027000 07:06 10404                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23809.1
+7fc1dffd4000-7fc1dffdc000 r--p 00000000 07:06 10607                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4200.10
+7fc1dffdc000-7fc1dfff8000 r-xp 00008000 07:06 10607                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4200.10
+7fc1dfff8000-7fc1e0002000 r--p 00024000 07:06 10607                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4200.10
+7fc1e0002000-7fc1e0003000 ---p 0002e000 07:06 10607                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4200.10
+7fc1e0003000-7fc1e0004000 r--p 0002e000 07:06 10607                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4200.10
+7fc1e0004000-7fc1e0005000 rw-p 0002f000 07:06 10607                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4200.10
+7fc1e0005000-7fc1e0009000 r--p 00000000 07:06 10452                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11800.0
+7fc1e0009000-7fc1e000b000 r-xp 00004000 07:06 10452                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11800.0
+7fc1e000b000-7fc1e000d000 r--p 00006000 07:06 10452                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11800.0
+7fc1e000d000-7fc1e000e000 ---p 00008000 07:06 10452                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11800.0
+7fc1e000e000-7fc1e0010000 r--p 00008000 07:06 10452                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11800.0
+7fc1e0010000-7fc1e0011000 rw-p 0000a000 07:06 10452                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11800.0
+7fc1e0011000-7fc1e0013000 r--p 00000000 07:06 10575                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7fc1e0013000-7fc1e001a000 r-xp 00002000 07:06 10575                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7fc1e001a000-7fc1e0032000 r--p 00009000 07:06 10575                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7fc1e0032000-7fc1e0033000 r--p 00020000 07:06 10575                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7fc1e0033000-7fc1e0034000 rw-p 00021000 07:06 10575                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7fc1e0034000-7fc1e003b000 r--p 00000000 07:06 10565                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7fc1e003b000-7fc1e0064000 r-xp 00007000 07:06 10565                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7fc1e0064000-7fc1e007a000 r--p 00030000 07:06 10565                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7fc1e007a000-7fc1e007b000 ---p 00046000 07:06 10565                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7fc1e007b000-7fc1e007d000 r--p 00046000 07:06 10565                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7fc1e007d000-7fc1e007e000 rw-p 00048000 07:06 10565                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7fc1e007e000-7fc1e0085000 r--p 00000000 07:06 10976                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.5100.0
+7fc1e0085000-7fc1e0092000 r-xp 00007000 07:06 10976                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.5100.0
+7fc1e0092000-7fc1e0096000 r--p 00014000 07:06 10976                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.5100.0
+7fc1e0096000-7fc1e0097000 ---p 00018000 07:06 10976                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.5100.0
+7fc1e0097000-7fc1e0098000 r--p 00018000 07:06 10976                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.5100.0
+7fc1e0098000-7fc1e0099000 rw-p 00019000 07:06 10976                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.5100.0
+7fc1e0099000-7fc1e00ab000 r--p 00000000 07:06 10458                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo.so.2.11800.0
+7fc1e00ab000-7fc1e01b7000 r-xp 00012000 07:06 10458                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo.so.2.11800.0
+7fc1e01b7000-7fc1e01f7000 r--p 0011e000 07:06 10458                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo.so.2.11800.0
+7fc1e01f7000-7fc1e01f8000 ---p 0015e000 07:06 10458                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo.so.2.11800.0
+7fc1e01f8000-7fc1e01fb000 r--p 0015e000 07:06 10458                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo.so.2.11800.0
+7fc1e01fb000-7fc1e01fd000 rw-p 00161000 07:06 10458                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libcairo.so.2.11800.0
+7fc1e01fd000-7fc1e01fe000 rw-p 00000000 00:00 0 
+7fc1e01fe000-7fc1e020a000 r--p 00000000 07:06 10820                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.60830.0
+7fc1e020a000-7fc1e0334000 r-xp 0000c000 07:06 10820                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.60830.0
+7fc1e0334000-7fc1e036e000 r--p 00136000 07:06 10820                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.60830.0
+7fc1e036e000-7fc1e036f000 r--p 0016f000 07:06 10820                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.60830.0
+7fc1e036f000-7fc1e0371000 rw-p 00170000 07:06 10820                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.60830.0
+7fc1e0371000-7fc1e0383000 r--p 00000000 07:06 10970                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.5100.0
+7fc1e0383000-7fc1e03c2000 r-xp 00012000 07:06 10970                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.5100.0
+7fc1e03c2000-7fc1e03de000 r--p 00051000 07:06 10970                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.5100.0
+7fc1e03de000-7fc1e03e2000 r--p 0006c000 07:06 10970                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.5100.0
+7fc1e03e2000-7fc1e03e3000 rw-p 00070000 07:06 10970                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.5100.0
+7fc1e03e3000-7fc1e03e8000 r--p 00000000 07:06 10973                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.5100.0
+7fc1e03e8000-7fc1e03f0000 r-xp 00005000 07:06 10973                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.5100.0
+7fc1e03f0000-7fc1e03f3000 r--p 0000d000 07:06 10973                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.5100.0
+7fc1e03f3000-7fc1e03f4000 r--p 0000f000 07:06 10973                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.5100.0
+7fc1e03f4000-7fc1e03f5000 rw-p 00010000 07:06 10973                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.5100.0
+7fc1e03f5000-7fc1e0430000 r--p 00000000 07:06 10618                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7800.1
+7fc1e0430000-7fc1e0561000 r-xp 0003b000 07:06 10618                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7800.1
+7fc1e0561000-7fc1e05f0000 r--p 0016c000 07:06 10618                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7800.1
+7fc1e05f0000-7fc1e05f1000 ---p 001fb000 07:06 10618                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7800.1
+7fc1e05f1000-7fc1e05f8000 r--p 001fb000 07:06 10618                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7800.1
+7fc1e05f8000-7fc1e05fb000 rw-p 00202000 07:06 10618                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7800.1
+7fc1e05fb000-7fc1e05fd000 rw-p 00000000 00:00 0 
+7fc1e05fd000-7fc1e060b000 r--p 00000000 07:06 10677                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.7800.1
+7fc1e060b000-7fc1e0648000 r-xp 0000e000 07:06 10677                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.7800.1
+7fc1e0648000-7fc1e0662000 r--p 0004b000 07:06 10677                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.7800.1
+7fc1e0662000-7fc1e0665000 r--p 00064000 07:06 10677                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.7800.1
+7fc1e0665000-7fc1e0666000 rw-p 00067000 07:06 10677                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.7800.1
+7fc1e0666000-7fc1e0667000 rw-p 00000000 00:00 0 
+7fc1e0667000-7fc1e0685000 r--p 00000000 07:06 10633                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7800.1
+7fc1e0685000-7fc1e0733000 r-xp 0001e000 07:06 10633                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7800.1
+7fc1e0733000-7fc1e07c0000 r--p 000cc000 07:06 10633                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7800.1
+7fc1e07c0000-7fc1e07c1000 r--p 00158000 07:06 10633                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7800.1
+7fc1e07c1000-7fc1e07c2000 rw-p 00159000 07:06 10633                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7800.1
+7fc1e07c2000-7fc1e07c3000 rw-p 00000000 00:00 0 
+7fc1e07c3000-7fc1e07c5000 r--p 00000000 07:06 10639                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.7800.1
+7fc1e07c5000-7fc1e07c7000 r-xp 00002000 07:06 10639                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.7800.1
+7fc1e07c7000-7fc1e07c8000 r--p 00004000 07:06 10639                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.7800.1
+7fc1e07c8000-7fc1e07c9000 r--p 00004000 07:06 10639                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.7800.1
+7fc1e07c9000-7fc1e07ca000 rw-p 00005000 07:06 10639                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.7800.1
+7fc1e07ca000-7fc1e07f6000 r--p 00000000 07:06 10602                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2406.32
+7fc1e07f6000-7fc1e0889000 r-xp 0002c000 07:06 10602                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2406.32
+7fc1e0889000-7fc1e08d9000 r--p 000bf000 07:06 10602                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2406.32
+7fc1e08d9000-7fc1e08da000 ---p 0010f000 07:06 10602                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2406.32
+7fc1e08da000-7fc1e08e3000 r--p 0010f000 07:06 10602                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2406.32
+7fc1e08e3000-7fc1e08e5000 rw-p 00118000 07:06 10602                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2406.32
+7fc1e08e5000-7fc1e08e6000 rw-p 00000000 00:00 0 
+7fc1e08e6000-7fc1e096d000 r--p 00000000 07:06 10769                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2406.32
+7fc1e096d000-7fc1e0d59000 r-xp 00087000 07:06 10769                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2406.32
+7fc1e0d59000-7fc1e1117000 r--p 00473000 07:06 10769                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2406.32
+7fc1e1117000-7fc1e1128000 r--p 00830000 07:06 10769                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2406.32
+7fc1e1128000-7fc1e112b000 rw-p 00841000 07:06 10769                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2406.32
+7fc1e112b000-7fc1e1130000 rw-p 00000000 00:00 0 
+7fc1e1130000-7fc1e1131000 r--p 00000000 07:05 277                        /snap/firefox/7355/usr/lib/firefox/libmozgtk.so
+7fc1e1131000-7fc1e1132000 r-xp 00000000 07:05 277                        /snap/firefox/7355/usr/lib/firefox/libmozgtk.so
+7fc1e1132000-7fc1e1133000 r--p 00000000 07:05 277                        /snap/firefox/7355/usr/lib/firefox/libmozgtk.so
+7fc1e1133000-7fc1e1134000 rw-p 00000000 07:05 277                        /snap/firefox/7355/usr/lib/firefox/libmozgtk.so
+7fc1e1134000-7fc1e1151000 r--p 00000000 07:05 289                        /snap/firefox/7355/usr/lib/firefox/libssl3.so
+7fc1e1151000-7fc1e1195000 r-xp 0001c000 07:05 289                        /snap/firefox/7355/usr/lib/firefox/libssl3.so
+7fc1e1195000-7fc1e119a000 r--p 0005f000 07:05 289                        /snap/firefox/7355/usr/lib/firefox/libssl3.so
+7fc1e119a000-7fc1e119b000 rw-p 00063000 07:05 289                        /snap/firefox/7355/usr/lib/firefox/libssl3.so
+7fc1e119b000-7fc1e119c000 rw-p 00000000 00:00 0 
+7fc1e119c000-7fc1e11d5000 r--p 00000000 07:05 280                        /snap/firefox/7355/usr/lib/firefox/libmozsqlite3.so
+7fc1e11d5000-7fc1e12ff000 r-xp 00038000 07:05 280                        /snap/firefox/7355/usr/lib/firefox/libmozsqlite3.so
+7fc1e12ff000-7fc1e1302000 r--p 00161000 07:05 280                        /snap/firefox/7355/usr/lib/firefox/libmozsqlite3.so
+7fc1e1302000-7fc1e1307000 rw-p 00163000 07:05 280                        /snap/firefox/7355/usr/lib/firefox/libmozsqlite3.so
+7fc1e1307000-7fc1e1308000 rw-p 00000000 00:00 0 
+7fc1e1308000-7fc1e1348000 r--p 00000000 07:05 283                        /snap/firefox/7355/usr/lib/firefox/libnss3.so
+7fc1e1348000-7fc1e13b8000 r-xp 0003f000 07:05 283                        /snap/firefox/7355/usr/lib/firefox/libnss3.so
+7fc1e13b8000-7fc1e13bf000 r--p 000ae000 07:05 283                        /snap/firefox/7355/usr/lib/firefox/libnss3.so
+7fc1e13bf000-7fc1e13c0000 rw-p 000b4000 07:05 283                        /snap/firefox/7355/usr/lib/firefox/libnss3.so
+7fc1e13c0000-7fc1e13c1000 rw-p 00000000 00:00 0 
+7fc1e13c1000-7fc1e13d3000 r--p 00000000 07:05 284                        /snap/firefox/7355/usr/lib/firefox/libnssutil3.so
+7fc1e13d3000-7fc1e13e8000 r-xp 00011000 07:05 284                        /snap/firefox/7355/usr/lib/firefox/libnssutil3.so
+7fc1e13e8000-7fc1e13f0000 r--p 00025000 07:05 284                        /snap/firefox/7355/usr/lib/firefox/libnssutil3.so
+7fc1e13f0000-7fc1e13f1000 rw-p 0002c000 07:05 284                        /snap/firefox/7355/usr/lib/firefox/libnssutil3.so
+7fc1e13f1000-7fc1e13f2000 rw-p 00000000 00:00 0 
+7fc1e13f2000-7fc1e13fe000 r--p 00000000 07:05 274                        /snap/firefox/7355/usr/lib/firefox/liblgpllibs.so
+7fc1e13fe000-7fc1e141d000 r-xp 0000b000 07:05 274                        /snap/firefox/7355/usr/lib/firefox/liblgpllibs.so
+7fc1e141d000-7fc1e1420000 r--p 00029000 07:05 274                        /snap/firefox/7355/usr/lib/firefox/liblgpllibs.so
+7fc1e1420000-7fc1e1421000 rw-p 0002b000 07:05 274                        /snap/firefox/7355/usr/lib/firefox/liblgpllibs.so
+7fc1e1421000-7fc1e15d8000 r--p 00000000 07:05 273                        /snap/firefox/7355/usr/lib/firefox/libgkcodecs.so
+7fc1e15d8000-7fc1e1c1a000 r-xp 001b6000 07:05 273                        /snap/firefox/7355/usr/lib/firefox/libgkcodecs.so
+7fc1e1c1a000-7fc1e1c45000 r--p 007f7000 07:05 273                        /snap/firefox/7355/usr/lib/firefox/libgkcodecs.so
+7fc1e1c45000-7fc1e1c49000 rw-p 00821000 07:05 273                        /snap/firefox/7355/usr/lib/firefox/libgkcodecs.so
+7fc1e1c49000-7fc1e1c98000 rw-p 00000000 00:00 0 
+7fc1e1c98000-7fc1e1ca6000 r--p 00000000 07:05 279                        /snap/firefox/7355/usr/lib/firefox/libmozsandbox.so
+7fc1e1ca6000-7fc1e1cc3000 r-xp 0000d000 07:05 279                        /snap/firefox/7355/usr/lib/firefox/libmozsandbox.so
+7fc1e1cc3000-7fc1e1cc5000 r--p 00029000 07:05 279                        /snap/firefox/7355/usr/lib/firefox/libmozsandbox.so
+7fc1e1cc5000-7fc1e1cc6000 rw-p 0002a000 07:05 279                        /snap/firefox/7355/usr/lib/firefox/libmozsandbox.so
+7fc1e1cc6000-7fc1e1cd8000 r--p 00000000 07:05 282                        /snap/firefox/7355/usr/lib/firefox/libnspr4.so
+7fc1e1cd8000-7fc1e1cf9000 r-xp 00011000 07:05 282                        /snap/firefox/7355/usr/lib/firefox/libnspr4.so
+7fc1e1cf9000-7fc1e1cfb000 r--p 00031000 07:05 282                        /snap/firefox/7355/usr/lib/firefox/libnspr4.so
+7fc1e1cfb000-7fc1e1cfc000 rw-p 00032000 07:05 282                        /snap/firefox/7355/usr/lib/firefox/libnspr4.so
+7fc1e1cfc000-7fc1e1cff000 rw-p 00000000 00:00 0 
+7fc1e1cff000-7fc1e1d00000 ---p 00000000 00:00 0 
+7fc1e1d00000-7fc1e2500000 rw-p 00000000 00:00 0 
+7fc1e2500000-7fc1e2502000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1e2502000-7fc1e2503000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1e2503000-7fc1e25ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc1e25ff000-7fc1e2600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc1e2600000-7fc2225ff000 ---p 00000000 00:00 0 
+7fc2225ff000-7fc222600000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc222600000-7fc22260a000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+7fc22260a000-7fc222700000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+7fc222700000-7fc22270f000 r--p 00000000 07:05 287                        /snap/firefox/7355/usr/lib/firefox/libsmime3.so
+7fc22270f000-7fc222728000 r-xp 0000e000 07:05 287                        /snap/firefox/7355/usr/lib/firefox/libsmime3.so
+7fc222728000-7fc22272b000 r--p 00026000 07:05 287                        /snap/firefox/7355/usr/lib/firefox/libsmime3.so
+7fc22272b000-7fc22272c000 rw-p 00028000 07:05 287                        /snap/firefox/7355/usr/lib/firefox/libsmime3.so
+7fc22272c000-7fc22272f000 rw-p 00000000 00:00 0 
+7fc22272f000-7fc222757000 r--p 00000000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7fc222757000-7fc2228ec000 r-xp 00028000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7fc2228ec000-7fc222944000 r--p 001bd000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7fc222944000-7fc222945000 ---p 00215000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7fc222945000-7fc222949000 r--p 00215000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7fc222949000-7fc22294b000 rw-p 00219000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7fc22294b000-7fc22295a000 rw-p 00000000 00:00 0 
+7fc22295a000-7fc22295d000 r--p 00000000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc22295d000-7fc222974000 r-xp 00003000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc222974000-7fc222978000 r--p 0001a000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc222978000-7fc222979000 r--p 0001d000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc222979000-7fc22297a000 rw-p 0001e000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc22297a000-7fc222988000 r--p 00000000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+7fc222988000-7fc222a04000 r-xp 0000e000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+7fc222a04000-7fc222a5f000 r--p 0008a000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+7fc222a5f000-7fc222a60000 r--p 000e4000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+7fc222a60000-7fc222a61000 rw-p 000e5000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+7fc222a61000-7fc222a62000 r--p 00000000 07:01 2087                       /usr/lib/locale/C.utf8/LC_ADDRESS
+7fc222a62000-7fc222a63000 r--p 00000000 07:01 2098                       /usr/lib/locale/C.utf8/LC_TELEPHONE
+7fc222a63000-7fc222a64000 r--p 00000000 07:01 2091                       /usr/lib/locale/C.utf8/LC_MEASUREMENT
+7fc222a64000-7fc222a66000 r--p 00000000 07:05 286                        /snap/firefox/7355/usr/lib/firefox/libplds4.so
+7fc222a66000-7fc222a68000 r-xp 00001000 07:05 286                        /snap/firefox/7355/usr/lib/firefox/libplds4.so
+7fc222a68000-7fc222a69000 r--p 00002000 07:05 286                        /snap/firefox/7355/usr/lib/firefox/libplds4.so
+7fc222a69000-7fc222a6a000 rw-p 00002000 07:05 286                        /snap/firefox/7355/usr/lib/firefox/libplds4.so
+7fc222a6a000-7fc222a6c000 r--p 00000000 07:05 285                        /snap/firefox/7355/usr/lib/firefox/libplc4.so
+7fc222a6c000-7fc222a6f000 r-xp 00001000 07:05 285                        /snap/firefox/7355/usr/lib/firefox/libplc4.so
+7fc222a6f000-7fc222a70000 r--p 00003000 07:05 285                        /snap/firefox/7355/usr/lib/firefox/libplc4.so
+7fc222a70000-7fc222a71000 rw-p 00003000 07:05 285                        /snap/firefox/7355/usr/lib/firefox/libplc4.so
+7fc222a71000-7fc222b0b000 r--p 00000000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7fc222b0b000-7fc222c1c000 r-xp 0009a000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7fc222c1c000-7fc222c8b000 r--p 001ab000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7fc222c8b000-7fc222c8c000 ---p 0021a000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7fc222c8c000-7fc222c97000 r--p 0021a000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7fc222c97000-7fc222c9a000 rw-p 00225000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7fc222c9a000-7fc222c9d000 rw-p 00000000 00:00 0 
+7fc222c9d000-7fc222c9e000 r--p 00000000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+7fc222c9e000-7fc222c9f000 r-xp 00001000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+7fc222c9f000-7fc222ca0000 r--p 00002000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+7fc222ca0000-7fc222ca1000 r--p 00002000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+7fc222ca1000-7fc222ca2000 rw-p 00003000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+7fc222ca2000-7fc222ca4000 rw-p 00000000 00:00 0 
+7fc222ca4000-7fc222ca6000 r--p 00000000 00:00 0                          [vvar]
+7fc222ca6000-7fc222ca8000 r--p 00000000 00:00 0                          [vvar_vclock]
+7fc222ca8000-7fc222caa000 r-xp 00000000 00:00 0                          [vdso]
+7fc222caa000-7fc222cac000 r--p 00000000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7fc222cac000-7fc222cd6000 r-xp 00002000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7fc222cd6000-7fc222ce1000 r--p 0002c000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7fc222ce1000-7fc222ce2000 r--p 00000000 07:01 2090                       /usr/lib/locale/C.utf8/LC_IDENTIFICATION
+7fc222ce2000-7fc222ce4000 r--p 00037000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7fc222ce4000-7fc222ce6000 rw-p 00039000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffeb5a5c000-7ffeb5a82000 rw-p 00000000 00:00 0                          [stack]
+7ffeb5a82000-7ffeb5a85000 rw-p 00000000 00:00 0 
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

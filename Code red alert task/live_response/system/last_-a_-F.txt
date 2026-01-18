@@ -1,0 +1,52 @@
+mark     tty2         Sun Nov 23 12:17:22 2025   still logged in                       tty2
+mark     seat0        Sun Nov 23 12:17:22 2025   still logged in                       login screen
+reboot   system boot  Thu Nov 20 03:38:10 2025   still running                         6.14.0-35-generic
+mark     tty3         Wed Nov 19 23:37:01 2025 - crash                     (04:01)     tty3
+mark     seat0        Wed Nov 19 23:37:01 2025 - crash                     (04:01)     login screen
+support- tty2         Wed Nov 19 23:34:58 2025 - crash                     (04:03)     tty2
+support- seat0        Wed Nov 19 23:34:58 2025 - Wed Nov 19 23:37:01 2025  (00:02)     login screen
+reboot   system boot  Wed Nov 19 23:32:11 2025   still running                         6.14.0-35-generic
+mark     tty2         Wed Nov 19 22:53:10 2025 - crash                     (00:39)     tty2
+mark     seat0        Wed Nov 19 22:53:10 2025 - crash                     (00:39)     login screen
+reboot   system boot  Wed Nov 19 22:51:23 2025   still running                         6.14.0-35-generic
+mark     tty2         Wed Nov 19 22:40:20 2025 - crash                     (00:11)     tty2
+mark     seat0        Wed Nov 19 22:40:20 2025 - crash                     (00:11)     login screen
+reboot   system boot  Wed Nov 19 22:40:01 2025   still running                         6.14.0-35-generic
+mark     tty2         Wed Nov 19 21:29:01 2025 - crash                     (01:11)     tty2
+mark     seat0        Wed Nov 19 21:29:01 2025 - crash                     (01:11)     login screen
+reboot   system boot  Wed Nov 19 21:28:28 2025   still running                         6.14.0-35-generic
+mark     tty2         Wed Nov 19 20:51:54 2025 - crash                     (00:36)     tty2
+mark     seat0        Wed Nov 19 20:51:54 2025 - crash                     (00:36)     login screen
+reboot   system boot  Wed Nov 19 20:50:30 2025   still running                         6.14.0-35-generic
+mark     tty2         Wed Nov 19 20:16:59 2025 - crash                     (00:33)     tty2
+mark     seat0        Wed Nov 19 20:16:59 2025 - crash                     (00:33)     login screen
+reboot   system boot  Wed Nov 19 20:16:41 2025   still running                         6.14.0-35-generic
+mark     tty2         Wed Nov 19 20:08:22 2025 - crash                     (00:08)     tty2
+mark     seat0        Wed Nov 19 20:08:22 2025 - crash                     (00:08)     login screen
+reboot   system boot  Wed Nov 19 20:06:18 2025   still running                         6.14.0-35-generic
+mark     tty2         Wed Nov 19 16:44:17 2025 - down                      (03:17)     tty2
+mark     seat0        Wed Nov 19 16:44:17 2025 - down                      (03:17)     login screen
+reboot   system boot  Wed Nov 19 16:44:01 2025 - Wed Nov 19 20:01:55 2025  (03:17)     6.14.0-35-generic
+mark     tty2         Wed Nov 19 16:43:05 2025 - down                      (00:03)     tty2
+mark     seat0        Wed Nov 19 16:43:05 2025 - down                      (00:03)     login screen
+reboot   system boot  Wed Nov 19 16:42:51 2025 - Wed Nov 19 16:46:10 2025  (00:03)     6.14.0-35-generic
+mark     tty2         Wed Nov 19 16:37:53 2025 - down                      (00:04)     tty2
+mark     seat0        Wed Nov 19 16:37:53 2025 - down                      (00:04)     login screen
+reboot   system boot  Wed Nov 19 16:33:26 2025 - Wed Nov 19 16:42:42 2025  (00:09)     6.14.0-35-generic
+mark     tty2         Wed Nov 19 16:31:47 2025 - crash                     (00:01)     tty2
+mark     seat0        Wed Nov 19 16:31:47 2025 - crash                     (00:01)     login screen
+reboot   system boot  Wed Nov 19 16:30:58 2025 - Wed Nov 19 16:42:42 2025  (00:11)     6.14.0-35-generic
+mark     tty2         Wed Nov 19 16:25:51 2025 - crash                     (00:05)     tty2
+mark     seat0        Wed Nov 19 16:25:51 2025 - crash                     (00:05)     login screen
+reboot   system boot  Wed Nov 19 16:21:01 2025 - Wed Nov 19 16:42:42 2025  (00:21)     6.14.0-35-generic
+mark     tty2         Wed Nov 19 16:19:29 2025 - crash                     (00:01)     tty2
+mark     seat0        Wed Nov 19 16:19:29 2025 - crash                     (00:01)     login screen
+reboot   system boot  Wed Nov 19 16:18:54 2025 - Wed Nov 19 16:42:42 2025  (00:23)     6.14.0-35-generic
+mark     tty2         Wed Nov 19 16:16:03 2025 - down                      (00:09)     tty2
+mark     seat0        Wed Nov 19 16:16:03 2025 - down                      (00:09)     login screen
+reboot   system boot  Wed Nov 19 16:15:21 2025 - Wed Nov 19 16:25:46 2025  (00:10)     6.14.0-35-generic
+mark     tty2         Wed Nov 19 16:06:27 2025 - crash                     (00:08)     tty2
+mark     seat0        Wed Nov 19 16:06:27 2025 - crash                     (00:08)     login screen
+reboot   system boot  Wed Nov 19 16:05:58 2025 - Wed Nov 19 16:25:46 2025  (00:19)     6.14.0-35-generic
+
+wtmp begins Wed Nov 19 16:05:58 2025

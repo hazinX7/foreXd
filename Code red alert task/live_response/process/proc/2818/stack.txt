@@ -1,0 +1,6 @@
+[<0>] do_signal_stop+0x175/0x240
+[<0>] get_signal+0x257/0x8d0
+[<0>] arch_do_signal_or_restart+0x39/0x110
+[<0>] syscall_exit_to_user_mode+0x146/0x1d0
+[<0>] do_syscall_64+0x8a/0x170
+[<0>] entry_SYSCALL_64_after_hwframe+0x76/0x7e

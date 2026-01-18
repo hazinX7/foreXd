@@ -1,0 +1,13 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+USER=root
+INVOCATION_ID=9d4c2ee4e59f45eb9e9c67bcf2e68055
+JOURNAL_STREAM=9:23312
+RUNTIME_DIRECTORY=/run/motd.d
+STATE_DIRECTORY=/var/lib/fwupd
+CACHE_DIRECTORY=/var/cache/fwupd
+CONFIGURATION_DIRECTORY=/etc/fwupd
+SYSTEMD_EXEC_PID=3990
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/fwupd.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+GLIBC_TUNABLES=glibc.cpu.hwcaps=SHSTK

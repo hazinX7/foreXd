@@ -1,0 +1,184 @@
+{
+   "blockdevices": [
+      {
+         "name": "loop0",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/bare/5"
+         ]
+      },{
+         "name": "loop1",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/core22/2045"
+         ]
+      },{
+         "name": "loop2",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/firefox/6565"
+         ]
+      },{
+         "name": "loop3",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/firmware-updater/167"
+         ]
+      },{
+         "name": "loop4",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/firmware-updater/210"
+         ]
+      },{
+         "name": "loop5",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/firefox/7355"
+         ]
+      },{
+         "name": "loop6",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/gnome-42-2204/202"
+         ]
+      },{
+         "name": "loop7",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/snap-store/1270"
+         ]
+      },{
+         "name": "loop8",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/gtk-common-themes/1535"
+         ]
+      },{
+         "name": "loop9",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/snapd/25577"
+         ]
+      },{
+         "name": "loop10",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/snapd/24792"
+         ]
+      },{
+         "name": "loop11",
+         "fstype": "squashfs",
+         "fsver": "4.0",
+         "label": null,
+         "uuid": null,
+         "fsavail": "0",
+         "fsuse%": "100%",
+         "mountpoints": [
+             "/snap/snapd-desktop-integration/315"
+         ]
+      },{
+         "name": "sda",
+         "fstype": null,
+         "fsver": null,
+         "label": null,
+         "uuid": null,
+         "fsavail": null,
+         "fsuse%": null,
+         "mountpoints": [
+             null
+         ],
+         "children": [
+            {
+               "name": "sda1",
+               "fstype": null,
+               "fsver": null,
+               "label": null,
+               "uuid": null,
+               "fsavail": null,
+               "fsuse%": null,
+               "mountpoints": [
+                   null
+               ]
+            },{
+               "name": "sda2",
+               "fstype": "ext4",
+               "fsver": "1.0",
+               "label": null,
+               "uuid": "d8ee37ed-787a-46cd-bbcf-3ef2d3bb9bdf",
+               "fsavail": "19.4G",
+               "fsuse%": "34%",
+               "mountpoints": [
+                   "/"
+               ]
+            }
+         ]
+      },{
+         "name": "sr0",
+         "fstype": null,
+         "fsver": null,
+         "label": null,
+         "uuid": null,
+         "fsavail": null,
+         "fsuse%": null,
+         "mountpoints": [
+             null
+         ]
+      }
+   ]
+}

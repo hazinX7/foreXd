@@ -1,0 +1,24 @@
+total 0
+dr-x------ 2 mark mark 21 Nov 23 12:17 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:17 ..
+lr-x------ 1 mark mark 64 Nov 23 12:17 0 -> /dev/null
+lrwx------ 1 mark mark 64 Nov 23 12:17 1 -> socket:[15977]
+lrwx------ 1 mark mark 64 Nov 23 12:18 10 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 11 -> socket:[16581]
+lrwx------ 1 mark mark 64 Nov 23 12:18 12 -> socket:[16582]
+lr-x------ 1 mark mark 64 Nov 23 12:18 13 -> anon_inode:inotify
+lrwx------ 1 mark mark 64 Nov 23 12:18 14 -> socket:[16748]
+lrwx------ 1 mark mark 64 Nov 23 12:18 15 -> socket:[16040]
+lrwx------ 1 mark mark 64 Nov 23 12:18 16 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 17 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark 64 Nov 23 12:17 2 -> socket:[15977]
+lrwx------ 1 mark mark 64 Nov 23 12:18 20 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 23 -> anon_inode:[pidfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 24 -> socket:[16954]
+lrwx------ 1 mark mark 64 Nov 23 12:17 3 -> socket:[15977]
+lrwx------ 1 mark mark 64 Nov 23 12:17 4 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 5 -> anon_inode:[eventfd]
+lr-x------ 1 mark mark 64 Nov 23 12:18 6 -> anon_inode:inotify
+lrwx------ 1 mark mark 64 Nov 23 12:18 7 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 8 -> socket:[15993]
+lrwx------ 1 mark mark 64 Nov 23 12:17 9 -> socket:[15991]

@@ -1,0 +1,6 @@
+{
+  "checksum_missmatch": [ 
+    "./boot/grub/grub.cfg"
+],
+  "result": "fail"
+}

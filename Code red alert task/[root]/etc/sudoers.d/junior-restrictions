@@ -1,0 +1,6 @@
+# Ограничения для junior сотрудников
+%restricted-users ALL=(ALL) /bin/ls, /bin/cat, /usr/bin/tail, /usr/bin/head, /usr/bin/grep
+%restricted-users ALL=(ALL) NOPASSWD: /usr/bin/whoami, /usr/bin/id
+
+# Запрещенные команды
+%restricted-users !/bin/su, !/usr/bin/passwd, !/usr/sbin/visudo, !/bin/bash

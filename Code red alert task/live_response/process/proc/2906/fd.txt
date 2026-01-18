@@ -1,0 +1,141 @@
+total 0
+dr-x------ 2 mark mark 138 Nov 23 12:21 .
+dr-xr-xr-x 9 mark mark   0 Nov 23 12:21 ..
+lr-x------ 1 mark mark  64 Nov 23 12:25 0 -> /dev/null
+lrwx------ 1 mark mark  64 Nov 23 12:25 1 -> socket:[20225]
+lrwx------ 1 mark mark  64 Nov 23 12:25 10 -> socket:[20281]
+lr-x------ 1 mark mark  64 Nov 23 12:25 101 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/favicons.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 102 -> /home/mark/snap/firefox/common/.mozilla/firefox/Profile Groups/0e168a01.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 103 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/favicons.sqlite-wal
+lrwx------ 1 mark mark  64 Nov 23 12:25 104 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/favicons.sqlite-shm
+lrwx------ 1 mark mark  64 Nov 23 12:25 105 -> /home/mark/snap/firefox/common/.mozilla/firefox/Profile Groups/0e168a01.sqlite-wal
+lrwx------ 1 mark mark  64 Nov 23 12:25 106 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 107 -> /home/mark/snap/firefox/common/.mozilla/firefox/Profile Groups/0e168a01.sqlite-shm
+lrwx------ 1 mark mark  64 Nov 23 12:25 109 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/bounce-tracking-protection.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:21 11 -> socket:[22478]
+lrwx------ 1 mark mark  64 Nov 23 12:25 114 -> socket:[23730]
+lrwx------ 1 mark mark  64 Nov 23 12:25 115 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 117 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/favicons.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 118 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/places.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 119 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/places.sqlite-wal
+lrwx------ 1 mark mark  64 Nov 23 12:21 12 -> socket:[22479]
+lrwx------ 1 mark mark  64 Nov 23 12:25 120 -> socket:[23672]
+lrwx------ 1 mark mark  64 Nov 23 12:25 121 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/favicons.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 122 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/favicons.sqlite-wal
+lr-x------ 1 mark mark  64 Nov 23 12:25 123 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/places.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 124 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/places.sqlite-wal
+lrwx------ 1 mark mark  64 Nov 23 12:25 125 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/favicons.sqlite-wal
+lrwx------ 1 mark mark  64 Nov 23 12:25 128 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/protections.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 129 -> socket:[23716]
+lrwx------ 1 mark mark  64 Nov 23 12:25 13 -> socket:[20284]
+lrwx------ 1 mark mark  64 Nov 23 12:21 130 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/content-prefs.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 131 -> socket:[24193]
+lrwx------ 1 mark mark  64 Nov 23 12:25 132 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/domain_to_categories.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 136 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/logins.db
+lrwx------ 1 mark mark  64 Nov 23 12:25 137 -> socket:[22727]
+lrwx------ 1 mark mark  64 Nov 23 12:25 14 -> socket:[20285]
+lrwx------ 1 mark mark  64 Nov 23 12:25 141 -> socket:[23782]
+lr-x------ 1 mark mark  64 Nov 23 12:21 143 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 145 -> socket:[24052]
+lrwx------ 1 mark mark  64 Nov 23 12:25 146 -> socket:[24050]
+lrwx------ 1 mark mark  64 Nov 23 12:25 147 -> socket:[23997]
+lrwx------ 1 mark mark  64 Nov 23 12:25 148 -> socket:[24040]
+lrwx------ 1 mark mark  64 Nov 23 12:25 149 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 15 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:21 152 -> socket:[24195]
+lrwx------ 1 mark mark  64 Nov 23 12:25 154 -> socket:[23972]
+lrwx------ 1 mark mark  64 Nov 23 12:25 157 -> socket:[24001]
+lr-x------ 1 mark mark  64 Nov 23 12:21 159 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/features/{d0124b6b-a501-4af0-9529-d1013fdbc7bf}/webcompat@mozilla.org.xpi
+lrwx------ 1 mark mark  64 Nov 23 12:25 16 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:25 160 -> socket:[24018]
+l-wx------ 1 mark mark  64 Nov 23 12:21 162 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/datareporting/glean/events/events
+lr-x------ 1 mark mark  64 Nov 23 12:21 163 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 164 -> socket:[23060]
+lrwx------ 1 mark mark  64 Nov 23 12:25 17 -> socket:[22480]
+lrwx------ 1 mark mark  64 Nov 23 12:25 18 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:25 19 -> /memfd:wayland-cursor (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 2 -> socket:[20225]
+lrwx------ 1 mark mark  64 Nov 23 12:25 20 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/cookies.sqlite
+l-wx------ 1 mark mark  64 Nov 23 12:25 21 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/.parentlock
+lr-x------ 1 mark mark  64 Nov 23 12:21 22 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/extensions/langpack-ru@firefox.mozilla.org.xpi
+lr-x------ 1 mark mark  64 Nov 23 12:25 23 -> /snap/firefox/7355/usr/lib/firefox/omni.ja
+lr-x------ 1 mark mark  64 Nov 23 12:25 24 -> /snap/firefox/7355/usr/lib/firefox/browser/omni.ja
+lrwx------ 1 mark mark  64 Nov 23 12:25 25 -> anon_inode:[eventpoll]
+lr-x------ 1 mark mark  64 Nov 23 12:25 26 -> pipe:[22511]
+l-wx------ 1 mark mark  64 Nov 23 12:25 27 -> pipe:[22511]
+lr-x------ 1 mark mark  64 Nov 23 12:25 28 -> pipe:[22512]
+l-wx------ 1 mark mark  64 Nov 23 12:25 29 -> pipe:[22512]
+lr-x------ 1 mark mark  64 Nov 23 12:21 3 -> /dev/null
+lr-x------ 1 mark mark  64 Nov 23 12:25 30 -> pipe:[22513]
+l-wx------ 1 mark mark  64 Nov 23 12:25 31 -> pipe:[22513]
+lr-x------ 1 mark mark  64 Nov 23 12:25 32 -> pipe:[22514]
+l-wx------ 1 mark mark  64 Nov 23 12:25 33 -> pipe:[22514]
+lrwx------ 1 mark mark  64 Nov 23 12:25 34 -> socket:[22515]
+lr-x------ 1 mark mark  64 Nov 23 12:25 35 -> pipe:[22516]
+l-wx------ 1 mark mark  64 Nov 23 12:25 36 -> pipe:[22516]
+lrwx------ 1 mark mark  64 Nov 23 12:25 37 -> anon_inode:[eventfd]
+lr-x------ 1 mark mark  64 Nov 23 12:25 38 -> /home/mark/snap/firefox/common/.cache/mozilla/firefox/91fl88ia.default/startupCache/startupCache.8.little
+lrwx------ 1 mark mark  64 Nov 23 12:25 39 -> socket:[22518]
+lr-x------ 1 mark mark  64 Nov 23 12:25 4 -> /dev/null
+lr-x------ 1 mark mark  64 Nov 23 12:21 40 -> /home/mark/snap/firefox/common/.cache/mozilla/firefox/91fl88ia.default/startupCache/scriptCache-child-current.bin
+lr-x------ 1 mark mark  64 Nov 23 12:25 41 -> pipe:[22520]
+l-wx------ 1 mark mark  64 Nov 23 12:25 42 -> pipe:[22520]
+lr-x------ 1 mark mark  64 Nov 23 12:25 43 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:45 44 -> socket:[28965]
+lr-x------ 1 mark mark  64 Nov 23 12:25 45 -> /home/mark/snap/firefox/common/.cache/mozilla/firefox/91fl88ia.default/startupCache/scriptCache-current.bin
+lr-x------ 1 mark mark  64 Nov 23 12:21 46 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:21 47 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/formhistory.sqlite
+lr-x------ 1 mark mark  64 Nov 23 12:25 48 -> /home/mark/.local/share/gvfs-metadata/root (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 49 -> /home/mark/.local/share/gvfs-metadata/root-a280e5e4.log (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 5 -> /dev/null
+lrwx------ 1 mark mark  64 Nov 23 12:25 50 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/storage.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 51 -> socket:[22523]
+lrwx------ 1 mark mark  64 Nov 23 12:21 52 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/permissions.sqlite
+lr-x------ 1 mark mark  64 Nov 23 12:25 53 -> pipe:[22525]
+l-wx------ 1 mark mark  64 Nov 23 12:25 54 -> pipe:[22525]
+lr-x------ 1 mark mark  64 Nov 23 12:25 55 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:21 56 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/cookies.sqlite-wal
+lr-x------ 1 mark mark  64 Nov 23 12:25 57 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 58 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 6 -> pipe:[20278]
+lrwx------ 1 mark mark  64 Nov 23 12:45 60 -> socket:[44202]
+lrwx------ 1 mark mark  64 Nov 23 12:25 61 -> socket:[20421]
+lrwx------ 1 mark mark  64 Nov 23 12:25 62 -> socket:[22528]
+lrwx------ 1 mark mark  64 Nov 23 12:25 63 -> socket:[22529]
+lrwx------ 1 mark mark  64 Nov 23 12:21 64 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/cert9.db
+lrwx------ 1 mark mark  64 Nov 23 12:25 65 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/key4.db
+lrwx------ 1 mark mark  64 Nov 23 12:21 66 -> /home/mark/snap/firefox/common/.cache/mozilla/firefox/91fl88ia.default/cache2/entries/F86D64B213F67D9C3E9A6D0A9B0FE4489B419C70
+lrwx------ 1 mark mark  64 Nov 23 12:25 67 -> socket:[22532]
+lrwx------ 1 mark mark  64 Nov 23 12:25 68 -> socket:[23583]
+lrwx------ 1 mark mark  64 Nov 23 12:25 69 -> anon_inode:[eventpoll]
+l-wx------ 1 mark mark  64 Nov 23 12:25 7 -> pipe:[20278]
+lrwx------ 1 mark mark  64 Nov 23 12:21 70 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:21 71 -> anon_inode:[eventpoll]
+lr-x------ 1 mark mark  64 Nov 23 12:25 72 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 73 -> socket:[23779]
+lrwx------ 1 mark mark  64 Nov 23 12:25 74 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:25 75 -> anon_inode:[eventpoll]
+lrwx------ 1 mark mark  64 Nov 23 12:25 76 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark  64 Nov 23 12:25 77 -> socket:[23585]
+lrwx------ 1 mark mark  64 Nov 23 12:25 8 -> socket:[20279]
+lrwx------ 1 mark mark  64 Nov 23 12:25 80 -> /memfd:pulseaudio (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 81 -> socket:[22572]
+lr-x------ 1 mark mark  64 Nov 23 12:21 82 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:21 83 -> socket:[23033]
+lr-x------ 1 mark mark  64 Nov 23 12:25 84 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 85 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 86 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 87 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 88 -> socket:[22581]
+lr-x------ 1 mark mark  64 Nov 23 12:25 89 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 9 -> socket:[22470]
+lrwx------ 1 mark mark  64 Nov 23 12:25 90 -> socket:[22587]
+lr-x------ 1 mark mark  64 Nov 23 12:25 91 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 92 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 93 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 94 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 mark mark  64 Nov 23 12:25 95 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 96 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 mark mark  64 Nov 23 12:25 97 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/places.sqlite
+lrwx------ 1 mark mark  64 Nov 23 12:25 98 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/places.sqlite-wal
+lrwx------ 1 mark mark  64 Nov 23 12:25 99 -> /home/mark/snap/firefox/common/.mozilla/firefox/91fl88ia.default/places.sqlite-shm

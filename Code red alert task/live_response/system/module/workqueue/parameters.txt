@@ -1,0 +1,8 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 3 root root    0 Nov 23 14:09 ..
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 cpu_intensive_thresh_us
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 cpu_intensive_warning_thresh
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 debug_force_rr_cpu
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 default_affinity_scope
+-r--r--r-- 1 root root 4096 Nov 23 14:09 power_efficient

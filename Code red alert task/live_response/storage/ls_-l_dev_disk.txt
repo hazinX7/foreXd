@@ -1,0 +1,76 @@
+/dev/disk/by-diskseq:
+total 0
+lrwxrwxrwx 1 root root  9 Nov 20 03:38 10 -> ../../sr0
+lrwxrwxrwx 1 root root  9 Nov 20 03:38 11 -> ../../sda
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 11-part1 -> ../../sda1
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 11-part2 -> ../../sda2
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 12 -> ../../loop0
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 13 -> ../../loop1
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 14 -> ../../loop2
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 15 -> ../../loop3
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 16 -> ../../loop4
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 17 -> ../../loop5
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 18 -> ../../loop6
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 19 -> ../../loop7
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 21 -> ../../loop8
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 24 -> ../../loop9
+lrwxrwxrwx 1 root root 12 Nov 20 03:38 25 -> ../../loop10
+lrwxrwxrwx 1 root root 12 Nov 20 03:38 27 -> ../../loop11
+lrwxrwxrwx 1 root root 12 Nov 23 12:16 29 -> ../../loop12
+
+/dev/disk/by-id:
+total 0
+lrwxrwxrwx 1 root root  9 Nov 20 03:38 ata-VBOX_CD-ROM_VB2-01700376 -> ../../sr0
+lrwxrwxrwx 1 root root  9 Nov 20 03:38 ata-VBOX_HARDDISK_VB14fc8eea-4b29c0bd -> ../../sda
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 ata-VBOX_HARDDISK_VB14fc8eea-4b29c0bd-part1 -> ../../sda1
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 ata-VBOX_HARDDISK_VB14fc8eea-4b29c0bd-part2 -> ../../sda2
+
+/dev/disk/by-loop-inode:
+total 0
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1442268 -> ../../loop4
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1443767 -> ../../loop5
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1444989 -> ../../loop9
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1448908 -> ../../loop0
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1448909 -> ../../loop1
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1448910 -> ../../loop2
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1448911 -> ../../loop3
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1448912 -> ../../loop6
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1448913 -> ../../loop8
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 8:2-1448914 -> ../../loop7
+lrwxrwxrwx 1 root root 12 Nov 20 03:38 8:2-1448915 -> ../../loop11
+lrwxrwxrwx 1 root root 12 Nov 20 03:38 8:2-1448916 -> ../../loop10
+
+/dev/disk/by-loop-ref:
+total 0
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2fbare_5.snap -> ../../loop0
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2fcore22_2045.snap -> ../../loop1
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2ffirefox_6565.snap -> ../../loop2
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2ffirefox_7355.snap -> ../../loop5
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2ffirmware-updater_167.snap -> ../../loop3
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2ffirmware-updater_210.snap -> ../../loop4
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2fgnome-42-2204_202.snap -> ../../loop6
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2fgtk-common-themes_1535.snap -> ../../loop8
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2fsnap-store_1270.snap -> ../../loop7
+lrwxrwxrwx 1 root root 12 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2fsnapd-desktop-integration_315.snap -> ../../loop11
+lrwxrwxrwx 1 root root 12 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2fsnapd_24792.snap -> ../../loop10
+lrwxrwxrwx 1 root root 11 Nov 20 03:38 \x2fvar\x2flib\x2fsnapd\x2fsnaps\x2fsnapd_25577.snap -> ../../loop9
+
+/dev/disk/by-partuuid:
+total 0
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 88a59eda-af35-47e2-95f9-8c2af61f0d03 -> ../../sda2
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 93a4d126-3d37-4afb-a37e-b13523c4d504 -> ../../sda1
+
+/dev/disk/by-path:
+total 0
+lrwxrwxrwx 1 root root  9 Nov 20 03:38 pci-0000:00:01.1-ata-2 -> ../../sr0
+lrwxrwxrwx 1 root root  9 Nov 20 03:38 pci-0000:00:01.1-ata-2.0 -> ../../sr0
+lrwxrwxrwx 1 root root  9 Nov 20 03:38 pci-0000:00:0d.0-ata-1 -> ../../sda
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 pci-0000:00:0d.0-ata-1-part1 -> ../../sda1
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 pci-0000:00:0d.0-ata-1-part2 -> ../../sda2
+lrwxrwxrwx 1 root root  9 Nov 20 03:38 pci-0000:00:0d.0-ata-1.0 -> ../../sda
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 pci-0000:00:0d.0-ata-1.0-part1 -> ../../sda1
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 pci-0000:00:0d.0-ata-1.0-part2 -> ../../sda2
+
+/dev/disk/by-uuid:
+total 0
+lrwxrwxrwx 1 root root 10 Nov 20 03:38 d8ee37ed-787a-46cd-bbcf-3ef2d3bb9bdf -> ../../sda2

@@ -1,0 +1,169 @@
+2025-11-23T12:16:52.694164+03:00 mark-VirtualBox gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=120) by (uid=0)
+2025-11-23T12:16:52.719591+03:00 mark-VirtualBox systemd-logind[752]: New session c1 of user gdm.
+2025-11-23T12:16:52.850578+03:00 mark-VirtualBox (systemd): pam_unix(systemd-user:session): session opened for user gdm(uid=120) by gdm(uid=0)
+2025-11-23T12:16:56.133966+03:00 mark-VirtualBox polkitd[709]: Registered Authentication Agent for unix-session:c1 (system bus name :1.38 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+2025-11-23T12:17:21.732288+03:00 mark-VirtualBox gdm-password]: gkr-pam: unable to locate daemon control file
+2025-11-23T12:17:21.735224+03:00 mark-VirtualBox gdm-password]: gkr-pam: stashed password to try later in open session
+2025-11-23T12:17:21.775486+03:00 mark-VirtualBox gdm-password]: pam_unix(gdm-password:session): session opened for user mark(uid=1000) by mark(uid=0)
+2025-11-23T12:17:21.800550+03:00 mark-VirtualBox systemd-logind[752]: New session 2 of user mark.
+2025-11-23T12:17:21.832443+03:00 mark-VirtualBox (systemd): pam_unix(systemd-user:session): session opened for user mark(uid=1000) by mark(uid=0)
+2025-11-23T12:17:22.176898+03:00 mark-VirtualBox gdm-password]: gkr-pam: unlocked login keyring
+2025-11-23T12:17:22.673353+03:00 mark-VirtualBox gnome-keyring-daemon[1844]: The PKCS#11 component was already initialized
+2025-11-23T12:17:22.676300+03:00 mark-VirtualBox gnome-keyring-daemon[2054]: discover_other_daemon: 1
+2025-11-23T12:17:22.704380+03:00 mark-VirtualBox gnome-keyring-daemon[1844]: The Secret Service was already initialized
+2025-11-23T12:17:22.704688+03:00 mark-VirtualBox gnome-keyring-daemon[2056]: discover_other_daemon: 1
+2025-11-23T12:17:22.705362+03:00 mark-VirtualBox gnome-keyring-daemon[2060]: discover_other_daemon: 1
+2025-11-23T12:17:24.659717+03:00 mark-VirtualBox polkitd[709]: Registered Authentication Agent for unix-session:2 (system bus name :1.75 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+2025-11-23T12:17:25.528543+03:00 mark-VirtualBox gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+2025-11-23T12:17:25.539089+03:00 mark-VirtualBox systemd-logind[752]: Session c1 logged out. Waiting for processes to exit.
+2025-11-23T12:17:25.548465+03:00 mark-VirtualBox polkitd[709]: Unregistered Authentication Agent for unix-session:c1 (system bus name :1.38, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8) (disconnected from bus)
+2025-11-23T12:17:25.554004+03:00 mark-VirtualBox systemd-logind[752]: Removed session c1.
+2025-11-23T12:17:33.376690+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T12:17:35.747770+03:00 mark-VirtualBox (sd-pam): pam_unix(systemd-user:session): session closed for user gdm
+2025-11-23T12:17:37.639147+03:00 mark-VirtualBox CRON[2808]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:17:37.644355+03:00 mark-VirtualBox CRON[2808]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:18:27.011067+03:00 mark-VirtualBox pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T12:18:27.013042+03:00 mark-VirtualBox pkexec[2867]: mark: Executing command [USER=root] [TTY=unknown] [CWD=/home/mark] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2025-11-23T12:20:01.732573+03:00 mark-VirtualBox CRON[2883]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:20:02.849482+03:00 mark-VirtualBox CRON[2883]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:24:48.320842+03:00 mark-VirtualBox dbus-daemon[685]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-11-23T12:25:01.046689+03:00 mark-VirtualBox CRON[4027]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:25:01.047017+03:00 mark-VirtualBox CRON[4028]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:25:01.051566+03:00 mark-VirtualBox CRON[4027]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:25:02.480568+03:00 mark-VirtualBox CRON[4028]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:30:01.496960+03:00 mark-VirtualBox CRON[4427]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:30:01.498397+03:00 mark-VirtualBox CRON[4428]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:30:01.501227+03:00 mark-VirtualBox CRON[4427]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:30:02.590966+03:00 mark-VirtualBox CRON[4428]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:35:01.674997+03:00 mark-VirtualBox CRON[4539]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:35:01.678303+03:00 mark-VirtualBox CRON[4539]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:35:01.680039+03:00 mark-VirtualBox CRON[4540]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:35:03.138644+03:00 mark-VirtualBox CRON[4540]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:35:47.987040+03:00 mark-VirtualBox sudo: www-data : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T12:35:47.989248+03:00 mark-VirtualBox sudo: pam_unix(sudo-i:auth): conversation failed
+2025-11-23T12:35:47.989347+03:00 mark-VirtualBox sudo: pam_unix(sudo-i:auth): auth could not identify password for [www-data]
+2025-11-23T12:35:47.989361+03:00 mark-VirtualBox sudo: www-data : user NOT in sudoers ; PWD=/root ; USER=root ; COMMAND=/bin/bash
+2025-11-23T12:39:01.714667+03:00 mark-VirtualBox CRON[4641]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:39:01.717166+03:00 mark-VirtualBox CRON[4641]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:40:01.779249+03:00 mark-VirtualBox CRON[4716]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:40:08.671459+03:00 mark-VirtualBox CRON[4716]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:45:01.727583+03:00 mark-VirtualBox CRON[4763]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:45:01.727886+03:00 mark-VirtualBox CRON[4762]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:45:01.731324+03:00 mark-VirtualBox CRON[4762]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:46:48.389406+03:00 mark-VirtualBox sudo:     root : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T12:46:48.390797+03:00 mark-VirtualBox sudo:     root : PWD=/root ; USER=root ; COMMAND=/usr/sbin/useradd -m -s /bin/bash -G sudo versus
+2025-11-23T12:46:48.391201+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:46:48.427754+03:00 mark-VirtualBox useradd[4798]: new group: name=versus, GID=1047
+2025-11-23T12:46:48.427931+03:00 mark-VirtualBox useradd[4798]: new user: name=versus, UID=1037, GID=1047, home=/home/versus, shell=/bin/bash, from=none
+2025-11-23T12:46:48.428716+03:00 mark-VirtualBox useradd[4798]: add 'versus' to group 'sudo'
+2025-11-23T12:46:48.428814+03:00 mark-VirtualBox useradd[4798]: add 'versus' to shadow group 'sudo'
+2025-11-23T12:46:48.471068+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T12:47:24.666868+03:00 mark-VirtualBox passwd[4815]: pam_unix(passwd:chauthtok): password changed for versus
+2025-11-23T12:47:24.667411+03:00 mark-VirtualBox passwd[4815]: gkr-pam: couldn't update the login keyring password: no old password was entered
+2025-11-23T12:48:31.755472+03:00 mark-VirtualBox pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T12:48:31.755786+03:00 mark-VirtualBox pkexec[5401]: mark: Executing command [USER=root] [TTY=unknown] [CWD=/home/mark] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2025-11-23T12:50:01.748186+03:00 mark-VirtualBox CRON[5427]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:50:02.903386+03:00 mark-VirtualBox CRON[5427]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:55:01.927346+03:00 mark-VirtualBox CRON[5471]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:55:01.928015+03:00 mark-VirtualBox CRON[5470]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T12:55:01.930747+03:00 mark-VirtualBox CRON[5470]: pam_unix(cron:session): session closed for user root
+2025-11-23T12:55:03.282044+03:00 mark-VirtualBox CRON[5471]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:00:01.352075+03:00 mark-VirtualBox CRON[5509]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:00:02.707682+03:00 mark-VirtualBox CRON[5509]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:05:07.740337+03:00 mark-VirtualBox CRON[5561]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:05:07.743759+03:00 mark-VirtualBox CRON[5560]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:05:07.749144+03:00 mark-VirtualBox CRON[5560]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:05:15.459582+03:00 mark-VirtualBox CRON[5561]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:09:01.289833+03:00 mark-VirtualBox CRON[5608]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:09:01.294060+03:00 mark-VirtualBox CRON[5608]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:10:01.299671+03:00 mark-VirtualBox CRON[5681]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:10:02.368771+03:00 mark-VirtualBox CRON[5681]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:15:01.407100+03:00 mark-VirtualBox CRON[5796]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:15:01.416948+03:00 mark-VirtualBox CRON[5795]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:15:01.422203+03:00 mark-VirtualBox CRON[5795]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:15:02.472805+03:00 mark-VirtualBox CRON[5796]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:17:01.659832+03:00 mark-VirtualBox CRON[5824]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:17:01.664088+03:00 mark-VirtualBox CRON[5824]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:20:02.014032+03:00 mark-VirtualBox CRON[5844]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:20:11.164275+03:00 mark-VirtualBox sudo:     root : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T13:20:11.164348+03:00 mark-VirtualBox sudo:     root : PWD=/root ; USER=root ; COMMAND=/bin/bash
+2025-11-23T13:20:11.164364+03:00 mark-VirtualBox sudo: pam_unix(sudo-i:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:20:11.293203+03:00 mark-VirtualBox (systemd): pam_unix(systemd-user:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:25:02.201804+03:00 mark-VirtualBox CRON[6094]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:25:02.207502+03:00 mark-VirtualBox CRON[6093]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:25:02.209540+03:00 mark-VirtualBox CRON[6093]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:25:03.355441+03:00 mark-VirtualBox CRON[6094]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:30:01.957165+03:00 mark-VirtualBox CRON[6132]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:30:01.958147+03:00 mark-VirtualBox CRON[6133]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:30:01.960822+03:00 mark-VirtualBox CRON[6132]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:30:03.020145+03:00 mark-VirtualBox CRON[6133]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:35:01.667920+03:00 mark-VirtualBox CRON[6470]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:35:01.675276+03:00 mark-VirtualBox CRON[6471]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:35:01.683372+03:00 mark-VirtualBox CRON[6470]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:35:02.759561+03:00 mark-VirtualBox CRON[6471]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:39:01.845197+03:00 mark-VirtualBox CRON[6580]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:39:01.847371+03:00 mark-VirtualBox CRON[6580]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:40:02.408106+03:00 mark-VirtualBox CRON[6586]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:40:03.462730+03:00 mark-VirtualBox CRON[6586]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:44:56.540257+03:00 mark-VirtualBox gdm-password]: gkr-pam: unlocked login keyring
+2025-11-23T13:45:01.390159+03:00 mark-VirtualBox CRON[6705]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:45:01.393241+03:00 mark-VirtualBox CRON[6704]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:45:01.395921+03:00 mark-VirtualBox CRON[6704]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:45:02.442009+03:00 mark-VirtualBox CRON[6705]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:45:51.536850+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T13:45:54.067039+03:00 mark-VirtualBox sudo:     mark : TTY=pts/0 ; PWD=/home/mark/Рабочий стол ; USER=root ; COMMAND=/usr/bin/apt install git
+2025-11-23T13:45:54.067586+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T13:46:09.501869+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T13:48:42.743733+03:00 mark-VirtualBox pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T13:48:42.745114+03:00 mark-VirtualBox pkexec[6996]: mark: Executing command [USER=root] [TTY=unknown] [CWD=/home/mark] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2025-11-23T13:50:01.638602+03:00 mark-VirtualBox CRON[7045]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:50:02.712472+03:00 mark-VirtualBox CRON[7045]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:52:15.721353+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T13:52:18.395041+03:00 mark-VirtualBox sudo:     mark : TTY=pts/2 ; PWD=/tmp/uac-main ; USER=root ; COMMAND=./uac -a -o /home/mark/forensic/
+2025-11-23T13:52:18.482769+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T13:52:18.487133+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T13:55:02.059990+03:00 mark-VirtualBox CRON[7160]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:55:02.060275+03:00 mark-VirtualBox CRON[7161]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T13:55:02.064952+03:00 mark-VirtualBox CRON[7160]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:55:03.115566+03:00 mark-VirtualBox CRON[7161]: pam_unix(cron:session): session closed for user root
+2025-11-23T13:55:55.794292+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T13:55:55.796574+03:00 mark-VirtualBox sudo:     mark : TTY=pts/2 ; PWD=/tmp/uac-main ; USER=root ; COMMAND=./uac -a * -o /home/mark/forensic/ --output-format zip -H --enable-modifiers
+2025-11-23T13:55:55.796741+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T13:55:55.812752+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T13:56:49.376016+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T13:56:49.378261+03:00 mark-VirtualBox sudo:     mark : TTY=pts/2 ; PWD=/tmp/uac-main ; USER=root ; COMMAND=./uac -a * -o /home/mark/forensic/
+2025-11-23T13:56:49.379479+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T13:56:49.394421+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T13:59:41.921594+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T13:59:41.923706+03:00 mark-VirtualBox sudo:     mark : TTY=pts/2 ; PWD=/tmp/uac-main ; USER=root ; COMMAND=./uac -p ir_triage -0 /home/mark/forensic --output-format zip -H
+2025-11-23T13:59:41.927386+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T13:59:42.189070+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T13:59:57.852131+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T13:59:57.853708+03:00 mark-VirtualBox sudo:     mark : TTY=pts/2 ; PWD=/tmp/uac-main ; USER=root ; COMMAND=./uac -p ir_triage -o /home/mark/forensic --output-format zip -H
+2025-11-23T13:59:57.854726+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T13:59:58.117772+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T14:00:01.341967+03:00 mark-VirtualBox CRON[9195]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T14:00:02.395478+03:00 mark-VirtualBox CRON[9195]: pam_unix(cron:session): session closed for user root
+2025-11-23T14:00:39.596178+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T14:00:39.602159+03:00 mark-VirtualBox sudo:     mark : TTY=pts/2 ; PWD=/tmp/uac-main ; USER=root ; COMMAND=./uac -p ir_triage -o /home/mark/forensic --output-format tar -H
+2025-11-23T14:00:39.602497+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T14:00:39.870721+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T14:01:03.719409+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T14:01:03.720979+03:00 mark-VirtualBox sudo:     mark : TTY=pts/2 ; PWD=/tmp/uac-main ; USER=root ; COMMAND=./uac -p ir_triage -o /home/mark/forensic --output-format tar
+2025-11-23T14:01:03.721854+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T14:01:03.975057+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T14:04:54.309807+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T14:04:54.311967+03:00 mark-VirtualBox sudo:     mark : TTY=pts/2 ; PWD=/tmp/uac-main ; USER=root ; COMMAND=./uac -p full -o /home/mark/forensic --output-format tar -H
+2025-11-23T14:04:54.315134+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T14:04:54.528090+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-11-23T14:05:01.403190+03:00 mark-VirtualBox CRON[11391]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T14:05:01.403371+03:00 mark-VirtualBox CRON[11392]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T14:05:01.407266+03:00 mark-VirtualBox CRON[11391]: pam_unix(cron:session): session closed for user root
+2025-11-23T14:05:02.455668+03:00 mark-VirtualBox CRON[11392]: pam_unix(cron:session): session closed for user root
+2025-11-23T14:07:25.122208+03:00 mark-VirtualBox sudo:     mark : /etc/sudoers.d/junior-restrictions:6:27: syntax error
+2025-11-23T14:07:27.749678+03:00 mark-VirtualBox sudo:     mark : TTY=pts/3 ; PWD=/tmp/uac-main ; USER=root ; COMMAND=./uac -p ir_triage /tmp
+2025-11-23T14:07:27.753293+03:00 mark-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by mark(uid=1000)
+2025-11-23T14:09:01.851718+03:00 mark-VirtualBox CRON[120896]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T14:09:01.855094+03:00 mark-VirtualBox CRON[120896]: pam_unix(cron:session): session closed for user root
+2025-11-23T14:10:01.858178+03:00 mark-VirtualBox CRON[150802]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-11-23T14:10:02.953242+03:00 mark-VirtualBox CRON[150802]: pam_unix(cron:session): session closed for user root

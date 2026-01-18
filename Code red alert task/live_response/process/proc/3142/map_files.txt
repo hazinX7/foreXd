@@ -1,0 +1,20 @@
+total 0
+dr-x------ 2 mark mark  0 Nov 23 14:07 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:21 ..
+lr-------- 1 mark mark 64 Nov 23 14:07 5e8201d71000-5e8202601000 -> /snap/snapd/25577/usr/bin/snap
+lr-------- 1 mark mark 64 Nov 23 14:07 5e8202601000-5e8202aa8000 -> /snap/snapd/25577/usr/bin/snap
+lr-------- 1 mark mark 64 Nov 23 14:07 5e8202aa8000-5e8203242000 -> /snap/snapd/25577/usr/bin/snap
+lr-------- 1 mark mark 64 Nov 23 14:07 5e8203242000-5e820329d000 -> /snap/snapd/25577/usr/bin/snap
+lr-------- 1 mark mark 64 Nov 23 14:07 5e82032d1000-5e82032d2000 -> /snap/snapd/25577/usr/bin/snap
+lr-------- 1 mark mark 64 Nov 23 14:07 782539aef000-782539b17000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 782539b17000-782539cac000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 782539cac000-782539d04000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 782539d04000-782539d05000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 782539d05000-782539d09000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 782539d09000-782539d0b000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 782539d18000-782539d1d000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 782539d25000-782539d27000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 782539d27000-782539d4e000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 782539d4e000-782539d5a000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 782539d5a000-782539d5c000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 782539d5c000-782539d5e000 -> /snap/snapd/25577/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2

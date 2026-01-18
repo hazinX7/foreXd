@@ -1,0 +1,61 @@
+Name:	Privileged Cont
+Umask:	0002
+State:	S (sleeping)
+Tgid:	3095
+Ngid:	0
+Pid:	3095
+PPid:	3053
+TracerPid:	0
+Uid:	1000	1000	1000	1000
+Gid:	1000	1000	1000	1000
+FDSize:	512
+Groups:	4 24 27 30 46 100 114 124 1000 
+NStgid:	3095
+NSpid:	3095
+NSpgid:	2065
+NSsid:	2065
+Kthread:	0
+VmPeak:	20284016 kB
+VmSize:	 3526020 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	  127400 kB
+VmRSS:	  125252 kB
+RssAnon:	   43152 kB
+RssFile:	   80516 kB
+RssShmem:	    1584 kB
+VmData:	   71560 kB
+VmStk:	     192 kB
+VmExe:	     696 kB
+VmLib:	  139928 kB
+VmPTE:	     760 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+untag_mask:	0xffffffffffffffff
+Threads:	17
+SigQ:	0/15545
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000011002
+SigCgt:	0000000f40800ef8
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	000001ffffffffff
+CapAmb:	0000000000000000
+NoNewPrivs:	1
+Seccomp:	2
+Seccomp_filters:	3
+Speculation_Store_Bypass:	vulnerable
+SpeculationIndirectBranch:	always enabled
+Cpus_allowed:	3
+Cpus_allowed_list:	0-1
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	18895
+nonvoluntary_ctxt_switches:	17882
+x86_Thread_features:	
+x86_Thread_features_locked:	

@@ -1,0 +1,7 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 7 root root    0 Nov 23 14:09 ..
+-rw------- 1 root root 4096 Nov 23 14:09 assume_16bpp
+-rw------- 1 root root 4096 Nov 23 14:09 force_coherent
+-rw------- 1 root root 4096 Nov 23 14:09 restrict_dma_mask
+-rw------- 1 root root 4096 Nov 23 14:09 restrict_iommu

@@ -1,0 +1,7 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 3 root root    0 Nov 23 14:09 ..
+-rw------- 1 root root 4096 Nov 23 14:09 create_on_open
+--w------- 1 root root 4096 Nov 23 14:09 new_array
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 start_dirty_degraded
+-rw------- 1 root root 4096 Nov 23 14:09 start_ro

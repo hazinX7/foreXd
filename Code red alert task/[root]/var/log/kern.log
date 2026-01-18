@@ -1,0 +1,15 @@
+2025-11-23T12:16:51.685507+03:00 mark-VirtualBox kernel: e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+2025-11-23T12:16:51.720311+03:00 mark-VirtualBox kernel: e1000: enp0s8 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+2025-11-23T12:16:51.741734+03:00 mark-VirtualBox kernel: e1000: enp0s9 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+2025-11-23T12:16:52.800210+03:00 mark-VirtualBox kernel: loop12: detected capacity change from 0 to 8
+2025-11-23T12:16:56.212335+03:00 mark-VirtualBox kernel: rfkill: input handler disabled
+2025-11-23T12:17:21.954032+03:00 mark-VirtualBox kernel: 09:17:00.576197 timesync vgsvcTimeSyncWorker: Radical guest time change: 290 326 041 573 000ns (GuestNow=1 763 889 420 576 106 
+2025-11-23T12:17:22.254138+03:00 mark-VirtualBox kernel: rfkill: input handler enabled
+2025-11-23T12:17:24.196161+03:00 mark-VirtualBox kernel: rfkill: input handler disabled
+2025-11-23T12:21:07.659202+03:00 mark-VirtualBox kernel: kauditd_printk_skb: 146 callbacks suppressed
+2025-11-23T12:21:07.659218+03:00 mark-VirtualBox kernel: audit: type=1400 audit(1763889667.657:158): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/proc/pressure/memory" pid=2906 comm="firefox" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+2025-11-23T12:26:36.287071+03:00 mark-VirtualBox kernel: nautilus[4053]: segfault at 5c7e00000140 ip 00005c7de0d8fede sp 00007ffe4bd50760 error 4 in nautilus[6cede,5c7de0d49000+b0000] likely on CPU 1 (core 1, socket 0)
+2025-11-23T12:26:36.287178+03:00 mark-VirtualBox kernel: Code: ff 48 85 db 74 36 48 89 c6 48 8b 03 48 85 c0 74 05 48 39 30 74 0c 48 89 df e8 8e 5a fc ff 85 c0 74 1a 48 8b 43 18 48 8b 5d f8 <0f> b6 80 40 01 00 00 c9 c0 e8 02 83 e0 01 c3 0f 1f 00 48 8d 15 b8
+2025-11-23T12:27:09.929861+03:00 mark-VirtualBox kernel: nautilus[4186]: segfault at 5db700000000 ip 00007156ad583b3c sp 00007ffe80b9a8f0 error 4 in libgobject-2.0.so.0.8000.0[14b3c,7156ad57e000+37000] likely on CPU 1 (core 1, socket 0)
+2025-11-23T12:27:09.929878+03:00 mark-VirtualBox kernel: Code: 1e fa 55 48 89 e5 41 55 41 54 53 48 81 ec d8 00 00 00 64 48 8b 04 25 28 00 00 00 48 89 45 d8 31 c0 48 85 ff 0f 84 94 02 00 00 <0f> b7 07 48 89 fb 66 25 ff 7f 0f 84 34 02 00 00 66 83 f8 01 0f 84
+2025-11-23T13:45:22.795225+03:00 mark-VirtualBox kernel: workqueue: blk_mq_run_work_fn hogged CPU for >10000us 4 times, consider switching to WQ_UNBOUND

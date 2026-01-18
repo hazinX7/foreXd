@@ -1,0 +1,7 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 6 root root    0 Nov 23 14:09 ..
+-r--r--r-- 1 root root 4096 Nov 23 14:09 ahci_em_messages
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 devslp_idle_timeout
+-r--r--r-- 1 root root 4096 Nov 23 14:09 ignore_sss
+-r--r--r-- 1 root root 4096 Nov 23 14:09 skip_host_reset

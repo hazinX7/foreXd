@@ -1,0 +1,61 @@
+Name:	systemd-journal
+Umask:	0022
+State:	S (sleeping)
+Tgid:	250
+Ngid:	0
+Pid:	250
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	256
+Groups:	 
+NStgid:	250
+NSpid:	250
+NSpgid:	250
+NSsid:	250
+Kthread:	0
+VmPeak:	   50848 kB
+VmSize:	   50848 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   17856 kB
+VmRSS:	   17856 kB
+RssAnon:	    1408 kB
+RssFile:	   16448 kB
+RssShmem:	       0 kB
+VmData:	   17492 kB
+VmStk:	     132 kB
+VmExe:	     112 kB
+VmLib:	   11088 kB
+VmPTE:	     100 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+untag_mask:	0xffffffffffffffff
+Threads:	1
+SigQ:	1/15545
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0008000400004a02
+SigIgn:	0000000000001000
+SigCgt:	0000000100000040
+CapInh:	0000000000000000
+CapPrm:	00000025402800cf
+CapEff:	00000025402800cf
+CapBnd:	00000025402800cf
+CapAmb:	0000000000000000
+NoNewPrivs:	1
+Seccomp:	2
+Seccomp_filters:	17
+Speculation_Store_Bypass:	vulnerable
+SpeculationIndirectBranch:	always enabled
+Cpus_allowed:	3
+Cpus_allowed_list:	0-1
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2899
+nonvoluntary_ctxt_switches:	1190
+x86_Thread_features:	
+x86_Thread_features_locked:	

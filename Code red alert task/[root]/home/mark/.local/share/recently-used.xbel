@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/mark/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%3F%3F" added="2025-11-19T13:10:36.332352Z" modified="2025-11-19T13:10:36.332356Z" visited="2025-11-19T13:10:36.332353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T13:10:36.332355Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd" added="2025-11-19T13:47:53.904935Z" modified="2025-11-23T08:50:32.404558Z" visited="2025-11-19T13:47:53.904935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-23T08:50:32.404553Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/apache2/access.log" added="2025-11-19T13:56:35.003815Z" modified="2025-11-19T20:29:00.112132Z" visited="2025-11-19T13:56:35.003816Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T20:29:00.112129Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/apache2/error.log" added="2025-11-19T13:56:38.119880Z" modified="2025-11-19T20:29:27.212496Z" visited="2025-11-19T13:56:38.119880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T20:29:27.212493Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/auth.log" added="2025-11-19T13:56:51.391443Z" modified="2025-11-20T18:15:15.242549Z" visited="2025-11-19T13:56:51.391444Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T18:15:15.242545Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/.bash_logout" added="2025-11-19T14:19:35.069479Z" modified="2025-11-19T14:19:35.069481Z" visited="2025-11-19T14:19:35.069479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T14:19:35.069480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/.ssh/authorized_keys" added="2025-11-19T14:27:07.693938Z" modified="2025-11-19T14:27:07.693942Z" visited="2025-11-19T14:27:07.693938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T14:27:07.693940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_ubuntu/org.sh" added="2025-11-19T14:42:19.467378Z" modified="2025-11-19T14:42:19.467382Z" visited="2025-11-19T14:42:19.467379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T14:42:19.467381Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/.sudo_as_admin_successful" added="2025-11-19T14:58:55.340432Z" modified="2025-11-19T14:58:55.340437Z" visited="2025-11-19T14:58:55.340433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T14:58:55.340434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/files.sh" added="2025-11-19T14:59:35.539413Z" modified="2025-11-19T14:59:35.539417Z" visited="2025-11-19T14:59:35.539414Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T14:59:35.539415Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/accountant-junior/work/todo.txt" added="2025-11-19T15:01:11.501970Z" modified="2025-11-19T15:01:11.501973Z" visited="2025-11-19T15:01:11.501970Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-todo-txt"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T15:01:11.501971Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/accountant-chief/work/todo.txt" added="2025-11-19T15:01:29.368890Z" modified="2025-11-19T15:01:29.368894Z" visited="2025-11-19T15:01:29.368891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-todo-txt"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T15:01:29.368892Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/auditor-senior/work/todo.txt" added="2025-11-19T15:01:42.749590Z" modified="2025-11-19T15:01:42.749593Z" visited="2025-11-19T15:01:42.749590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-todo-txt"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T15:01:42.749591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/cso/.bashrc" added="2025-11-19T15:04:20.618823Z" modified="2025-11-19T15:04:20.618826Z" visited="2025-11-19T15:04:20.618823Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T15:04:20.618824Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/sysadmin-mid/work/todo.txt" added="2025-11-19T15:04:31.443612Z" modified="2025-11-19T15:04:31.443615Z" visited="2025-11-19T15:04:31.443612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-todo-txt"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T15:04:31.443613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/files4.sh" added="2025-11-19T15:11:11.654980Z" modified="2025-11-19T15:11:11.654985Z" visited="2025-11-19T15:11:11.654981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T15:11:11.654983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/dmesg" added="2025-11-19T15:34:48.641593Z" modified="2025-11-19T15:34:48.641597Z" visited="2025-11-19T15:34:48.641594Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T15:34:48.641596Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-11-19%2019-46-45.png" added="2025-11-19T16:46:45.759898Z" modified="2025-11-19T16:46:45.759901Z" visited="2025-11-19T16:46:45.759898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-11-19T16:46:45.759899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_ubuntu/mysmsservice.conf.txt" added="2025-11-19T16:47:48.209002Z" modified="2025-11-19T16:47:48.209005Z" visited="2025-11-19T16:47:48.209002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T16:47:48.209004Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apache2/sites-available/mysmsservice.conf" added="2025-11-19T20:21:48.315763Z" modified="2025-11-19T20:21:48.315766Z" visited="2025-11-19T20:21:48.315764Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T20:21:48.315765Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apache2/ports.conf" added="2025-11-19T20:22:12.561826Z" modified="2025-11-19T20:22:12.561830Z" visited="2025-11-19T20:22:12.561827Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T20:22:12.561829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/apache2/mysms_access.log" added="2025-11-19T20:29:34.778325Z" modified="2025-11-23T09:31:33.445450Z" visited="2025-11-19T20:29:34.778326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-23T09:31:33.445449Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/alternatives.log" added="2025-11-19T20:41:17.344902Z" modified="2025-11-19T20:41:17.344905Z" visited="2025-11-19T20:41:17.344903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-19T20:41:17.344904Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/cron.sh" added="2025-11-20T17:47:19.994522Z" modified="2025-11-20T18:58:07.011842Z" visited="2025-11-20T17:47:19.994523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T18:58:07.011837Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/active_users.txt" added="2025-11-20T18:11:26.275199Z" modified="2025-11-20T18:11:26.275204Z" visited="2025-11-20T18:11:26.275200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T18:11:26.275201Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/financial_overview.txt" added="2025-11-20T18:11:42.013105Z" modified="2025-11-20T18:11:42.013110Z" visited="2025-11-20T18:11:42.013106Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T18:11:42.013108Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/last_update.txt" added="2025-11-20T18:11:50.175893Z" modified="2025-11-20T18:11:50.175898Z" visited="2025-11-20T18:11:50.175894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T18:11:50.175896Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/network_stats.txt" added="2025-11-20T18:11:56.507740Z" modified="2025-11-20T18:11:56.507744Z" visited="2025-11-20T18:11:56.507740Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T18:11:56.507742Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///var/www/bank-finance/html/reports/web_server_status.txt" added="2025-11-20T18:12:10.598677Z" modified="2025-11-20T18:12:10.598682Z" visited="2025-11-20T18:12:10.598678Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T18:12:10.598679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/active_users.txt" added="2025-11-20T18:17:05.840475Z" modified="2025-11-20T19:36:04.488255Z" visited="2025-11-20T18:17:05.840476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T19:36:04.488251Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/financial_overview.txt" added="2025-11-20T18:17:10.159817Z" modified="2025-11-20T18:19:01.149586Z" visited="2025-11-20T18:17:10.159818Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T18:19:01.149582Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/web_server_status.txt" added="2025-11-20T18:18:45.529726Z" modified="2025-11-20T19:40:08.450692Z" visited="2025-11-20T18:18:45.529726Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T19:40:08.450688Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/last_update.txt" added="2025-11-20T18:19:05.245987Z" modified="2025-11-20T19:39:10.783195Z" visited="2025-11-20T18:19:05.245988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T19:39:10.783191Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/bank-finance/html/reports/network_stats.txt" added="2025-11-20T18:39:12.999759Z" modified="2025-11-20T18:39:12.999764Z" visited="2025-11-20T18:39:12.999760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T18:39:12.999762Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/company/scripts/generate_reports.sh" added="2025-11-20T19:06:01.990213Z" modified="2025-11-20T19:12:23.678074Z" visited="2025-11-20T19:06:01.990214Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T19:12:23.678069Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/company/reports/generation.log" added="2025-11-20T19:09:38.508859Z" modified="2025-11-20T19:34:06.066681Z" visited="2025-11-20T19:09:38.508859Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-20T19:34:06.066676Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/apache2/access.log.1" added="2025-11-23T09:27:41.646273Z" modified="2025-11-23T09:27:41.646276Z" visited="2025-11-23T09:27:41.646273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-troff-man"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-23T09:27:41.646275Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/uac-main/artifacts/bodyfile/bodyfile.yaml" added="2025-11-23T10:48:22.152699Z" modified="2025-11-23T10:48:22.152704Z" visited="2025-11-23T10:48:22.152700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-23T10:48:22.152702Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mark/forensic" added="2025-11-23T10:51:46.178459Z" modified="2025-11-23T10:51:46.178463Z" visited="2025-11-23T10:51:46.178459Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-11-23T10:51:46.178461Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/uac-main/README.md" added="2025-11-23T11:05:37.815676Z" modified="2025-11-23T11:05:37.815682Z" visited="2025-11-23T11:05:37.815677Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-11-23T11:05:37.815679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

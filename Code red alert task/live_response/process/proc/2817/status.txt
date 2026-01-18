@@ -1,0 +1,61 @@
+Name:	systemctl
+Umask:	0002
+State:	T (stopped)
+Tgid:	2817
+Ngid:	0
+Pid:	2817
+PPid:	2765
+TracerPid:	0
+Uid:	1000	1000	1000	1000
+Gid:	1000	1000	1000	1000
+FDSize:	256
+Groups:	4 24 27 30 46 100 114 124 1000 
+NStgid:	2817
+NSpid:	2817
+NSpgid:	2817
+NSsid:	2765
+Kthread:	0
+VmPeak:	  369812 kB
+VmSize:	   17336 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   13972 kB
+VmRSS:	    6324 kB
+RssAnon:	     640 kB
+RssFile:	    5684 kB
+RssShmem:	       0 kB
+VmData:	     476 kB
+VmStk:	     132 kB
+VmExe:	    1020 kB
+VmLib:	    8440 kB
+VmPTE:	      80 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+untag_mask:	0xffffffffffffffff
+Threads:	1
+SigQ:	0/15545
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000000
+SigCgt:	0000000000000040
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	000001ffffffffff
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	0
+Seccomp_filters:	0
+Speculation_Store_Bypass:	vulnerable
+SpeculationIndirectBranch:	always enabled
+Cpus_allowed:	3
+Cpus_allowed_list:	0-1
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	26
+nonvoluntary_ctxt_switches:	6
+x86_Thread_features:	
+x86_Thread_features_locked:	

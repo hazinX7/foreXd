@@ -1,0 +1,8 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+USER=root
+INVOCATION_ID=baa1a998f32848b3be37c6f432fd3331
+JOURNAL_STREAM=9:8644
+SYSTEMD_EXEC_PID=797
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/NetworkManager.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

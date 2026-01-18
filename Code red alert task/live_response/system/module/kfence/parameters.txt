@@ -1,0 +1,8 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 3 root root    0 Nov 23 14:09 ..
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 burst
+-r--r--r-- 1 root root 4096 Nov 23 14:09 check_on_panic
+-r--r--r-- 1 root root 4096 Nov 23 14:09 deferrable
+-rw------- 1 root root 4096 Nov 23 14:09 sample_interval
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 skip_covered_thresh

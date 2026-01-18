@@ -1,0 +1,19 @@
+total 0
+dr-x------ 2 mark mark 16 Nov 23 12:18 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:18 ..
+lr-x------ 1 mark mark 64 Nov 23 12:18 0 -> /dev/null
+lrwx------ 1 mark mark 64 Nov 23 12:18 1 -> socket:[18727]
+lrwx------ 1 mark mark 64 Nov 23 12:18 10 -> socket:[18740]
+lrwx------ 1 mark mark 64 Nov 23 12:18 11 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 12 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 13 -> /run/user/1000/update-notifier.pid
+lr-x------ 1 mark mark 64 Nov 23 12:18 14 -> anon_inode:inotify
+lrwx------ 1 mark mark 64 Nov 23 12:40 15 -> socket:[28723]
+lrwx------ 1 mark mark 64 Nov 23 12:18 2 -> socket:[18727]
+lrwx------ 1 mark mark 64 Nov 23 12:18 3 -> socket:[18735]
+lrwx------ 1 mark mark 64 Nov 23 12:18 4 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 5 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 6 -> anon_inode:[eventfd]
+lrwx------ 1 mark mark 64 Nov 23 12:18 7 -> socket:[18736]
+lrwx------ 1 mark mark 64 Nov 23 12:18 8 -> /memfd:wayland-cursor (deleted)
+lrwx------ 1 mark mark 64 Nov 23 12:18 9 -> socket:[18738]

@@ -1,0 +1,8 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 3 root root    0 Nov 23 14:09 ..
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 always_kmsg_dump
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 console_no_auto_verbose
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 console_suspend
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 ignore_loglevel
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 time

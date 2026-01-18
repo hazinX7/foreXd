@@ -1,0 +1,2 @@
+[Sun Nov 23 12:32:21.923977 2025] [core:error] [pid 4516] [client 192.168.54.102:41958] AH10244: invalid URI path (/help/../../etc/shadow)
+[Sun Nov 23 12:37:46.791124 2025] [php:warn] [pid 4506] [client 192.168.54.102:42878] PHP Warning:  chdir(): Permission denied (errno 13) in /var/www/mysmsservice/public/uploads/9cbd08fa61e6df23_shell.php on line 68, referer: http://192.168.54.101//uploads/9cbd08fa61e6df23_shell.php

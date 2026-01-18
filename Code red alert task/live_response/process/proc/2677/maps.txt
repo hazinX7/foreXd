@@ -1,0 +1,280 @@
+63d7bb65c000-63d7bb66a000 r--p 00000000 08:02 933900                     /usr/libexec/tracker-miner-fs-3
+63d7bb66a000-63d7bb68f000 r-xp 0000e000 08:02 933900                     /usr/libexec/tracker-miner-fs-3
+63d7bb68f000-63d7bb6a0000 r--p 00033000 08:02 933900                     /usr/libexec/tracker-miner-fs-3
+63d7bb6a0000-63d7bb6a2000 r--p 00044000 08:02 933900                     /usr/libexec/tracker-miner-fs-3
+63d7bb6a2000-63d7bb6a3000 rw-p 00046000 08:02 933900                     /usr/libexec/tracker-miner-fs-3
+63d7da20f000-63d7da8f7000 rw-p 00000000 00:00 0                          [heap]
+7332c0000000-7332c01da000 rw-p 00000000 00:00 0 
+7332c01da000-7332c4000000 ---p 00000000 00:00 0 
+7332c4000000-7332c41e2000 rw-p 00000000 00:00 0 
+7332c41e2000-7332c8000000 ---p 00000000 00:00 0 
+7332c8000000-7332c8021000 rw-p 00000000 00:00 0 
+7332c8021000-7332cc000000 ---p 00000000 00:00 0 
+7332cc000000-7332cc021000 rw-p 00000000 00:00 0 
+7332cc021000-7332d0000000 ---p 00000000 00:00 0 
+7332d0000000-7332d0021000 rw-p 00000000 00:00 0 
+7332d0021000-7332d4000000 ---p 00000000 00:00 0 
+7332d4000000-7332d433d000 rw-p 00000000 00:00 0 
+7332d433d000-7332d8000000 ---p 00000000 00:00 0 
+7332d8000000-7332d8021000 rw-p 00000000 00:00 0 
+7332d8021000-7332dc000000 ---p 00000000 00:00 0 
+7332dc000000-7332dc021000 rw-p 00000000 00:00 0 
+7332dc021000-7332e0000000 ---p 00000000 00:00 0 
+7332e0000000-7332e0021000 rw-p 00000000 00:00 0 
+7332e0021000-7332e4000000 ---p 00000000 00:00 0 
+7332e43f7000-7332e43f8000 ---p 00000000 00:00 0 
+7332e43f8000-7332e4bf8000 rw-p 00000000 00:00 0 
+7332e4bf8000-7332e4bf9000 ---p 00000000 00:00 0 
+7332e4bf9000-7332e53f9000 rw-p 00000000 00:00 0 
+7332e53f9000-7332e53fa000 ---p 00000000 00:00 0 
+7332e53fa000-7332e5bfa000 rw-p 00000000 00:00 0 
+7332e5bfa000-7332e5bfb000 ---p 00000000 00:00 0 
+7332e5bfb000-7332e63fb000 rw-p 00000000 00:00 0 
+7332e63fb000-7332e63fc000 ---p 00000000 00:00 0 
+7332e63fc000-7332e6bfc000 rw-p 00000000 00:00 0 
+7332e6bfc000-7332e6bfd000 ---p 00000000 00:00 0 
+7332e6bfd000-7332e73fd000 rw-p 00000000 00:00 0 
+7332e73fd000-7332e73fe000 ---p 00000000 00:00 0 
+7332e73fe000-7332e7bfe000 rw-p 00000000 00:00 0 
+7332e7bfe000-7332e7bff000 ---p 00000000 00:00 0 
+7332e7bff000-7332e83ff000 rw-p 00000000 00:00 0 
+7332e83ff000-7332e8400000 ---p 00000000 00:00 0 
+7332e8400000-7332e8c00000 rw-p 00000000 00:00 0 
+7332e8c00000-7332e8eec000 r--p 00000000 08:02 972560                     /usr/lib/locale/locale-archive
+7332e8f34000-7332e8f74000 r--p 00000000 08:02 929531                     /usr/lib/x86_64-linux-gnu/libstemmer.so.0d.0.0
+7332e8f74000-7332e8f9a000 r-xp 00040000 08:02 929531                     /usr/lib/x86_64-linux-gnu/libstemmer.so.0d.0.0
+7332e8f9a000-7332e8fad000 r--p 00066000 08:02 929531                     /usr/lib/x86_64-linux-gnu/libstemmer.so.0d.0.0
+7332e8fad000-7332e8fff000 r--p 00078000 08:02 929531                     /usr/lib/x86_64-linux-gnu/libstemmer.so.0d.0.0
+7332e8fff000-7332e9000000 rw-p 000ca000 08:02 929531                     /usr/lib/x86_64-linux-gnu/libstemmer.so.0d.0.0
+7332e9000000-7332e9001000 r--p 00000000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7332e9001000-7332e9002000 r-xp 00001000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7332e9002000-7332ead5e000 r--p 00002000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7332ead5e000-7332ead5f000 r--p 01d5d000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7332ead5f000-7332ead60000 rw-p 01d5e000 08:02 929249                     /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7332eadd9000-7332eae00000 r--s 00000000 08:02 958554                     /usr/share/mime/mime.cache
+7332eae00000-7332eae9d000 r--p 00000000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7332eae9d000-7332eafe5000 r-xp 0009d000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7332eafe5000-7332eb06c000 r--p 001e5000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7332eb06c000-7332eb077000 r--p 0026b000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7332eb077000-7332eb07a000 rw-p 00276000 08:02 929530                     /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7332eb07a000-7332eb07e000 rw-p 00000000 00:00 0 
+7332eb0f8000-7332eb100000 rw-s 00000000 08:02 524938                     /home/mark/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Video.db-shm
+7332eb100000-7332eb108000 rw-s 00000000 08:02 524936                     /home/mark/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db-shm
+7332eb108000-7332eb110000 rw-s 00000000 08:02 524934                     /home/mark/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Audio.db-shm
+7332eb110000-7332eb118000 rw-s 00000000 08:02 524932                     /home/mark/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Pictures.db-shm
+7332eb118000-7332eb120000 rw-s 00000000 08:02 524731                     /home/mark/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Software.db-shm
+7332eb120000-7332eb128000 rw-s 00000000 08:02 524664                     /home/mark/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db-shm
+7332eb128000-7332eb12c000 r--p 00000000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7332eb12c000-7332eb133000 r-xp 00004000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7332eb133000-7332eb135000 r--p 0000b000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7332eb135000-7332eb136000 r--p 0000d000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7332eb136000-7332eb137000 rw-p 0000e000 08:02 930709                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7332eb137000-7332eb15f000 r--p 00000000 08:02 919667                     /usr/share/glib-2.0/schemas/gschemas.compiled
+7332eb15f000-7332eb171000 r--p 00000000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7332eb171000-7332eb18d000 r-xp 00012000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7332eb18d000-7332eb199000 r--p 0002e000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7332eb199000-7332eb19f000 r--p 00039000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7332eb19f000-7332eb1a0000 rw-p 0003f000 08:02 931000                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7332eb1a0000-7332eb1aa000 r--p 00000000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7332eb1aa000-7332eb1c8000 r-xp 0000a000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7332eb1c8000-7332eb1d0000 r--p 00028000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7332eb1d0000-7332eb1d2000 r--p 00030000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7332eb1d2000-7332eb1d3000 rw-p 00032000 08:02 930714                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7332eb1d3000-7332eb200000 r--p 00000000 08:02 1090101                    /usr/share/locale-langpack/ru/LC_MESSAGES/glib20.mo
+7332eb200000-7332eb268000 r--p 00000000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7332eb268000-7332eb36d000 r-xp 00068000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7332eb36d000-7332eb3f7000 r--p 0016d000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7332eb3f7000-7332eb40a000 r--p 001f7000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7332eb40a000-7332eb40b000 rw-p 0020a000 08:02 929254                     /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7332eb40b000-7332eb40d000 rw-p 00000000 00:00 0 
+7332eb411000-7332eb419000 rw-s 00000000 08:02 524647                     /home/mark/.cache/tracker3/files/meta.db-shm
+7332eb419000-7332eb420000 r--p 00000000 08:02 930713                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7332eb420000-7332eb42c000 r-xp 00007000 08:02 930713                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7332eb42c000-7332eb431000 r--p 00013000 08:02 930713                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7332eb431000-7332eb435000 r--p 00017000 08:02 930713                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7332eb435000-7332eb436000 rw-p 0001b000 08:02 930713                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7332eb436000-7332eb465000 r--p 00000000 08:02 1090214                    /usr/share/locale-langpack/ru/LC_MESSAGES/libc.mo
+7332eb465000-7332eb472000 r--p 00000000 08:02 1090158                    /usr/share/locale-langpack/ru/LC_MESSAGES/gstreamer-1.0.mo
+7332eb472000-7332eb474000 r--p 00000000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+7332eb474000-7332eb482000 r-xp 00002000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+7332eb482000-7332eb484000 r--p 00010000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+7332eb484000-7332eb485000 r--p 00011000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+7332eb485000-7332eb486000 rw-p 00012000 08:02 929002                     /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+7332eb486000-7332eb48a000 r--p 00000000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7332eb48a000-7332eb531000 r-xp 00004000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7332eb531000-7332eb53e000 r--p 000ab000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7332eb53e000-7332eb53f000 r--p 000b7000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7332eb53f000-7332eb540000 rw-p 000b8000 08:02 929664                     /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7332eb540000-7332eb543000 r--p 00000000 08:02 929091                     /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7332eb543000-7332eb559000 r-xp 00003000 08:02 929091                     /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7332eb559000-7332eb55d000 r--p 00019000 08:02 929091                     /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7332eb55d000-7332eb55e000 r--p 0001c000 08:02 929091                     /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7332eb55e000-7332eb55f000 rw-p 0001d000 08:02 929091                     /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7332eb55f000-7332eb562000 r--p 00000000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7332eb562000-7332eb584000 r-xp 00003000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7332eb584000-7332eb58f000 r--p 00025000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7332eb58f000-7332eb590000 r--p 00030000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7332eb590000-7332eb591000 rw-p 00031000 08:02 929306                     /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7332eb591000-7332eb595000 r--p 00000000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7332eb595000-7332eb5b2000 r-xp 00004000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7332eb5b2000-7332eb5ba000 r--p 00021000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7332eb5ba000-7332eb5bc000 r--p 00028000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7332eb5bc000-7332eb5bd000 rw-p 0002a000 08:02 929102                     /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7332eb5bd000-7332eb5c1000 r--p 00000000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7332eb5c1000-7332eb5e5000 r-xp 00004000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7332eb5e5000-7332eb5e9000 r--p 00028000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7332eb5e9000-7332eb5ea000 r--p 0002b000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7332eb5ea000-7332eb5eb000 rw-p 0002c000 08:02 929137                     /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7332eb5eb000-7332eb5ff000 r--p 00000000 08:02 929073                     /usr/lib/x86_64-linux-gnu/libdw-0.190.so
+7332eb5ff000-7332eb66c000 r-xp 00014000 08:02 929073                     /usr/lib/x86_64-linux-gnu/libdw-0.190.so
+7332eb66c000-7332eb696000 r--p 00081000 08:02 929073                     /usr/lib/x86_64-linux-gnu/libdw-0.190.so
+7332eb696000-7332eb69e000 r--p 000ab000 08:02 929073                     /usr/lib/x86_64-linux-gnu/libdw-0.190.so
+7332eb69e000-7332eb69f000 rw-p 000b3000 08:02 929073                     /usr/lib/x86_64-linux-gnu/libdw-0.190.so
+7332eb69f000-7332eb6a2000 r--p 00000000 08:02 929579                     /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7332eb6a2000-7332eb6ac000 r-xp 00003000 08:02 929579                     /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7332eb6ac000-7332eb6ae000 r--p 0000d000 08:02 929579                     /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7332eb6ae000-7332eb6af000 r--p 0000e000 08:02 929579                     /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7332eb6af000-7332eb6b0000 rw-p 0000f000 08:02 929579                     /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7332eb6b0000-7332eb6ba000 rw-p 00000000 00:00 0 
+7332eb6ba000-7332eb6da000 r--p 00000000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+7332eb6da000-7332eb7e5000 r-xp 00020000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+7332eb7e5000-7332eb819000 r--p 0012b000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+7332eb819000-7332eb81d000 r--p 0015e000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+7332eb81d000-7332eb821000 rw-p 00162000 08:02 917643                     /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+7332eb821000-7332eb822000 rw-p 00000000 00:00 0 
+7332eb822000-7332eb851000 r--p 00000000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7332eb851000-7332eb9b7000 r-xp 0002f000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7332eb9b7000-7332eb9f9000 r--p 00195000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7332eb9f9000-7332eba02000 r--p 001d6000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7332eba02000-7332eba03000 rw-p 001df000 08:02 934167                     /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7332eba03000-7332eba04000 rw-p 00000000 00:00 0 
+7332eba04000-7332eba0d000 r--p 00000000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+7332eba0d000-7332eba25000 r-xp 00009000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+7332eba25000-7332eba2e000 r--p 00021000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+7332eba2e000-7332eba2f000 r--p 0002a000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+7332eba2f000-7332eba30000 rw-p 0002b000 08:02 929284                     /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0
+7332eba30000-7332eba39000 r--p 00000000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7332eba39000-7332eba6d000 r-xp 00009000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7332eba6d000-7332eba7a000 r--p 0003d000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7332eba7a000-7332eba7c000 r--p 00049000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7332eba7c000-7332eba7d000 rw-p 0004b000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7332eba7d000-7332eba7f000 r--p 00000000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7332eba7f000-7332ebaed000 r-xp 00002000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7332ebaed000-7332ebb15000 r--p 00070000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7332ebb15000-7332ebb16000 r--p 00097000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7332ebb16000-7332ebb17000 rw-p 00098000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7332ebb17000-7332ebb27000 r--p 00000000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7332ebb27000-7332ebba6000 r-xp 00010000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7332ebba6000-7332ebbfe000 r--p 0008f000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7332ebbfe000-7332ebbff000 r--p 000e7000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7332ebbff000-7332ebc00000 rw-p 000e8000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7332ebc00000-7332ebcee000 r--p 00000000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+7332ebcee000-7332ebeb1000 r-xp 000ee000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+7332ebeb1000-7332ebf3a000 r--p 002b1000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+7332ebf3a000-7332ebf4c000 r--p 00339000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+7332ebf4c000-7332ebf4d000 rw-p 0034b000 08:02 929250                     /usr/lib/x86_64-linux-gnu/libicui18n.so.74.2
+7332ebf4d000-7332ebf4e000 rw-p 00000000 00:00 0 
+7332ebf51000-7332ebf53000 r--p 00000000 08:02 933471                     /usr/lib/x86_64-linux-gnu/tracker-3.0/libtracker-parser-libicu.so
+7332ebf53000-7332ebf56000 r-xp 00002000 08:02 933471                     /usr/lib/x86_64-linux-gnu/tracker-3.0/libtracker-parser-libicu.so
+7332ebf56000-7332ebf57000 r--p 00005000 08:02 933471                     /usr/lib/x86_64-linux-gnu/tracker-3.0/libtracker-parser-libicu.so
+7332ebf57000-7332ebf58000 r--p 00005000 08:02 933471                     /usr/lib/x86_64-linux-gnu/tracker-3.0/libtracker-parser-libicu.so
+7332ebf58000-7332ebf59000 rw-p 00006000 08:02 933471                     /usr/lib/x86_64-linux-gnu/tracker-3.0/libtracker-parser-libicu.so
+7332ebf59000-7332ebf5e000 rw-p 00000000 00:00 0 
+7332ebf5e000-7332ebf60000 r--p 00000000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7332ebf60000-7332ebf67000 r-xp 00002000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7332ebf67000-7332ebf68000 r--p 00009000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7332ebf68000-7332ebf69000 r--p 0000a000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7332ebf69000-7332ebf6a000 rw-p 0000b000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7332ebf6a000-7332ebf70000 r--p 00000000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7332ebf70000-7332ebf8d000 r-xp 00006000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7332ebf8d000-7332ebf93000 r--p 00023000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7332ebf93000-7332ebf94000 r--p 00029000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7332ebf94000-7332ebf95000 rw-p 0002a000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7332ebf95000-7332ebf97000 rw-p 00000000 00:00 0 
+7332ebf97000-7332ebf99000 r--p 00000000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7332ebf99000-7332ebfab000 r-xp 00002000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7332ebfab000-7332ebfb1000 r--p 00014000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7332ebfb1000-7332ebfb2000 r--p 0001a000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7332ebfb2000-7332ebfb3000 rw-p 0001b000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7332ebfb3000-7332ebfc5000 r--p 00000000 08:02 929100                     /usr/lib/x86_64-linux-gnu/libexif.so.12.3.4
+7332ebfc5000-7332ebfd8000 r-xp 00012000 08:02 929100                     /usr/lib/x86_64-linux-gnu/libexif.so.12.3.4
+7332ebfd8000-7332ebfea000 r--p 00025000 08:02 929100                     /usr/lib/x86_64-linux-gnu/libexif.so.12.3.4
+7332ebfea000-7332ebfff000 r--p 00036000 08:02 929100                     /usr/lib/x86_64-linux-gnu/libexif.so.12.3.4
+7332ebfff000-7332ec000000 rw-p 0004b000 08:02 929100                     /usr/lib/x86_64-linux-gnu/libexif.so.12.3.4
+7332ec000000-7332ec028000 r--p 00000000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7332ec028000-7332ec1b0000 r-xp 00028000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7332ec1b0000-7332ec1ff000 r--p 001b0000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7332ec1ff000-7332ec203000 r--p 001fe000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7332ec203000-7332ec205000 rw-p 00202000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7332ec205000-7332ec212000 rw-p 00000000 00:00 0 
+7332ec213000-7332ec21f000 rw-p 00000000 00:00 0 
+7332ec21f000-7332ec238000 r--p 00000000 08:02 929099                     /usr/lib/x86_64-linux-gnu/libexempi.so.8.1.5
+7332ec238000-7332ec339000 r-xp 00019000 08:02 929099                     /usr/lib/x86_64-linux-gnu/libexempi.so.8.1.5
+7332ec339000-7332ec36b000 r--p 0011a000 08:02 929099                     /usr/lib/x86_64-linux-gnu/libexempi.so.8.1.5
+7332ec36b000-7332ec374000 r--p 0014b000 08:02 929099                     /usr/lib/x86_64-linux-gnu/libexempi.so.8.1.5
+7332ec374000-7332ec375000 rw-p 00154000 08:02 929099                     /usr/lib/x86_64-linux-gnu/libexempi.so.8.1.5
+7332ec375000-7332ec3a8000 rw-p 00000000 00:00 0 
+7332ec3a8000-7332ec3aa000 r--p 00000000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7332ec3aa000-7332ec3ac000 r-xp 00002000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7332ec3ac000-7332ec3ad000 r--p 00004000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7332ec3ad000-7332ec3ae000 r--p 00004000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7332ec3ae000-7332ec3af000 rw-p 00005000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7332ec3af000-7332ec3b6000 r--p 00000000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7332ec3b6000-7332ec3da000 r-xp 00007000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7332ec3da000-7332ec3e3000 r--p 0002b000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7332ec3e3000-7332ec3e9000 r--p 00033000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7332ec3e9000-7332ec3ea000 rw-p 00039000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7332ec3ea000-7332ec41a000 r--p 00000000 08:02 929206                     /usr/lib/x86_64-linux-gnu/libgstreamer-1.0.so.0.2402.0
+7332ec41a000-7332ec4e1000 r-xp 00030000 08:02 929206                     /usr/lib/x86_64-linux-gnu/libgstreamer-1.0.so.0.2402.0
+7332ec4e1000-7332ec533000 r--p 000f7000 08:02 929206                     /usr/lib/x86_64-linux-gnu/libgstreamer-1.0.so.0.2402.0
+7332ec533000-7332ec539000 r--p 00148000 08:02 929206                     /usr/lib/x86_64-linux-gnu/libgstreamer-1.0.so.0.2402.0
+7332ec539000-7332ec53c000 rw-p 0014e000 08:02 929206                     /usr/lib/x86_64-linux-gnu/libgstreamer-1.0.so.0.2402.0
+7332ec53c000-7332ec53d000 rw-p 00000000 00:00 0 
+7332ec53d000-7332ec545000 r--p 00000000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7332ec545000-7332ec554000 r-xp 00008000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7332ec554000-7332ec55b000 r--p 00017000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7332ec55b000-7332ec55d000 r--p 0001d000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7332ec55d000-7332ec55e000 rw-p 0001f000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7332ec55e000-7332ec560000 rw-p 00000000 00:00 0 
+7332ec560000-7332ec57a000 r--p 00000000 08:02 929557                     /usr/lib/x86_64-linux-gnu/libtracker-sparql-3.0.so.0.701.0
+7332ec57a000-7332ec5ff000 r-xp 0001a000 08:02 929557                     /usr/lib/x86_64-linux-gnu/libtracker-sparql-3.0.so.0.701.0
+7332ec5ff000-7332ec635000 r--p 0009f000 08:02 929557                     /usr/lib/x86_64-linux-gnu/libtracker-sparql-3.0.so.0.701.0
+7332ec635000-7332ec643000 r--p 000d5000 08:02 929557                     /usr/lib/x86_64-linux-gnu/libtracker-sparql-3.0.so.0.701.0
+7332ec643000-7332ec644000 rw-p 000e3000 08:02 929557                     /usr/lib/x86_64-linux-gnu/libtracker-sparql-3.0.so.0.701.0
+7332ec644000-7332ec653000 r--p 00000000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7332ec653000-7332ec68a000 r-xp 0000f000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7332ec68a000-7332ec6a3000 r--p 00046000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7332ec6a3000-7332ec6a6000 r--p 0005e000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7332ec6a6000-7332ec6a7000 rw-p 00061000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7332ec6a7000-7332ec6e0000 r--p 00000000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7332ec6e0000-7332ec7f7000 r-xp 00039000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7332ec7f7000-7332ec86c000 r--p 00150000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7332ec86c000-7332ec874000 r--p 001c4000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7332ec874000-7332ec875000 rw-p 001cc000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7332ec875000-7332ec877000 rw-p 00000000 00:00 0 
+7332ec877000-7332ec895000 r--p 00000000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7332ec895000-7332ec935000 r-xp 0001e000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7332ec935000-7332ec9bd000 r--p 000be000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7332ec9bd000-7332ec9be000 r--p 00146000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7332ec9be000-7332ec9bf000 rw-p 00147000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7332ec9bf000-7332ec9c0000 rw-p 00000000 00:00 0 
+7332ec9c1000-7332ec9c3000 r--p 00000000 08:02 528502                     /home/mark/.config/dconf/user
+7332ec9c3000-7332ec9c4000 r--s 00000000 00:46 218                        /run/user/1000/dconf/user
+7332ec9c4000-7332ec9cb000 r--s 00000000 08:02 919962                     /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7332ec9cb000-7332ec9d0000 r--p 00000000 08:02 1090362                    /usr/share/locale-langpack/ru/LC_MESSAGES/tracker3-miners.mo
+7332ec9d0000-7332ec9d5000 r--p 00000000 08:02 933472                     /usr/lib/x86_64-linux-gnu/tracker-miners-3.0/libtracker-extract.so
+7332ec9d5000-7332ec9df000 r-xp 00005000 08:02 933472                     /usr/lib/x86_64-linux-gnu/tracker-miners-3.0/libtracker-extract.so
+7332ec9df000-7332ec9e2000 r--p 0000f000 08:02 933472                     /usr/lib/x86_64-linux-gnu/tracker-miners-3.0/libtracker-extract.so
+7332ec9e2000-7332ec9e3000 r--p 00012000 08:02 933472                     /usr/lib/x86_64-linux-gnu/tracker-miners-3.0/libtracker-extract.so
+7332ec9e3000-7332ec9e4000 rw-p 00013000 08:02 933472                     /usr/lib/x86_64-linux-gnu/tracker-miners-3.0/libtracker-extract.so
+7332ec9e4000-7332ec9e6000 rw-p 00000000 00:00 0 
+7332ec9e6000-7332ec9e8000 r--p 00000000 00:00 0                          [vvar]
+7332ec9e8000-7332ec9ea000 r--p 00000000 00:00 0                          [vvar_vclock]
+7332ec9ea000-7332ec9ec000 r-xp 00000000 00:00 0                          [vdso]
+7332ec9ec000-7332ec9ed000 r--p 00000000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7332ec9ed000-7332eca18000 r-xp 00001000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7332eca18000-7332eca22000 r--p 0002c000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7332eca22000-7332eca24000 r--p 00036000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7332eca24000-7332eca26000 rw-p 00038000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffc54e46000-7ffc54e67000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

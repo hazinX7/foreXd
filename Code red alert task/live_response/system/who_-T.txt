@@ -1,0 +1,3 @@
+mark     ? seat0        Nov 23 12:17 (login screen)
+mark     + tty2         Nov 23 12:17 (tty2)
+mark     + pts/4        Nov 23 14:07

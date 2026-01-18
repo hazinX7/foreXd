@@ -1,0 +1,82 @@
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 running 'init-local' at Wed, 19 Nov 2025 13:06:00 +0000. Up 4.80 seconds.
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 running 'init' at Wed, 19 Nov 2025 13:06:07 +0000. Up 11.92 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |           Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+ci-info: | enp0s3 | True |          10.0.2.15          | 255.255.255.0 | global | 08:00:27:67:98:5e |
+ci-info: | enp0s3 | True | fe80::a00:27ff:fe67:985e/64 |       .       |  link  | 08:00:27:67:98:5e |
+ci-info: |   lo   | True |          127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |           ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+ci-info: +++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++
+ci-info: +-------+-------------+----------+---------------+-----------+-------+
+ci-info: | Route | Destination | Gateway  |    Genmask    | Interface | Flags |
+ci-info: +-------+-------------+----------+---------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 10.0.2.2 |    0.0.0.0    |   enp0s3  |   UG  |
+ci-info: |   1   |   10.0.2.0  | 0.0.0.0  | 255.255.255.0 |   enp0s3  |   U   |
+ci-info: +-------+-------------+----------+---------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |   enp0s3  |   U   |
+ci-info: |   2   |  multicast  |    ::   |   enp0s3  |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Generating public/private rsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_rsa_key
+Your public key has been saved in /etc/ssh/ssh_host_rsa_key.pub
+The key fingerprint is:
+SHA256:GO5DpZQusuq3KjOpBH8kyQ9iCAYYMJbwEtDIK1Po4bE root@mark-VirtualBox
+The key's randomart image is:
++---[RSA 3072]----+
+|#*.              |
+|*Oo    .         |
+|=o*   + .        |
+|*E . + =         |
+|=o* o * S        |
+|oo B +           |
+| oo o o          |
+|*. o   .         |
+|*=o..            |
++----[SHA256]-----+
+Generating public/private ecdsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ecdsa_key
+Your public key has been saved in /etc/ssh/ssh_host_ecdsa_key.pub
+The key fingerprint is:
+SHA256:FVbArkYJPArljYbsEIt0AdQM7q3WSRsXchTMuUNxb6g root@mark-VirtualBox
+The key's randomart image is:
++---[ECDSA 256]---+
+|o==+==+. .+o.    |
+|++o=.B= o...     |
+|+.oo=+o+ =.      |
+|.o..+oo +..      |
+| ..+ E..S.       |
+|  + =   o        |
+| o +   .         |
+|.                |
+|                 |
++----[SHA256]-----+
+Generating public/private ed25519 key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ed25519_key
+Your public key has been saved in /etc/ssh/ssh_host_ed25519_key.pub
+The key fingerprint is:
+SHA256:EGk0ssDgJJrmv2JTCje4DPBEfjvorg93zHtGEeSq0cw root@mark-VirtualBox
+The key's randomart image is:
++--[ED25519 256]--+
+|o+. .o=.         |
+|=.o. ++o         |
+|o=  ..o.         |
+|+ o+....         |
+|.=.oE. .S        |
+|+ **o .          |
+|=+=o+o           |
+|.O....o          |
+|o+=..o           |
++----[SHA256]-----+
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 running 'modules:config' at Wed, 19 Nov 2025 13:06:11 +0000. Up 15.84 seconds.
+Generating locales (this might take a while)...
+  ru_RU.UTF-8... done
+Generation complete.
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 running 'modules:final' at Wed, 19 Nov 2025 13:06:28 +0000. Up 32.33 seconds.
+Cloud-init v. 25.1.4-0ubuntu0~24.04.1 finished at Wed, 19 Nov 2025 13:06:28 +0000. Datasource DataSourceNone.  Up 32.46 seconds

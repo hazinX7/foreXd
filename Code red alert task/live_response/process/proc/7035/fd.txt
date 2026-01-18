@@ -1,0 +1,7 @@
+total 0
+dr-x------ 2 mark mark  4 Nov 23 13:50 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 13:49 ..
+lrwx------ 1 mark mark 64 Nov 23 13:50 0 -> /dev/pts/2
+lrwx------ 1 mark mark 64 Nov 23 13:50 1 -> /dev/pts/2
+lrwx------ 1 mark mark 64 Nov 23 13:50 2 -> /dev/pts/2
+lrwx------ 1 mark mark 64 Nov 23 13:50 255 -> /dev/pts/2

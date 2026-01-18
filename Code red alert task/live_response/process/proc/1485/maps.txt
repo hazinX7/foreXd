@@ -1,0 +1,150 @@
+58e131238000-58e13123f000 r--p 00000000 08:02 933905                     /usr/libexec/upowerd
+58e13123f000-58e131253000 r-xp 00007000 08:02 933905                     /usr/libexec/upowerd
+58e131253000-58e13125a000 r--p 0001b000 08:02 933905                     /usr/libexec/upowerd
+58e13125a000-58e13125c000 r--p 00021000 08:02 933905                     /usr/libexec/upowerd
+58e13125c000-58e13125d000 rw-p 00023000 08:02 933905                     /usr/libexec/upowerd
+58e16e4f3000-58e16e5b5000 rw-p 00000000 00:00 0                          [heap]
+7a7174000000-7a7174021000 rw-p 00000000 00:00 0 
+7a7174021000-7a7178000000 ---p 00000000 00:00 0 
+7a717c000000-7a717c021000 rw-p 00000000 00:00 0 
+7a717c021000-7a7180000000 ---p 00000000 00:00 0 
+7a7180000000-7a7180021000 rw-p 00000000 00:00 0 
+7a7180021000-7a7184000000 ---p 00000000 00:00 0 
+7a7184000000-7a7184021000 rw-p 00000000 00:00 0 
+7a7184021000-7a7188000000 ---p 00000000 00:00 0 
+7a718a7fc000-7a718a7fd000 ---p 00000000 00:00 0 
+7a718a7fd000-7a718affd000 rw-p 00000000 00:00 0 
+7a718affd000-7a718affe000 ---p 00000000 00:00 0 
+7a718affe000-7a718b7fe000 rw-p 00000000 00:00 0 
+7a718b7fe000-7a718b7ff000 ---p 00000000 00:00 0 
+7a718b7ff000-7a718bfff000 rw-p 00000000 00:00 0 
+7a718bfff000-7a718c000000 ---p 00000000 00:00 0 
+7a718c000000-7a718c800000 rw-p 00000000 00:00 0 
+7a718c800000-7a718caec000 r--p 00000000 08:02 972560                     /usr/lib/locale/locale-archive
+7a718cc00000-7a718ccb3000 r--p 00000000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+7a718ccb3000-7a718cfe6000 r-xp 000b3000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+7a718cfe6000-7a718d0b1000 r--p 003e6000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+7a718d0b1000-7a718d10d000 r--p 004b0000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+7a718d10d000-7a718d110000 rw-p 0050c000 08:02 920313                     /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+7a718d110000-7a718d113000 rw-p 00000000 00:00 0 
+7a718d1dd000-7a718d20c000 r--p 00000000 08:02 1090214                    /usr/share/locale-langpack/ru/LC_MESSAGES/libc.mo
+7a718d20c000-7a718d239000 r--p 00000000 08:02 1090101                    /usr/share/locale-langpack/ru/LC_MESSAGES/glib20.mo
+7a718d239000-7a718d23c000 r--p 00000000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a718d23c000-7a718d242000 r-xp 00003000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a718d242000-7a718d244000 r--p 00009000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a718d244000-7a718d245000 r--p 0000b000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a718d245000-7a718d246000 rw-p 0000c000 08:02 929015                     /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7a718d246000-7a718d24d000 r--p 00000000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7a718d24d000-7a718d271000 r-xp 00007000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7a718d271000-7a718d27a000 r--p 0002b000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7a718d27a000-7a718d280000 r--p 00033000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7a718d280000-7a718d281000 rw-p 00039000 08:02 928992                     /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7a718d281000-7a718d283000 r--p 00000000 08:02 929582                     /usr/lib/x86_64-linux-gnu/libusbmuxd-2.0.so.6.0.0
+7a718d283000-7a718d289000 r-xp 00002000 08:02 929582                     /usr/lib/x86_64-linux-gnu/libusbmuxd-2.0.so.6.0.0
+7a718d289000-7a718d28b000 r--p 00008000 08:02 929582                     /usr/lib/x86_64-linux-gnu/libusbmuxd-2.0.so.6.0.0
+7a718d28b000-7a718d28c000 r--p 00009000 08:02 929582                     /usr/lib/x86_64-linux-gnu/libusbmuxd-2.0.so.6.0.0
+7a718d28c000-7a718d28d000 rw-p 0000a000 08:02 929582                     /usr/lib/x86_64-linux-gnu/libusbmuxd-2.0.so.6.0.0
+7a718d28d000-7a718d2ab000 r--p 00000000 08:02 920314                     /usr/lib/x86_64-linux-gnu/libssl.so.3
+7a718d2ab000-7a718d30d000 r-xp 0001e000 08:02 920314                     /usr/lib/x86_64-linux-gnu/libssl.so.3
+7a718d30d000-7a718d329000 r--p 00080000 08:02 920314                     /usr/lib/x86_64-linux-gnu/libssl.so.3
+7a718d329000-7a718d333000 r--p 0009c000 08:02 920314                     /usr/lib/x86_64-linux-gnu/libssl.so.3
+7a718d333000-7a718d337000 rw-p 000a6000 08:02 920314                     /usr/lib/x86_64-linux-gnu/libssl.so.3
+7a718d337000-7a718d33c000 r--p 00000000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a718d33c000-7a718d35e000 r-xp 00005000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a718d35e000-7a718d368000 r--p 00027000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a718d368000-7a718d369000 r--p 00031000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a718d369000-7a718d36a000 rw-p 00032000 08:02 929571                     /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+7a718d36a000-7a718d370000 r--p 00000000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a718d370000-7a718d38d000 r-xp 00006000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a718d38d000-7a718d393000 r--p 00023000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a718d393000-7a718d394000 r--p 00029000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a718d394000-7a718d395000 rw-p 0002a000 08:02 929495                     /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7a718d395000-7a718d397000 rw-p 00000000 00:00 0 
+7a718d397000-7a718d3a0000 r--p 00000000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7a718d3a0000-7a718d3d4000 r-xp 00009000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7a718d3d4000-7a718d3e1000 r--p 0003d000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7a718d3e1000-7a718d3e3000 r--p 00049000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7a718d3e3000-7a718d3e4000 rw-p 0004b000 08:02 929329                     /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7a718d3e4000-7a718d3e6000 r--p 00000000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7a718d3e6000-7a718d3f8000 r-xp 00002000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7a718d3f8000-7a718d3fe000 r--p 00014000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7a718d3fe000-7a718d3ff000 r--p 0001a000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7a718d3ff000-7a718d400000 rw-p 0001b000 08:02 929663                     /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7a718d400000-7a718d428000 r--p 00000000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a718d428000-7a718d5b0000 r-xp 00028000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a718d5b0000-7a718d5ff000 r--p 001b0000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a718d5ff000-7a718d603000 r--p 001fe000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a718d603000-7a718d605000 rw-p 00202000 08:02 919973                     /usr/lib/x86_64-linux-gnu/libc.so.6
+7a718d605000-7a718d612000 rw-p 00000000 00:00 0 
+7a718d616000-7a718d61c000 rw-p 00000000 00:00 0 
+7a718d61c000-7a718d61e000 r--p 00000000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7a718d61e000-7a718d620000 r-xp 00002000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7a718d620000-7a718d621000 r--p 00004000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7a718d621000-7a718d622000 r--p 00004000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7a718d622000-7a718d623000 rw-p 00005000 08:02 929164                     /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+7a718d623000-7a718d625000 r--p 00000000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7a718d625000-7a718d62c000 r-xp 00002000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7a718d62c000-7a718d62d000 r--p 00009000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7a718d62d000-7a718d62e000 r--p 0000a000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7a718d62e000-7a718d62f000 rw-p 0000b000 08:02 929108                     /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7a718d62f000-7a718d631000 rw-p 00000000 00:00 0 
+7a718d631000-7a718d633000 r--p 00000000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a718d633000-7a718d6a1000 r-xp 00002000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a718d6a1000-7a718d6c9000 r--p 00070000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a718d6c9000-7a718d6ca000 r--p 00097000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a718d6ca000-7a718d6cb000 rw-p 00098000 08:02 929424                     /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+7a718d6cb000-7a718d6db000 r--p 00000000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a718d6db000-7a718d75a000 r-xp 00010000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a718d75a000-7a718d7b2000 r--p 0008f000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a718d7b2000-7a718d7b3000 r--p 000e7000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a718d7b3000-7a718d7b4000 rw-p 000e8000 08:02 919976                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7a718d7b4000-7a718d7b7000 r--p 00000000 08:02 929437                     /usr/lib/x86_64-linux-gnu/libplist-2.0.so.4.3.0
+7a718d7b7000-7a718d7c8000 r-xp 00003000 08:02 929437                     /usr/lib/x86_64-linux-gnu/libplist-2.0.so.4.3.0
+7a718d7c8000-7a718d7cc000 r--p 00014000 08:02 929437                     /usr/lib/x86_64-linux-gnu/libplist-2.0.so.4.3.0
+7a718d7cc000-7a718d7cd000 r--p 00017000 08:02 929437                     /usr/lib/x86_64-linux-gnu/libplist-2.0.so.4.3.0
+7a718d7cd000-7a718d7ce000 rw-p 00018000 08:02 929437                     /usr/lib/x86_64-linux-gnu/libplist-2.0.so.4.3.0
+7a718d7ce000-7a718d7d6000 r--p 00000000 08:02 929261                     /usr/lib/x86_64-linux-gnu/libimobiledevice-1.0.so.6.0.0
+7a718d7d6000-7a718d7ec000 r-xp 00008000 08:02 929261                     /usr/lib/x86_64-linux-gnu/libimobiledevice-1.0.so.6.0.0
+7a718d7ec000-7a718d7f2000 r--p 0001e000 08:02 929261                     /usr/lib/x86_64-linux-gnu/libimobiledevice-1.0.so.6.0.0
+7a718d7f2000-7a718d7f3000 r--p 00024000 08:02 929261                     /usr/lib/x86_64-linux-gnu/libimobiledevice-1.0.so.6.0.0
+7a718d7f3000-7a718d7f4000 rw-p 00025000 08:02 929261                     /usr/lib/x86_64-linux-gnu/libimobiledevice-1.0.so.6.0.0
+7a718d7f4000-7a718d7f6000 rw-p 00000000 00:00 0 
+7a718d7f6000-7a718d7fa000 r--p 00000000 08:02 929220                     /usr/lib/x86_64-linux-gnu/libgudev-1.0.so.0.3.0
+7a718d7fa000-7a718d7ff000 r-xp 00004000 08:02 929220                     /usr/lib/x86_64-linux-gnu/libgudev-1.0.so.0.3.0
+7a718d7ff000-7a718d801000 r--p 00009000 08:02 929220                     /usr/lib/x86_64-linux-gnu/libgudev-1.0.so.0.3.0
+7a718d801000-7a718d802000 r--p 0000b000 08:02 929220                     /usr/lib/x86_64-linux-gnu/libgudev-1.0.so.0.3.0
+7a718d802000-7a718d803000 rw-p 0000c000 08:02 929220                     /usr/lib/x86_64-linux-gnu/libgudev-1.0.so.0.3.0
+7a718d803000-7a718d83c000 r--p 00000000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7a718d83c000-7a718d953000 r-xp 00039000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7a718d953000-7a718d9c8000 r--p 00150000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7a718d9c8000-7a718d9d0000 r--p 001c4000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7a718d9d0000-7a718d9d1000 rw-p 001cc000 08:02 929157                     /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+7a718d9d1000-7a718d9d3000 rw-p 00000000 00:00 0 
+7a718d9d3000-7a718d9e2000 r--p 00000000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7a718d9e2000-7a718da19000 r-xp 0000f000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7a718da19000-7a718da32000 r--p 00046000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7a718da32000-7a718da35000 r--p 0005e000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7a718da35000-7a718da36000 rw-p 00061000 08:02 929179                     /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+7a718da36000-7a718da54000 r--p 00000000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a718da54000-7a718daf4000 r-xp 0001e000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a718daf4000-7a718db7c000 r--p 000be000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a718db7c000-7a718db7d000 r--p 00146000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a718db7d000-7a718db7e000 rw-p 00147000 08:02 929161                     /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+7a718db7e000-7a718db7f000 rw-p 00000000 00:00 0 
+7a718db7f000-7a718db87000 r--p 00000000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7a718db87000-7a718db96000 r-xp 00008000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7a718db96000-7a718db9d000 r--p 00017000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7a718db9d000-7a718db9f000 r--p 0001d000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7a718db9f000-7a718dba0000 rw-p 0001f000 08:02 929580                     /usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0
+7a718dba9000-7a718dbb0000 r--s 00000000 08:02 919962                     /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7a718dbb0000-7a718dbb2000 rw-p 00000000 00:00 0 
+7a718dbb2000-7a718dbb4000 r--p 00000000 00:00 0                          [vvar]
+7a718dbb4000-7a718dbb6000 r--p 00000000 00:00 0                          [vvar_vclock]
+7a718dbb6000-7a718dbb8000 r-xp 00000000 00:00 0                          [vdso]
+7a718dbb8000-7a718dbb9000 r--p 00000000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7a718dbb9000-7a718dbe4000 r-xp 00001000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7a718dbe4000-7a718dbee000 r--p 0002c000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7a718dbee000-7a718dbf0000 r--p 00036000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7a718dbf0000-7a718dbf2000 rw-p 00038000 08:02 919970                     /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffc55cdd000-7ffc55cfe000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

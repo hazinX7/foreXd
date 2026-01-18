@@ -1,0 +1,19 @@
+# This is private data. Do not parse.
+UID=0
+USER=root
+ACTIVE=1
+IS_DISPLAY=0
+STATE=active
+REMOTE=0
+TYPE=unspecified
+ORIGINAL_TYPE=unspecified
+CLASS=background
+SCOPE=session-27.scope
+FIFO=/run/systemd/sessions/27.ref
+REMOTE_USER=root
+SERVICE=sudo-i
+POSITION=0
+LEADER=5869
+AUDIT=27
+REALTIME=1763893211265079
+MONOTONIC=3811335337

@@ -1,0 +1,1 @@
+devtmpfs / devtmpfs rw,nosuid,noexec,relatime,size=1990060k,nr_inodes=497515,mode=755,inode64 0 0

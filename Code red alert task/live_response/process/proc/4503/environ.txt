@@ -1,0 +1,15 @@
+USER=root
+APACHE_RUN_DIR=/var/run/apache2
+SYSTEMD_EXEC_PID=1149
+APACHE_PID_FILE=/var/run/apache2/apache2.pid
+JOURNAL_STREAM=9:11389
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/apache2.service/memory.pressure
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+INVOCATION_ID=eee790b5b7304babab2e8aaba3c56ada
+APACHE_LOCK_DIR=/var/lock/apache2
+LANG=C
+APACHE_RUN_USER=www-data
+APACHE_RUN_GROUP=www-data
+APACHE_LOG_DIR=/var/log/apache2
+PWD=/
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

@@ -1,0 +1,57 @@
+5e0b7c6a0000-5e0b7c70f000 r--p 00000000 07:05 44                         /snap/firefox/7355/usr/lib/firefox/crashhelper
+5e0b7c70f000-5e0b7c86d000 r-xp 0006e000 07:05 44                         /snap/firefox/7355/usr/lib/firefox/crashhelper
+5e0b7c86d000-5e0b7c879000 r--p 001cb000 07:05 44                         /snap/firefox/7355/usr/lib/firefox/crashhelper
+5e0b7c879000-5e0b7c87a000 rw-p 001d6000 07:05 44                         /snap/firefox/7355/usr/lib/firefox/crashhelper
+5e0b7c87a000-5e0b7c87d000 rw-p 00000000 00:00 0 
+764bc3eff000-764bc3f00000 ---p 00000000 00:00 0 
+764bc3f00000-764bc4700000 rw-p 00000000 00:00 0 
+764bc4700000-764bc4702000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+764bc4702000-764bc4703000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+764bc4703000-764bc47ff000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+764bc47ff000-764bc4800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+764bc4800000-764c047ff000 ---p 00000000 00:00 0 
+764c047ff000-764c04800000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+764c04800000-764c04801000 rw-p 00000000 00:00 0                          [anon:jemalloc]
+764c04801000-764c04900000 ---p 00000000 00:00 0                          [anon:jemalloc-decommitted]
+764c04922000-764c04925000 rw-p 00000000 00:00 0 
+764c04925000-764c0494d000 r--p 00000000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+764c0494d000-764c04ae2000 r-xp 00028000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+764c04ae2000-764c04b3a000 r--p 001bd000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+764c04b3a000-764c04b3b000 ---p 00215000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+764c04b3b000-764c04b3f000 r--p 00215000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+764c04b3f000-764c04b41000 rw-p 00219000 07:01 7511                       /usr/lib/x86_64-linux-gnu/libc.so.6
+764c04b41000-764c04b50000 rw-p 00000000 00:00 0 
+764c04b50000-764c04b53000 r--p 00000000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+764c04b53000-764c04b6a000 r-xp 00003000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+764c04b6a000-764c04b6e000 r--p 0001a000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+764c04b6e000-764c04b6f000 r--p 0001d000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+764c04b6f000-764c04b70000 rw-p 0001e000 07:01 7561                       /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+764c04b70000-764c04b7e000 r--p 00000000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+764c04b7e000-764c04bfa000 r-xp 0000e000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+764c04bfa000-764c04c55000 r--p 0008a000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+764c04c55000-764c04c56000 r--p 000e4000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+764c04c56000-764c04c57000 rw-p 000e5000 07:01 7612                       /usr/lib/x86_64-linux-gnu/libm.so.6
+764c04c63000-764c04c67000 rw-p 00000000 00:00 0 
+764c04c67000-764c04d01000 r--p 00000000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+764c04d01000-764c04e12000 r-xp 0009a000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+764c04e12000-764c04e81000 r--p 001ab000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+764c04e81000-764c04e82000 ---p 0021a000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+764c04e82000-764c04e8d000 r--p 0021a000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+764c04e8d000-764c04e90000 rw-p 00225000 07:06 11130                      /snap/firefox/7355/gnome-platform/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+764c04e90000-764c04e93000 rw-p 00000000 00:00 0 
+764c04e93000-764c04e94000 r--p 00000000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+764c04e94000-764c04e95000 r-xp 00001000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+764c04e95000-764c04e96000 r--p 00002000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+764c04e96000-764c04e97000 r--p 00002000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+764c04e97000-764c04e98000 rw-p 00003000 07:06 300                        /snap/firefox/7355/gnome-platform/lib/x86_64-linux-gnu/bindtextdomain.so
+764c04e98000-764c04e9a000 rw-p 00000000 00:00 0 
+764c04e9a000-764c04e9c000 r--p 00000000 00:00 0                          [vvar]
+764c04e9c000-764c04e9e000 r--p 00000000 00:00 0                          [vvar_vclock]
+764c04e9e000-764c04ea0000 r-xp 00000000 00:00 0                          [vdso]
+764c04ea0000-764c04ea2000 r--p 00000000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+764c04ea2000-764c04ecc000 r-xp 00002000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+764c04ecc000-764c04ed7000 r--p 0002c000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+764c04ed8000-764c04eda000 r--p 00037000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+764c04eda000-764c04edc000 rw-p 00039000 07:01 7482                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffe3a31a000-7ffe3a33c000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

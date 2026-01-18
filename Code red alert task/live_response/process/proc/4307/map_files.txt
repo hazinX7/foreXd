@@ -1,0 +1,18 @@
+total 0
+dr-x------ 2 mark mark  0 Nov 23 14:07 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:27 ..
+lr-------- 1 mark mark 64 Nov 23 14:07 5c741ed56000-5c741ed5a000 -> /usr/bin/dash
+lr-------- 1 mark mark 64 Nov 23 14:07 5c741ed5a000-5c741ed6f000 -> /usr/bin/dash
+lr-------- 1 mark mark 64 Nov 23 14:07 5c741ed6f000-5c741ed74000 -> /usr/bin/dash
+lr-------- 1 mark mark 64 Nov 23 14:07 5c741ed74000-5c741ed76000 -> /usr/bin/dash
+lr-------- 1 mark mark 64 Nov 23 14:07 5c741ed76000-5c741ed77000 -> /usr/bin/dash
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff64600000-73ff64628000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff64628000-73ff647b0000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff647b0000-73ff647ff000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff647ff000-73ff64803000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff64803000-73ff64805000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff64a1c000-73ff64a1d000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff64a1d000-73ff64a48000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff64a48000-73ff64a52000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff64a52000-73ff64a54000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 73ff64a54000-73ff64a56000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2

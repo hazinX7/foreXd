@@ -1,0 +1,10 @@
+LANG=ru_RU.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+USER=cups-browsed
+LOGNAME=cups-browsed
+HOME=/nonexistent
+INVOCATION_ID=eca4a9b1fec04d178cde34dbd8b8d751
+JOURNAL_STREAM=9:12057
+SYSTEMD_EXEC_PID=1321
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/system.slice/cups-browsed.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=

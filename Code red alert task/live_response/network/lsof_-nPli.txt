@@ -1,0 +1,41 @@
+COMMAND    PID     USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+systemd-r  418      991   14u  IPv4   6774      0t0  UDP 127.0.0.53:53 
+systemd-r  418      991   15u  IPv4   6775      0t0  TCP 127.0.0.53:53 (LISTEN)
+systemd-r  418      991   16u  IPv4   6776      0t0  UDP 127.0.0.54:53 
+systemd-r  418      991   17u  IPv4   6777      0t0  TCP 127.0.0.54:53 (LISTEN)
+avahi-dae  681      108   12u  IPv4   8580      0t0  UDP *:5353 
+avahi-dae  681      108   13u  IPv6   8581      0t0  UDP *:5353 
+avahi-dae  681      108   14u  IPv4   8582      0t0  UDP *:56852 
+avahi-dae  681      108   15u  IPv6   8583      0t0  UDP *:59008 
+NetworkMa  797        0   32u  IPv4  11526      0t0  UDP 10.0.2.4:68->10.0.2.3:67 
+NetworkMa  797        0   37u  IPv4  11999      0t0  UDP 192.168.0.101:68->192.168.0.1:67 
+cupsd     1150        0    6u  IPv6   9095      0t0  TCP [::1]:631 (LISTEN)
+cupsd     1150        0    7u  IPv4   9096      0t0  TCP 127.0.0.1:631 (LISTEN)
+apache2   1202        0    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+apache2   1237       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+firefox   2906     1000   44u  IPv4  28965      0t0  TCP 192.168.0.101:39384->172.64.41.4:443 (ESTABLISHED)
+firefox   2906     1000   60u  IPv4  44202      0t0  TCP 192.168.0.101:39532->34.107.243.93:443 (ESTABLISHED)
+apache2   4503       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+apache2   4504       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+apache2   4506       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+apache2   4509       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+apache2   4513       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+apache2   4515       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+apache2   4518       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+apache2   4521       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+apache2   4522       33    3u  IPv4  11533      0t0  TCP 192.168.54.101:80 (LISTEN)
+bash      4783        0    0u  IPv4  29094      0t0  TCP 192.168.54.101:37912->192.168.54.102:4444 (ESTABLISHED)
+bash      4783        0    1u  IPv4  29094      0t0  TCP 192.168.54.101:37912->192.168.54.102:4444 (ESTABLISHED)
+bash      4783        0    2u  IPv4  29094      0t0  TCP 192.168.54.101:37912->192.168.54.102:4444 (ESTABLISHED)
+bash      4783        0  255u  IPv4  29094      0t0  TCP 192.168.54.101:37912->192.168.54.102:4444 (ESTABLISHED)
+bash      5862        0    0u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+bash      5862        0    1u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+bash      5862        0    2u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+bash      5862        0  255u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+sudo      5869        0    0u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+sudo      5869        0    1u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+sudo      5869        0    2u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+bash      5893        0    0u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+bash      5893        0    1u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+bash      5893        0    2u  IPv4  35137      0t0  TCP 192.168.54.101:37756->192.168.54.102:4444 (ESTABLISHED)
+iwlwifi-5 6465        0    3u  IPv4  37304      0t0  TCP 192.168.54.101:38358->192.168.54.102:443 (ESTABLISHED)

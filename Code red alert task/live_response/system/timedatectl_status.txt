@@ -1,0 +1,7 @@
+               Local time: Sun 2025-11-23 14:09:38 MSK
+           Universal time: Sun 2025-11-23 11:09:38 UTC
+                 RTC time: Thu 2025-11-20 01:03:04
+                Time zone: Europe/Moscow (MSK, +0300)
+System clock synchronized: no
+              NTP service: inactive
+          RTC in local TZ: no

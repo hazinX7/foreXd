@@ -1,0 +1,9 @@
+total 0
+drwxr-xr-x 2 root root    0 Nov 23 14:09 .
+drwxr-xr-x 3 root root    0 Nov 23 14:09 ..
+-r-------- 1 root root 4096 Nov 23 14:09 bm_check_disable
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 ignore_ppc
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 ignore_tpc
+-rw-r--r-- 1 root root 4096 Nov 23 14:09 latency_factor
+-r-------- 1 root root 4096 Nov 23 14:09 max_cstate
+-r-------- 1 root root 4096 Nov 23 14:09 nocst

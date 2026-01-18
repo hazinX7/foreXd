@@ -1,0 +1,26 @@
+total 0
+dr-x------ 2 mark mark  0 Nov 23 14:07 .
+dr-xr-xr-x 9 mark mark  0 Nov 23 12:17 ..
+lr-------- 1 mark mark 64 Nov 23 14:07 5b6b5fa6e000-5b6b5fa9e000 -> /usr/bin/bash
+lr-------- 1 mark mark 64 Nov 23 14:07 5b6b5fa9e000-5b6b5fb8d000 -> /usr/bin/bash
+lr-------- 1 mark mark 64 Nov 23 14:07 5b6b5fb8d000-5b6b5fbc2000 -> /usr/bin/bash
+lr-------- 1 mark mark 64 Nov 23 14:07 5b6b5fbc2000-5b6b5fbc6000 -> /usr/bin/bash
+lr-------- 1 mark mark 64 Nov 23 14:07 5b6b5fbc6000-5b6b5fbcf000 -> /usr/bin/bash
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f000000-70a58f2ec000 -> /usr/lib/locale/locale-archive
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f400000-70a58f428000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f428000-70a58f5b0000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f5b0000-70a58f5ff000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f5ff000-70a58f603000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f603000-70a58f605000 -> /usr/lib/x86_64-linux-gnu/libc.so.6
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f79d000-70a58f7bd000 -> /usr/share/locale-langpack/ru/LC_MESSAGES/bash.mo
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f7c0000-70a58f7ce000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f7ce000-70a58f7e1000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f7e1000-70a58f7ef000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f7ef000-70a58f7f3000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f7f3000-70a58f7f4000 -> /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f7fd000-70a58f804000 -> /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f80c000-70a58f80d000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f80d000-70a58f838000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f838000-70a58f842000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f842000-70a58f844000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+lr-------- 1 mark mark 64 Nov 23 14:07 70a58f844000-70a58f846000 -> /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
